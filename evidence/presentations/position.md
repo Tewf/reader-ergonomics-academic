@@ -14,7 +14,7 @@ This file says what is known, what is not, and what this repository adds about p
 - Experts agree on talk advice, but experiments are scarce (Blome 2017).
 
 - Key points shown in step with the voice help over the whole slide at once, in small recorded studies (Liu 2022, Ito 2026).
-- Live coding teaches no more than static code, though it engages more (Shah 2023, Shah 2025).
+- Live coding taught no more than static code in one controlled study (Shah 2023); active live coding taught no more than traditional live coding but held engagement higher (Shah 2025).
 - Video adds learning when it is added, less when it replaces teaching (Noetel 2021).
 - Pleasant colours and faces together give a small gain (Brom 2018); colour coding that links text and picture helps (Ozcelik 2009).
 - Rainbow-like maps distort data and defeat colour-vision deficiency (Crameri 2020).
@@ -44,7 +44,7 @@ This file says what is known, what is not, and what this repository adds about p
 - Replacing slides with a memo (Bezos 2018). It removes the paced-medium problem by changing the medium, which the strand-1 results would predict to help; no outcome data.
 - The glance test: three seconds, with no evidence on the page (Duarte 2026, 5 of 20, example only).
 - Designer layouts at scale (Microsoft 2019): adoption without a comprehension study found.
-- Live demos and live coding: recommended as best practice (Nederbragt 2016, LornaJane 2017) while the two controlled studies found no learning gain (Shah 2023, Shah 2025).
+- Live demos and live coding: recommended as best practice (Nederbragt 2016, LornaJane 2017) while the controlled studies found no learning gain over static code (Shah 2023). Active live coding did not beat traditional (Shah 2025).
 - The 6-minute chunk for video comes from an observational study of watching time (Guo 2014), not from learning.
 - Colour wheels and meaning lists (Ethos3 2026, 2.5 of 20, example only) teach complementary pairs as strong, while hue-pair preference research finds contrasting pairs less harmonious (Schloss 2011).
 

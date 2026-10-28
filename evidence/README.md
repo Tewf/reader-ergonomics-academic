@@ -38,5 +38,9 @@ and its sibling (38 of 175):
 
 ## Audit
 
-Not audited yet. Every DOI was resolved against Crossref when the review was written; the numbers are checked against
-their primary sources before this branch is merged, as in reader-ergonomics.
+Every DOI was resolved against Crossref when the review was written.
+
+On 2026-10-28 every numeric line of the
+presentations review, Q7 and Q8 included, was checked against its primary source. The 79 lines were 54 correct, 9 imprecise,
+10 unverifiable, 5 repeats and 1 wrong. Every wrong, imprecise or unverifiable line was corrected, narrowed or marked.
+Claims without a number were not audited this way.

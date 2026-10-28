@@ -25,10 +25,10 @@ Steps: [frame](frame.md) · [protocol](protocol.md) · [sources](sources.md) · 
 | Talk advice from experts agrees across 91 papers, while experiments are scarce | measured, descriptive | review.md 0 |
 | Accessibility guides ask speakers to say slide text aloud, which is untested against the redundancy result | convention, untested | review.md 6 |
 | Key points shown in step with the narration beat the whole slide at once in two small recorded studies (n = 99, n = 40) | supported with caveat | review.md 7 |
-| Live coding teaches no more than static code in two controlled studies (about 530 students in one) | supported with caveat | review.md 7 |
+| Live coding taught no more than static code in one controlled study; active live coding taught no more than traditional live coding (about 530 students) | supported with caveat | review.md 7 |
 | Video added to teaching has a larger effect (g = 0.80) than video replacing it (g = 0.28) | measured (105 trials, abstract) | review.md 0, 7 |
 | Animation against slides in explainer videos: engagement and liking differ, comprehension mostly does not | supported with caveat (small studies) | review.md 7 |
-| Pleasant colours with faces give a small gain on retention and transfer; colour alone is 5 of 33 samples | measured (meta-analysis, 33 samples, N = 2,924) | review.md 8 |
+| Pleasant colours with faces give a small gain on retention and transfer; colour alone is 5 of 33 samples (manuscript, not rechecked) | measured (meta-analysis, 33 samples, N = 2,924) | review.md 8 |
 | Colour coding of text and picture raised retention and transfer in one eye-tracking experiment (n = 52) | supported with caveat | review.md 8 |
 | Rainbow-like colour maps distort data and defeat colour-vision deficiency; a model finds some uses | convention, argued; one counter-study | review.md 8, against.md |
 | Dark text on a light ground was most legible, projected too; advice for dark rooms says the reverse | measured (three experiments) against convention | review.md 8 |

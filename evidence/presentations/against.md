@@ -56,13 +56,13 @@ This file gathers the evidence against the presentation rules: null results, dis
 - Learner control beat system pacing on transfer (Tabbers 2009), but cost time; a speaker-paced build is the system-paced arm.
 - A whiteboard animation raised satisfaction and not knowledge, and its authors suspect seductive details (Meij 2021); engaged viewers comprehended slightly less (Li 2023, secondary).
 - A slides-only video matched an animation, at lower cost (Pichler 2023).
-- Watching time is not learning (Guo 2014); its 6-minute rule comes from engagement logs in maths and science MOOCs.
-- Live coding did not beat static code on learning in two controlled studies (Shah 2023, Shah 2025); the engagement gain is not a learning gain.
+- Watching time is not learning (Guo 2014); its 6-minute rule comes from engagement logs in four edX courses (computer science, statistics, AI, chemistry).
+- Live coding did not beat static code on learning in one controlled study (Shah 2023). Active live coding did not beat traditional live coding (Shah 2025). The engagement gain is not a learning gain.
 - Accessibility guides ask for no animation (Rector 2019); the WCAG rule is only to allow pausing (W3C 2023b).
 
 ## Against colour claims
 
-- Emotional design: the colour-only subgroup is 5 of 33 samples (Brom 2018); studies disagree on learning and agree on motivation (Mutlu-Bayraktar 2024); designs are too varied to compare (Desiron 2026). Wong 2020's updated values are a little smaller than Brom 2018's (secondary).
+- Emotional design: the colour-only subgroup is 5 of 33 samples (Brom 2018; manuscript, not rechecked); studies disagree on learning and agree on motivation (Mutlu-Bayraktar 2024); designs are too varied to compare (Desiron 2026). Wong 2020's updated values are a little smaller than Brom 2018's.
 - Colour as retrieval cue did not help (Meusel 2024); hue-signalled sections helped one test and not another (Clariana 2009).
 - Rainbow maps: a model found they can help some inference tasks (Reda 2021, secondary), so the ban is a default, not a law.
 - The rule of dark ground for projection has no support in the one experiment found (Greco 2008, secondary).

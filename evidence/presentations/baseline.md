@@ -55,7 +55,7 @@ Grades: **convention** means a number agreed by a body or by practice, **measure
 | No rainbow or jet map for ordered data; a perceptually uniform map instead | Crameri 2020; Borland 2007; Matplotlib 2026 | convention, argued; one model finds a use for rainbow (Reda 2021) |
 | A palette of at most 4 to 6 colours, one colour per category, in a fixed order | ScotGov 2024; Bramble 2026 (three colours) | convention |
 | Dark text on a light ground by default | Greco 2008; Beamer 2026 | measured (three experiments); advice for dark rooms differs |
-| No movement that starts alone and lasts over 5 seconds without a way to stop it | W3C 2023b | convention |
+| No movement that starts alone, lasts over 5 seconds and sits beside other content without a way to stop it | W3C 2023b | convention |
 | No transition other than none or one plain kind used throughout | Beamer 2026 | convention, untested |
 
 ## Checklist (rules a person judges)
@@ -71,5 +71,5 @@ Grades: **convention** means a number agreed by a body or by practice, **measure
 9. Describe a diagram aloud when its content is not in your words (Rector 2019); untested against the redundancy result (Adesope 2012).
 10. Show key points in step with what you say, and animate a change, not decoration (Liu 2022, Ito 2026; Beamer 2026).
 11. Check the deck for colour-vision deficiency with a simulator or a greyscale view (ACM 2026, Microsoft 2026).
-12. Demo only what shows moving parts; script it, and keep a recording ready (Nederbragt 2016; LornaJane 2017, example only). Live coding has not been shown to teach more than static code (Shah 2025).
+12. Demo only what shows moving parts; script it, and keep a recording ready (Nederbragt 2016; LornaJane 2017, example only). Live coding has not been shown to teach more than static code (Shah 2023).
 13. Keep embedded clips short and put an educational one in the middle (Ljubojevic 2014); test the file on the room computer.

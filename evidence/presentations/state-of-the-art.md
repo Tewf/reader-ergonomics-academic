@@ -21,10 +21,10 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 | Q7 Build steps that follow the voice | Liu 2022; Ito 2026 | randomised, n = 99; n = 40 with eye tracking, d = 0.49; both recorded narration |
 | Q7 Who sets the pace | Tabbers 2009 | learner-paced beat system-paced on transfer, at a large cost in time |
 | Q7 Does video help | Noetel 2021 | 105 randomised trials, g = 0.28 as a substitute and 0.80 as an addition |
-| Q7 Live coding against static code | Shah 2025; Shah 2023 | two-section studies of about 530 and of a remote course, no learning difference |
+| Q7 Live coding against static code | Shah 2023; Shah 2025 | static code: two remote sections, no learning difference (Shah 2023); active against traditional live coding: about 530 students, no learning difference (Shah 2025) |
 | Q7 Animated explainer against slides | Pichler 2023; Li 2023 | groups of 29 to 42; n = 290; engagement differs, comprehension mostly does not |
 | Q8 Colour as a signal | Ozcelik 2009 | one eye-tracking experiment, n = 52 |
-| Q8 Pleasant colours and faces | Brom 2018; Wong 2020 | meta-analyses, 33 samples and 28 articles, d about 0.3 to 0.4 on retention and transfer |
+| Q8 Pleasant colours and faces | Brom 2018; Wong 2020 | meta-analyses, 33 samples and 28 articles, d+ 0.33 to 0.39 (Brom 2018), g+ 0.27 to 0.35 (Wong 2020) on retention and transfer |
 | Q8 Colour maps for data | Crameri 2020; Liu 2018 | an argued guide with a distortion measure; a user study of colormaps |
 | Q8 Light or dark when projected | Greco 2008 | three experiments, dark text on light best |
 | Q8 Harmony | Schloss 2011 | preference experiments only |
@@ -64,6 +64,6 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 - The 20 by 20 and 15-second pacing rules have three small outcome studies (Liao 2020, Warmuth 2021, Bakcek 2020); the one randomised trial found no test-score gain. None tests Ignite's 15 seconds.
 - No study was found of accessibility advice (say every slide word aloud) against the redundancy result for blind or low-vision listeners.
 - No study was found of slide transitions, of an embedded clip in a live conference talk, of a live demo, or of build steps in front of a live audience.
-- No live-coding study found a learning gain over static code (Shah 2023, Shah 2025).
-- Colour alone, without faces or shape, is 5 samples of 33 in the emotional-design meta-analysis (Brom 2018); no isolated effect is established.
+- No live-coding study found a learning gain over static code (Shah 2023); active live coding did not beat traditional live coding (Shah 2025).
+- Colour alone, without faces or shape, is 5 samples of 33 in the emotional-design meta-analysis (Brom 2018; manuscript, not rechecked); no isolated effect is established.
 - No study of colour harmony and learning, of hue meaning on slides, or of projected colour at room distance was found.

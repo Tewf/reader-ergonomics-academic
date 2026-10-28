@@ -106,7 +106,7 @@ Extracted per source: the rule or fact, its question, the stated limits. Synthes
 
 ## 10. Limits
 
-- One reviewer, no inter-rater agreement; scores are judgement calls near the threshold.
+- A second rater re-scored 5 of this topic's grey sources blind ([method](../README.md#method)): 4 of 5 decisions agree. The Stanford proofwriting checklist scores 9.5 and 14.5, since the raters judged novelty against different things; it stays an example of practice.
 - Search engines personalise and change; the Tao pages show no date.
 - OpenAlex counts are missing; the substitute counts are not comparable with them.
 - Higham 2020 and Serre 2003 were not read, only described by secondary sources.

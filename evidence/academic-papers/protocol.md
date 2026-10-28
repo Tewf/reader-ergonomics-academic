@@ -178,7 +178,7 @@ Twenty criteria, each scored 1, 0.5 or 0; the eight subtotals are in sources.md.
 
 ## 10. Limits
 
-- One reviewer, so no inter-rater agreement.
+- A second rater re-scored 7 of this topic's grey sources blind ([method](../README.md#method)): all 7 decisions agree. Medawar 1963 is the closest case (11.5 and 10), scored on its catalogue entry by both.
 - Search engines personalise and change; the tool returns summaries, so every included source was fetched and read, or its abstract was.
 - Pages blocked or redirected to a login were not read: the COPE statement, Springer Nature's AI policy, the ACM badging policy, the PNAS MDAR paper.
 - The OpenAlex counts are missing (section 4).

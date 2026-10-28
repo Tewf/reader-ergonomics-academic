@@ -1,0 +1,152 @@
+% Shape: mathematical research article on the AMS article class.
+% Evidence for each part: ../../mathematical-writing/ (keys in references.md there).
+% Compiles with pdflatex. Packages: amsart, amsmath, amssymb, amsthm only.
+\documentclass{amsart}
+\usepackage{amsmath,amssymb}
+\usepackage{amsthm} % amsart already contains amsthm; the line documents the dependency
+
+% Theorem environments in the three AMS styles (AMS 2017).
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+% One line naming the results a proof depends on (blueprint practice, leanblueprint).
+\newcommand{\uses}[1]{\par\noindent{\normalfont\small\textsc{Uses:} #1.}\par\smallskip}
+
+\begin{document}
+
+\title[Short running title]{A title that names the result}
+\author{Author Name}
+\address{Department, Institution, City, Country}
+\email{author@example.org}
+
+% Put the abstract before \maketitle so amsart sets it in its proper place (AMS 2017).
+\begin{abstract}
+One to three sentences: what is proved, under which hypotheses, and why it matters.
+No citations and no macros of your own; about 150 words for a short paper, 300 for a long one.
+On arXiv the abstract must stay under 1920 characters.
+\end{abstract}
+
+% At least one primary code is required; replace 00-XX by full codes from msc2020.org.
+\subjclass[2020]{Primary 00-XX; Secondary 00-XX}
+\keywords{first keyword, second keyword}
+
+\maketitle
+
+\section{Introduction}\label{sec:intro}
+
+% Paragraph 1: the result in plain words, before any technical definition (Krantz 2017).
+State the main result in one or two plain sentences that a reader outside the
+subfield can follow.
+
+\subsection{Main results}\label{subsec:main}
+% The theorem comes first and stands alone: one sentence, all hypotheses inside it
+% (Halmos 1970, Knuth 1989). If it is too technical here, state an informal version
+% labelled as informal and point to the precise one (Tao intro).
+\begin{theorem}\label{thm:main}
+Let $X$ be an object of the kind studied here. If $X$ satisfies condition $(\ast)$,
+then $X$ has property $P$.
+\end{theorem}
+
+\begin{corollary}\label{cor:main}
+A consequence of Theorem~\ref{thm:main} that a reader in a neighbouring field would use.
+\end{corollary}
+
+\subsection{Relation to previous work}\label{subsec:previous}
+% What was known, what is new, and why no hypothesis can be dropped (Tao intro).
+Say what was known before, in one sentence per result, with citations~\cite{ref:first}.
+Say what this paper adds. Give an example showing that condition $(\ast)$ cannot be removed.
+
+\subsection{Idea of the proof}\label{subsec:idea}
+% The milestones and how they combine: the reader's map of the proof (Krantz 2017, Tao organise).
+The proof has three steps. Proposition~\ref{prop:reduction} reduces Theorem~\ref{thm:main}
+to a statement about a simpler object. Lemma~\ref{lem:first} proves that statement for a
+special case, and Lemma~\ref{lem:second} extends it. The new difficulty sits in
+Lemma~\ref{lem:second}.
+
+\subsection{Organisation}\label{subsec:organisation}
+Section~\ref{sec:prelim} fixes notation and recalls known results.
+Section~\ref{sec:results} states the milestones and derives Theorem~\ref{thm:main} from them.
+Section~\ref{sec:proofs} proves the milestones.
+
+\section{Preliminaries and notation}\label{sec:prelim}
+% Notation is fixed once, here, so every later statement can stand alone (Kuteeva & McGrath 2015).
+Throughout, $X$ denotes an object of the kind studied here and $n$ a positive integer.
+
+\begin{definition}\label{def:object}
+An object $X$ satisfies \emph{condition $(\ast)$} if it has the defining property.
+\end{definition}
+
+\begin{theorem}[Known result~\cite{ref:second}]\label{thm:known}
+Quote the known theorem exactly as it is used, with its source.
+\end{theorem}
+
+\section{Results}\label{sec:results}
+% Milestones first, proofs later: the reader sees the whole argument before the details
+% (Krantz 2017, Tao organise). Each statement says what it uses.
+
+\begin{proposition}\label{prop:reduction}
+If Lemmas~\ref{lem:first} and~\ref{lem:second} hold, then every $X$ satisfying
+condition $(\ast)$ has property $P$.
+\end{proposition}
+
+\begin{lemma}\label{lem:first}
+The special case of property $P$ holds.
+\end{lemma}
+
+\begin{lemma}\label{lem:second}
+If the special case holds, then the general case holds.
+\end{lemma}
+
+\begin{proof}[Proof of Theorem~\ref{thm:main}]
+\uses{Proposition~\ref{prop:reduction}, Lemmas~\ref{lem:first} and~\ref{lem:second}}
+Combine the three statements: Lemma~\ref{lem:first} gives the special case,
+Lemma~\ref{lem:second} extends it, and Proposition~\ref{prop:reduction} concludes.
+\end{proof}
+
+\section{Proofs}\label{sec:proofs}
+% Each proof opens with a sketch, then numbered steps; see ../proof/ for the full shape.
+% A short proof with a single idea stays a paragraph.
+
+\begin{proof}[Proof of Proposition~\ref{prop:reduction}]
+\uses{Definition~\ref{def:object}, Theorem~\ref{thm:known}}
+A short argument stays a paragraph: say what is shown, then why, naming each
+result used at the step where it is used.
+\end{proof}
+
+\begin{proof}[Proof of Lemma~\ref{lem:first}]
+\uses{Definition~\ref{def:object}, Theorem~\ref{thm:known}}
+\emph{Sketch.} One sentence that gives the idea, so a reader can stop here.
+\begin{enumerate}
+\item[$\langle 1\rangle 1.$] First claim. \emph{Proof:} by Definition~\ref{def:object}.
+\item[$\langle 1\rangle 2.$] Second claim. \emph{Proof:} by $\langle 1\rangle 1$ and Theorem~\ref{thm:known}.
+\item[$\langle 1\rangle 3.$] \textsc{Q.e.d.} \emph{Proof:} by $\langle 1\rangle 1$ and $\langle 1\rangle 2$.
+\end{enumerate}
+\end{proof}
+
+\begin{proof}[Proof of Lemma~\ref{lem:second}]
+\uses{Lemma~\ref{lem:first}}
+\emph{Sketch.} One sentence that names the new difficulty and how it is overcome.
+\begin{enumerate}
+\item[$\langle 1\rangle 1.$] Reduction to the special case. \emph{Proof:} by Lemma~\ref{lem:first}.
+\item[$\langle 1\rangle 2.$] \textsc{Q.e.d.} \emph{Proof:} by $\langle 1\rangle 1$.
+\end{enumerate}
+\end{proof}
+
+% Optional ending: open questions or remarks; the field has no fixed ending (Kuteeva & McGrath 2015).
+\section*{Acknowledgements}
+Funding and thanks.
+
+\begin{thebibliography}{9}
+\bibitem{ref:first} A. Author, \emph{Title of the earlier result}, Journal \textbf{1} (2000), 1-10.
+\bibitem{ref:second} B. Author, \emph{Title of the known theorem}, Publisher, City, 2010.
+\end{thebibliography}
+
+\end{document}

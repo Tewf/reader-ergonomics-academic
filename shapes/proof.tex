@@ -1,0 +1,106 @@
+% Shape: structured proof in Lamport's hierarchical style, kept to three levels.
+% Evidence for each rule: ../../mathematical-writing/ (keys in references.md there).
+% Compiles with pdflatex. Packages: amsmath, amssymb, amsthm; the steps use the
+% kernel's enumerate, so no structured-proof package is needed.
+\documentclass{article}
+\usepackage{amsmath,amssymb,amsthm}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+
+% Step names <level>position, as in Lamport 2012: the reference to a step is its own
+% name only, so a level-2 step is cited as <2>1, never as 3.<2>1.
+\makeatletter
+\renewcommand{\p@enumii}{}
+\renewcommand{\p@enumiii}{}
+\makeatother
+\newenvironment{steps}{%
+  \renewcommand{\theenumi}{\ensuremath{\langle 1\rangle}\arabic{enumi}}%
+  \renewcommand{\labelenumi}{\theenumi.}%
+  \renewcommand{\theenumii}{\ensuremath{\langle 2\rangle}\arabic{enumii}}%
+  \renewcommand{\labelenumii}{\theenumii.}%
+  \renewcommand{\theenumiii}{\ensuremath{\langle 3\rangle}\arabic{enumiii}}%
+  \renewcommand{\labelenumiii}{\theenumiii.}%
+  \setlength{\leftmargini}{3.2em}\setlength{\leftmarginii}{3.2em}\setlength{\leftmarginiii}{3.2em}%
+  \begin{enumerate}}{\end{enumerate}}
+% Three levels only: enumerate allows four, this shape stops at three on purpose.
+
+\newcommand{\sketch}[1]{\par\noindent\textit{Proof sketch.} #1\par\smallskip}
+\newcommand{\uses}[1]{\par\noindent{\small\textsc{Uses:} #1.}\par\smallskip}
+\newcommand{\pf}{\textit{Proof:}\ }
+\newcommand{\qedstep}{\textsc{Q.e.d.}}
+
+\begin{document}
+
+\section*{The skeleton}
+
+\begin{theorem}\label{thm:skeleton}
+One sentence with every hypothesis inside it.
+\end{theorem}
+
+\begin{proof}
+\uses{Definition 2.1, Lemma 3.2}
+\sketch{One line that gives the idea, for example: induct on $n$; the step reduces to Lemma 3.2.}
+\begin{steps}
+\item\label{s:first} First claim. \pf by Definition 2.1.
+\item\label{s:second} Second claim.
+  \begin{enumerate}
+  \item\label{s:second:a} First sub-claim. \pf by \ref{s:first}.
+  \item \qedstep\ \pf by \ref{s:second:a} and Lemma 3.2.
+  \end{enumerate}
+\item \qedstep\ \pf by \ref{s:first} and \ref{s:second}.
+\end{steps}
+\end{proof}
+
+\section*{A calculation as the lowest level}
+
+% A chain of relations with one hint per link (Dijkstra 2000); on paper it works
+% best as the lowest level of a proof (Lamport 2012).
+\begin{align*}
+  & a + 1 \\
+  \leq\ & \{\ \text{hypothesis 1}\ \} \\
+  & b^2 - 3 \\
+  =\ & \{\ \text{definition of } c\ \} \\
+  & c - 4
+\end{align*}
+
+\section*{Worked example}
+
+\begin{theorem}\label{thm:sqrt2}
+No rational number $r$ satisfies $r^2 = 2$.
+\end{theorem}
+
+\begin{proof}
+\sketch{Write $r$ in lowest terms; both numerator and denominator turn out even.}
+\begin{steps}
+\item\label{e:suffices} It suffices to assume integers $p, q$ with $q \neq 0$,
+  $\gcd(p, q) = 1$ and $p^2 = 2q^2$, and derive a contradiction.
+  \pf every rational is $p/q$ in lowest terms, and $(p/q)^2 = 2$ exactly when $p^2 = 2q^2$.
+\item\label{e:peven} $p$ is even.
+  \pf $p^2 = 2q^2$ is even by \ref{e:suffices}, and the square of an odd integer is odd.
+\item\label{e:qeven} $q$ is even.
+  \begin{enumerate}
+  \item\label{e:k} $p = 2k$ for some integer $k$. \pf by \ref{e:peven}.
+  \item\label{e:qsq} $q^2 = 2k^2$. \pf substitute \ref{e:k} into $p^2 = 2q^2$ from
+    \ref{e:suffices} and divide by 2.
+  \item \qedstep\ \pf $q^2$ is even by \ref{e:qsq}, so $q$ is even, as in \ref{e:peven}.
+  \end{enumerate}
+\item \qedstep\ \pf by \ref{e:peven} and \ref{e:qeven}, 2 divides both $p$ and $q$,
+  which contradicts \ref{e:suffices}.
+\end{steps}
+\end{proof}
+
+\section*{The same result as a paragraph proof}
+
+% Keep a paragraph when the proof is short or one idea; still give the idea first
+% and name each warrant (Lamport 2012, Fuller 2014).
+\begin{proof}[Paragraph proof of Theorem~\ref{thm:sqrt2}]
+The idea is that lowest terms cannot survive the equation. Write $r = p/q$ with
+$\gcd(p, q) = 1$, so that $p^2 = 2q^2$. Then $p^2$ is even, hence $p$ is even, say
+$p = 2k$. Substituting gives $q^2 = 2k^2$, so $q$ is even too, which contradicts
+$\gcd(p, q) = 1$.
+\end{proof}
+
+\end{document}

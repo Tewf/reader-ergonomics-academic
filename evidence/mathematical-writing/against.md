@@ -60,7 +60,7 @@ Student preference is therefore not evidence that a format works.
 ## 6. Limits of the evidence itself
 
 - Every comprehension experiment found uses undergraduates, not research mathematicians reading papers.
-- Samples are small: Roy 2017b had 49 students; Fuller 2014's size was not read.
+- Samples are small: Roy 2017b had 49 students (not checked against the paper); Fuller 2014's size was not read.
 - Fuller 2014 has no replication that we found.
 - The self-explanation studies (Hodds 2014) come from one team, though across lab and classroom.
 - The genre corpora (Graves 2013, Kuteeva & McGrath 2015) are 30 and 22 articles.

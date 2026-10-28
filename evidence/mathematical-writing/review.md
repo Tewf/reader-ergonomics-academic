@@ -21,7 +21,7 @@ Grades: **measured** (controlled study or corpus count), **supported with caveat
 | Knuth 1989 | Proofs carry signposts, such as "we divide the proof into two parts" | convention, untested |
 | Krantz 2017 | Section 1 summarises the main results in plain words, then history, then the paper's plan | convention, untested |
 | Krantz 2017 | Section 2 gives definitions and formal statements; Section 3 the big steps; lemma details go last | convention, untested |
-| Krantz 2017 | Rule of thumb: of all readers, 20% read the introduction and a quarter of those the body | convention, untested |
+| Krantz 2017 | Rule of thumb: of readers who read the abstract, 20% read the introduction and a quarter of those the body | convention, untested |
 | Higham 2020 | Plan the high-level organisation early and rank the contributions (secondary, read in a summary of the 2nd edition) | convention, untested |
 | Tao intro | The introduction states the main results, or an informal version labelled as such, compares with prior work, and outlines the proof | convention, untested |
 | Tao organise | Milestones are self-contained propositions stated early; each lemma sits near its use | convention, untested |
@@ -40,9 +40,9 @@ The guides disagree among themselves: Halmos 1970 quotes one adviser who praises
 | Kuteeva & McGrath 2015 | 22 pure articles plus author interviews: three compulsory stages, Openings, Proofs, Endings, and an optional post-introduction | measured, descriptive |
 | Kuteeva & McGrath 2015 | All but one of the 22 announce the principal findings in the opening | measured, descriptive |
 | Kuteeva & McGrath 2015 | 17 of 22 have a separate background or notation section; 11 of 22 have no conclusion | measured, descriptive |
-| Kuteeva & McGrath 2015 | The gap-stating move appears in only 10 of 22 introductions | measured, descriptive |
+| Kuteeva & McGrath 2015 | Some form of Move 2 (niche) appears in 10 of 22 introductions: 4 raise a question, 6 state a gap (sum of two counts) | measured, descriptive |
 | Graves 2014 | Introductions establish presumptions such as definitions before results (secondary) | supported with caveat |
-| AMS 2017 | Every article has an abstract without citations, about 150 words for short papers and 300 for long ones | convention, enforced by the publisher |
+| AMS 2017 | AMS journals require an abstract without citations; the AMS proceedings checklist suggests at most about 150 words for short papers and 300 for long ones | convention; no citations enforced by the publisher, length only suggested |
 | AMS 2017 | At least one primary MSC code is required; keywords are optional; theorem styles are plain, definition, remark | convention, enforced by the publisher |
 | arXiv prep | Abstracts over 1920 characters are refused; mathematics has an optional MSC-class field | convention, enforced by the server |
 
@@ -86,9 +86,9 @@ The guides disagree among themselves: Halmos 1970 quotes one adviser who praises
 | Mejia-Ramos & Weber 2014 | Survey of 118 mathematicians on why and how they read proofs (secondary count) | measured, survey |
 | Inglis 2013b | 109 mathematicians disagreed on whether one calculus proof was valid | measured |
 | Fuller 2014 | Structured versus linear proof: structured readers better at picking a summary, somewhat worse on justifications, transfer and examples, mostly not significant | measured, one study |
-| Roy 2017b | e-Proof (N = 21) versus textbook proof (N = 28): equal at once, e-Proof group retained less after two weeks, F(1,47) = 5.66, p = .021 | measured |
+| Roy 2017b | e-Proof (N = 21) versus textbook proof (N = 28): equal at once, e-Proof group retained less after two weeks; sample sizes not checked against the paper | measured |
 | Lew 2020 | Generic versus traditional proof, randomised: no difference in comprehension, though students preferred generic | measured |
-| Hodds 2014 | Self-explanation training before reading: d = 0.95 in the lab; held in a classroom study of 107 students (Alcock 2015) | measured |
+| Hodds 2014 | Self-explanation training before reading: d = 0.95 in the lab; held in a classroom study (Alcock 2015; the count of 107 students not checked) | measured |
 | Davies 2020 | Proof summaries scored by comparative judgement are reliable; top summaries name the logical structure | measured |
 | Weber 2015 | Strategies of good student readers: try the proof first, find the framework, split into parts, test with examples (secondary) | supported with caveat |
 

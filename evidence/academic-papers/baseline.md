@@ -16,8 +16,8 @@ Why this one:
 
 | Outcome | Definition | Instrument used before | Source |
 |---|---|---|---|
-| Time to find a result | seconds from question to correct answer | timed yes/no questions on screen | Hartley 1996 |
-| Retrieval accuracy | share of questions answered correctly | same | Hartley 1996 |
+| Time to find a result | seconds from question to correct answer | timed yes/no questions on screen | Hartley 1996, as summarised in Hartley 2004a |
+| Retrieval accuracy | share of questions answered correctly | same | Hartley 1996, as summarised in Hartley 2004a |
 | Comprehension | score on questions about the claim, the method and one limitation, graded blind | written questions | no prior instrument found for full articles |
 | Recall | delayed free recall scored against the main ideas | recall test | Hartley 2004a, study 18 |
 | Information content of the abstract | items present over items applicable, from 0 to 1 | 33-criterion or 29-item checklist; CONSORT for abstracts | Taddio 1994; Sharma 2006; Hopewell 2008 |

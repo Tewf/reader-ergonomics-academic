@@ -20,7 +20,7 @@ The shape of one [structured proof](../evidence/mathematical-writing/frame.md), 
 | Citations only to visible steps | earlier siblings and ancestors' earlier siblings | Lamport 2012 | convention, untested |
 | Q.E.D. step closing each level | says how the steps give the claim above | Lamport 1995 | convention, untested |
 | 4 to 10 steps per level | the size Lamport finds easiest to read | Lamport 2012 | convention, untested |
-| At most three levels | a deeper step is a lemma to state on its own | this repository; Lamport 2012 finds step names past level 4 hard to read | convention, untested; stricter than Lamport, who writes six levels |
+| At most three levels | a deeper step is a lemma to state on its own | this repository; Lamport 2012 finds step names past level 4 hard to read | convention, untested; stricter than Lamport, who often writes more than six levels (1995) |
 | Calculation at the lowest level | a chain of relations with a hint per link | Dijkstra 2000, Gries & Schneider 1993, Lamport 2012 | convention, untested |
 | Paragraph alternative | for short, single-idea proofs | Lamport 2012 (prose under about ten lines), Fuller 2014 (readers found structure jumpy) | supported with caveat |
 

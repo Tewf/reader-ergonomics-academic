@@ -36,13 +36,13 @@ Caveat: both corpora are small, and the 22 articles come from only five authors 
 
 | | Holder | Design | Result |
 |---|---|---|---|
-| Upper bound (any intervention) | Hodds 2014 | Randomised, self-explanation training of the reader, not of the text | d = 0.95 in the lab; replicated in a lecture hall with 107 students |
+| Upper bound (any intervention) | Hodds 2014 | Randomised, self-explanation training of the reader, not of the text | d = 0.95 in the lab; replicated in a lecture hall (107 students, not checked) |
 | Upper bound (text format) | Fuller 2014 | Randomised, Leron-style structured versus linear proof | better at identifying a good summary |
 | Lower bound (text format) | Fuller 2014 | The same study | somewhat worse on justifications, transfer and examples, mostly not significant |
-| Lower bound (text format) | Roy 2017b | Randomised, e-Proof versus textbook, N = 49 | no immediate gain; worse retention after two weeks |
+| Lower bound (text format) | Roy 2017b | Randomised, e-Proof versus textbook, N = 49 (not checked) | no immediate gain; worse retention after two weeks |
 | Lower bound (text format) | Lew 2020 | Randomised, generic versus traditional proof | no difference |
 
-The largest measured gain comes from teaching the reader to self-explain, not from changing the proof's format.
+The largest measured gain found here comes from teaching the reader to self-explain, not from changing the proof's format.
 
 No study found tests Lamport's numbered format, as distinct from Leron's, on readers.
 

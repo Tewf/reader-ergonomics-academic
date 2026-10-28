@@ -16,7 +16,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - Readability of abstracts fell from 1881 to 2015, including the decades in which IMRaD and structured abstracts spread (Plavén-Sigray 2017). Grade: measured as a trend; no causal link to structure is claimed.
 - The same authors note that readability formulas ignore layout, coherence and the complexity of ideas. Grade: supported with caveat.
 - Abstracts disagree with their own articles: 18% to 68% were deficient across six medical journals (Pitkin 1999). Grade: measured.
-- Fewer than 10% of 1,000 articles met the criteria of engaging, accessible prose in Sword 2012 (secondary). Grade: supported with caveat.
+- Fewer than 10% of the articles surveyed (about 1,000, of which 500 were scored) met her three criteria of engaging, accessible prose in Sword 2012 (secondary). Grade: supported with caveat.
 - About half of the common style advice is associated with fewer citations, as associations and not effects (Weinberger 2015). Grade: supported with caveat.
 - IMRaD is not the default in many fields, so the advice to follow the standard structure holds mainly for biomedicine (Lin 2012, Moskovitz 2024). Grade: measured.
 
@@ -25,7 +25,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - Length: structured abstracts run 21% to 35% longer, so part of each gain may come from more words (Hartley 2004a). Grade: measured.
 - Recall: the advantage disappeared once length and readability were equated (Hartley 2004a, study 18). Grade: measured.
 - Search speed: an advantage with simplified abstracts, none with real MEDLINE abstracts (Hartley 2004a). Grade: measured.
-- Retrieval by labelled field raised precision and cut recall (Booth 1997, secondary). Grade: measured.
+- Retrieval by labelled field raised precision and cut recall (Booth 1997, abstract only). Grade: measured.
 - Readability: no formula difference when journals switched format; higher scores only when authors rewrote (Hartley 1997). Grade: measured.
 - Accuracy: no better than traditional abstracts; psychology abstracts held few errors, unlike medicine, which the author ties to the discipline (Hartley 2000). Grade: measured.
 - Most early studies used abstracts rewritten by the investigators and undergraduates as judges (Hartley 2014). Grade: supported with caveat.
@@ -34,13 +34,13 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 ## 4. Visual abstracts and highlights
 
 - In one journal, papers with a graphical abstract had fewer downloads, views and citations (Pferschy-Wenzig 2016). Grade: supported with caveat (observational).
-- The 7.7-fold impressions came from a study whose authors sat on the journal's editorial board, against title-only tweets (Ibrahim 2017). Grade: supported with caveat.
+- The 7.7-fold impressions came from a study whose authors sat on the journal's editorial board, against title-only tweets (Ibrahim 2017, secondary). Grade: supported with caveat.
 - Public engagement stayed low whatever the format (Chapman 2019). Grade: measured.
 - Highlights exist for search engines by the publisher's own account (Elsevier highlights); no reader benefit was found. Grade: convention, untested.
 
 ## 5. The bundle alternatives
 
-- Notebooks as papers: of 863,878 re-runs, 24.11% completed and 4.03% reproduced the stored results (Pimentel 2019). Grade: measured.
+- Notebooks as papers: of 863,878 re-runs of Python notebooks with a valid execution order, 24.11% completed and 4.03% reproduced the stored results (Pimentel 2019). Grade: measured.
 - Distill paused in 2021: its editors found running an interactive journal unsustainable for volunteers (Distill 2021). Grade: supported with caveat.
 - Nanopublications: we found a model and its infrastructure (Groth 2010), no measure of reader benefit.
 

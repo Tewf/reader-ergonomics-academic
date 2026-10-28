@@ -50,7 +50,7 @@ Copy this into a new file, or start from the LaTeX version, [mathematical-articl
 
 Author Name, Department, Institution, City, Country.
 
-**Abstract.** One to three sentences: what is proved, under which hypotheses, and why it matters. No citations; about 150 words for a short paper, 300 for a long one, and under 1920 characters for arXiv.
+**Abstract.** One to three sentences: what is proved, under which hypotheses, and why it matters. No citations; the AMS proceedings checklist suggests at most about 150 words for a short paper and 300 for a long one, and arXiv accepts under 1920 characters.
 
 **MSC 2020.** Primary 00-XX; Secondary 00-XX (replace by full codes from msc2020.org).
 

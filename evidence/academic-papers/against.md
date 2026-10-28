@@ -5,7 +5,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 ## 1. IMRaD hides the real process
 
 - Medawar 1963 argued that the paper misrepresents discovery: it narrates an inductive march from facts to conclusion, while the work ran from a guess to its test (revisited by Howitt 2014). Grade: supported with caveat (an argument, not a measurement).
-- ICMJE asserts the opposite, calling IMRAD "a reflection of the process of scientific discovery". Grade: convention, untested.
+- ICMJE asserts the opposite, calling IMRAD "a reflection of the process of scientific discovery" (ICMJE 2026). Grade: convention, untested.
 - Historians of the genre find that its form grew out of rhetorical and social pressures over three centuries (Bazerman 1988, Atkinson 1999). Grade: supported with caveat.
 - Kerr 1998 names HARKing, a post hoc hypothesis written up as a priori, and reports survey data that some forms are widely practised. Grade: supported with caveat.
 - The standard literature is filtered: 96% of first hypotheses supported, against 44% in Registered Reports (Scheel 2021). Grade: measured.

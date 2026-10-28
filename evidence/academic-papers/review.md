@@ -32,7 +32,7 @@ It also did not find one that spans front matter, checklists, availability state
 | Bazerman 1988 | survey (rhetoric) | the experimental report took its form in answer to rhetorical and social situations | supported with caveat |
 | Sollaci 2004 | seminal (counts) | 1,297 articles in BMJ, JAMA, Lancet and NEJM, 1935-1985: IMRaD above 10% by 1950, above 80% in the 1970s, the only pattern in the 1980s | measured |
 | Gastel 2016 | handbook (Day's) | teaches IMRaD as the default shape of a primary research paper | convention, untested |
-| ICMJE | editorial standard | original research usually divided into IMRAD; reviews, case reports and editorials may differ | convention, untested |
+| ICMJE 2026 | editorial standard | original research usually divided into IMRAD; reviews, case reports and editorials may differ | convention, untested |
 | Lin 2012 | forward (corpus) | 433 empirical articles, 39 disciplines: plain IMRD is not the default; ILM[RD]C ranks first | measured |
 | Moskovitz 2024 | forward (corpus) | biology mostly IMRaD; under half in engineering and social science; most computational papers not IMRaD | measured |
 | GMU 2026 | university writing page (example of practice only, 7.5/20) | teaches IMRaD as the shape of lab and research reports and cites no study; the page names no fields where it fails | convention, untested |
@@ -127,7 +127,7 @@ It also did not find one that spans front matter, checklists, availability state
 | acmart | ACM, on CTAN | formats (sigconf, acmsmall and others), CCS concepts, keywords, rights block, DOI, teaser figure, figure descriptions for accessibility |
 | arXiv | preprint server | takes TeX source with no house template; HTML versions since 2023, because 2.4% of research outputs met accessibility guidelines (Frankston 2024) |
 | JATS | NISO standard | machine-readable article metadata, including an article-type attribute |
-| ICMJE and journals | article types | research article, review, case report, letter, each with its own word limits and abstract format |
+| ICMJE 2026 and journals | article types | research article, review, case report, letter, each with its own word limits and abstract format |
 
 All of them fix layout, metadata and reference style; none fixes the argument, which stays with the writer.
 The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; the elsarticle sample holds one example section.

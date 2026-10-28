@@ -24,7 +24,7 @@ The shape of an empirical research article: IMRaD with a [structured abstract](.
 | Data and code availability | where the data, code and environment are, so the results can be re-run | Buckheit 1995, Pimentel 2019; the audits of availability statements (Gabelica 2022, Danchev 2021, Hamilton 2023) find "on request" weak, so give an archive and a version | supported with caveat |
 | Reporting checklist | names the EQUATOR guideline followed, if one exists for the design; at computing venues, the venue's own checklist (NeurIPS, ACL) | Turner 2012, NeurIPS 2026, ACL 2023 | measured for EQUATOR (completeness); venue checklists convention, untested |
 | Language-model use declaration | says whether and how a language model was used, worded to the venue's rule | ICMJE 2023, Nature 2023, ACL 2023, ICML 2023, NeurIPS 2025 | convention, untested |
-| Declarations, references, appendix | funding, conflicts, contributions; the venue's reference style | ICMJE | convention, untested |
+| Declarations, references, appendix | funding, conflicts, contributions; the venue's reference style | ICMJE 2026 | convention, untested |
 
 Each key (Author Year) is listed in [references](../evidence/bibliography.md).
 No part of this shape has been tested against IMRaD on reader outcomes; [position](../evidence/academic-papers/position.md) says what would test it.

@@ -176,7 +176,7 @@ Each is marked in review.md and in the file that leans on it as an example of pr
 | Coakley 2026 | formal (added) | E6 | supported with caveat | review, state-of-the-art, position, against |
 | Kim 2026 | formal (added) | G8 | supported with caveat | review, state-of-the-art, position, against |
 | Loisel 2026 | formal (added) | G11 | supported with caveat | review, state-of-the-art |
-| ICMJE (structure) | grey tier 1 | narrative search | A4 M3 O1.5 D0.5 P0.5 N1 I1 T1 = 12.5/20; scored from the entry in review.md | review, position, against, baseline |
+| ICMJE 2026 | grey tier 1 | narrative search | A4 M3 O1.5 D0.5 P0.5 N1 I1 T1 = 12.5/20; scored from the entry in review.md | review, position, against, baseline |
 | ICMJE 2023 | grey tier 1 | narrative search | A4 M3 O1.5 D0.5 P0.5 N1 I1 T1 = 12.5/20 | review, position |
 | Gastel 2016 | grey tier 1 | narrative search | A4 M4 O3 D1 P1 N0.5 I1 T1 = 15.5/20 | review |
 | Elsevier highlights | grey tier 2 | narrative search | A3.5 M2.5 O1 D0 P0 N0.5 I1 T0.5 = 9/20 (below 10: example of practice only); scored from the entry in review.md | review, against, frame |

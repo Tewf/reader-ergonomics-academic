@@ -9,7 +9,7 @@ This file names the baseline a proposed paper shape is compared against, and how
 Why this one:
 
 - It is the control condition in the structured-abstract studies cited here (Hartley 2004a, Taddio 1994, Budgen 2008).
-- It is what ICMJE asks of original research, and what the leading medical journals print (Sollaci 2004).
+- It is what ICMJE asks of original research (ICMJE 2026), and what the leading medical journals print (Sollaci 2004).
 - Readers and reviewers already know where to look in it, so any new shape must beat it, not merely differ from it.
 - Its checklist part rests on CONSORT evidence; for other guidelines endorsement showed no significant gain on nearly every item (Stevens 2014).
 

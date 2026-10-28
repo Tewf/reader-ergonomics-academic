@@ -8,7 +8,7 @@ This file sets out what is known, what is not, and what this repository adds abo
 |---|---|---|
 | Mathematics articles use Introduction-Results, not IMRD | measured, descriptive | Graves 2013, Kuteeva & McGrath 2015 |
 | Openings almost always announce the principal findings | measured, descriptive | Kuteeva & McGrath 2015 |
-| Expert guides agree that the main results go first, stated as self-contained sentences | convention, untested | Halmos 1970, Knuth 1989, Krantz 2017, Tao intro |
+| Expert guides agree that the main results go first, stated as self-contained sentences | convention, untested | Halmos 1970, Knuth 1989, Krantz 2017, Tao 2026a |
 | A Leron-style structured proof helps readers grasp the summary and may cost local detail | measured, one study | Fuller 2014 |
 | More presentation support can lower retention | measured, one study | Roy 2017b |
 | Training the reader to self-explain raises comprehension by about one standard deviation | measured, replicated by the same team | Hodds 2014, Alcock 2015 |
@@ -25,10 +25,34 @@ This file sets out what is known, what is not, and what this repository adds abo
 - Whether Fuller 2014 replicates: we found no second study of structured versus linear proofs.
 - Whether results from undergraduates hold for research mathematicians reading in their own field.
 
+## Positioned against the existing reviews
+
+| Review | Covers | Leaves open |
+|---|---|---|
+| Stylianides 2024, Stylianides 2017, Lessing 2025 | proof and proving in education | how a text is laid out for its reader |
+| Teledahl 2024, Powell 2017 | the quality of students' mathematical writing | the research article and its readers |
+| Tran Minh 2025 | proof assistants in teaching | blueprints as structure for human readers |
+
+This search did not find a review that compares layouts of a research article or a proof, so this repository's contribution is a comparison across both communities, not a replacement of those reviews.
+
+## Where practice runs ahead of the evidence
+
+- Every guide puts the main results in the introduction; no experiment tests it (state-of-the-art.md Q2).
+- About 40 formalisation projects list a blueprint with its `uses` labels; no study asks whether the graph helps a human reader.
+- Publishers enforce rules of form (abstract without citations, theorem styles); none of the rules was tested.
+- Practitioners disagree on postponing proofs (Ilmavirta 2015); no evidence settles it.
+
+## Where evidence is ignored by practice
+
+- Self-explanation training (Hodds 2014, d = 0.95) appears in none of the guides found.
+- Roy 2017b warns that narrated support can lower retention; none of the guides found mentions it.
+
 ## "Nobody has done it" versus "we have not seen it"
 
 - Every gap above is a statement about our search, not about the world.
-- Searched: the three-way terms in frame.md on the web and on arXiv, then forward from Leron 1983 and Mejia-Ramos 2012 through the works that cite them.
+- Searched: the three-way terms in frame.md on the web and on arXiv.
+- Then forward from Leron 1983 and Mejia-Ramos 2012 through the works that cite them.
+- Then the grey strings of protocol.md 5 and four searches for existing reviews.
 - A thesis titled "Tools for semi-formal proofs", listed in the Texas Digital Library, reports an experiment against prose proofs; its record could not be opened, so it is the first lead to chase.
 
 ## What this repository adds

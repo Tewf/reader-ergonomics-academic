@@ -2,7 +2,7 @@
 
 How a mathematical research article and each proof in it should be laid out so the reader finds the result, judges it, and sees why it holds.
 
-Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-the-art.md) · [position](position.md) · [against](against.md) · [baseline](baseline.md) · [bibliography](../bibliography.md)
+Steps: [frame](frame.md) · [protocol](protocol.md) · [sources](sources.md) · [review](review.md) · [state of the art](state-of-the-art.md) · [position](position.md) · [against](against.md) · [baseline](baseline.md) · [bibliography](../bibliography.md)
 
 ## Claims
 
@@ -23,4 +23,8 @@ Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-t
 | Mathematicians do not share one standard of proof validity | measured | against.md 5 |
 | About 4 to 10 steps per level, and few levels, keep a structured proof readable | convention, untested | review.md 4 |
 | Writing the dependencies of each lemma exposes missing hypotheses | supported with caveat (case reports) | review.md 6 |
+| Societies and publishers regulate the abstract and theorem styles, not the layout of introductions or proofs | convention, enforced by the publisher | review.md 2 |
+| Practitioners split on whether to postpone proofs after the introduction | convention, untested; contested | review.md 1.1, against.md 5 |
+| About 40 formalisation projects list a blueprint with `uses` labels | measured, descriptive (the repository's own count) | review.md 6 |
+| No review found compares layouts of a research article or a proof | this search did not find one | review.md 0 |
 | Whether any layout helps research mathematicians read papers | not known | position.md |

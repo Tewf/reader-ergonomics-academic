@@ -2,7 +2,25 @@
 
 Grades: **measured** (controlled study or corpus count), **supported with caveat**, **convention, untested**.
 
-## 0. Surveys that hand over the map
+Grey sources (guides, handouts, blogs, Q/A, project documentation) are scored on 20 criteria in sources.md. A source scored below 10 is marked "example only": the row shows a practice, and no claim rests on it.
+
+## 0. Existing reviews
+
+Searched first (protocol.md 3). None of them reviews the layout of a research article or of a proof for its reader.
+
+| Review | What it covered | How this review differs |
+|---|---|---|
+| Stylianides 2024 | Systematic review of 103 papers on proof and proving, school and university (abstract read) | Sorts papers by teacher, student and content; this review asks only how a text should be laid out |
+| Stylianides 2017 | Handbook chapter: proving as problem solving, as convincing, as social; discusses Hodds 2014 and why mathematicians read proofs (read in part) | Narrative, argues for intervention studies; this review compares layouts |
+| Lessing 2025 | Systematic review of reasoning and proof in mathematics education (not read; a search summary gave 80 publications for 2019-2024, secondary) | Broad scope; no layout question |
+| Teledahl 2024 | Systematic review of 48 works on quality in students' mathematical writing: proof writing shows a common set of standards, such as defining assumptions and variables (abstract read) | Students' written proofs; this review looks at what readers of papers meet |
+| Powell 2017 | Synthesis of 29 studies of mathematics writing, grades 1 to 12, 1991-2015 (abstract read) | School writing, not research articles |
+| Tran Minh 2025 | Narrative survey of proof assistants used for teaching (abstract read) | Teaching tools; this review's formal strand is the blueprint as explicit structure |
+| Mejia-Ramos and Inglis 2009 | Found little work on how students read proofs, as against how they construct them (secondary, from Davies 2021) | Not opened; the gap it names is the one strand 5 fills |
+
+Finding: this search did not find a review of how mathematicians read research papers, or of article layout.
+
+## 0a. Surveys that hand over the map
 
 | Survey | What it maps |
 |---|---|
@@ -23,14 +41,30 @@ Grades: **measured** (controlled study or corpus count), **supported with caveat
 | Krantz 2017 | Section 2 gives definitions and formal statements; Section 3 the big steps; lemma details go last | convention, untested |
 | Krantz 2017 | Rule of thumb: of readers who read the abstract, 20% read the introduction and a quarter of those the body | convention, untested |
 | Higham 2020 | Plan the high-level organisation early and rank the contributions (secondary, read in a summary of the 2nd edition) | convention, untested |
-| Tao intro | The introduction states the main results, or an informal version labelled as such, compares with prior work, and outlines the proof | convention, untested |
-| Tao organise | Milestones are self-contained propositions stated early; each lemma sits near its use | convention, untested |
-| Tao organise | Draw a box per lemma and an arrow per dependency to find the sections | convention, untested |
-| Tao errors | A paper split into lemmas survives one failed lemma; a global error is found by skimming the structure | convention, untested |
-| Serre 2003 | The talk targets local language faults (articles, unnamed maps), not section structure (secondary) | convention, untested |
+| Tao 2026a | The introduction states the main results, or an informal version labelled as such, compares with prior work, and outlines the proof | convention, untested |
+| Tao 2026b | Milestones are self-contained propositions stated early; each lemma sits near its use | convention, untested |
+| Tao 2026b | Draw a box per lemma and an arrow per dependency to find the sections | convention, untested |
+| Tao 2026d | A paper split into lemmas survives one failed lemma; a global error is found by skimming the structure | convention, untested |
+| Serre 2003 | The talk targets local language faults (articles, unnamed maps), not section structure (secondary; example only, not viewed) | convention, untested |
 | Gillman 1987 | Listed by Knuth 1989 as a standard manual; not read for this review | not graded |
 
 The guides disagree among themselves: Halmos 1970 quotes one adviser who praises chains of lemmas and another who finds them boring.
+
+## 1.1 Practice found by the grey search
+
+| Source | Advice on structure | Grade |
+|---|---|---|
+| Tao 2026c | A reader of section-by-section arguments keeps facts in mind that are never used again; lemmas tell the reader what can be forgotten | convention, untested |
+| Georgakopoulos 2023 | Split a long proof into pieces readable on their own; offer high-level overviews so most readers can skip the technical parts | convention, untested |
+| Georgakopoulos 2023 | Do not type up before the proof is complete: writing exposes gaps | convention, untested |
+| Lee 2005 | For an argument longer than a couple of sentences, say what you will do, do it, then say what you did | convention, untested |
+| Ramdas 2026 | Reserve the word theorem for a few central results; make statements self-contained; give outlines; do not end a proof abruptly (stat-ML) | convention, untested |
+| Cohn 2026 | Theoretical mathematics papers generally have no conclusions section; state your point of view at the start | convention, untested |
+| Ilmavirta 2015 | One answer says the modern style puts definitions, precise results and significance in the introduction; another warns that postponed proofs make dependencies and circularity hard to track | convention, untested; contested |
+| MathOverflow 2021 | Example only: an answer says a proof by induction in a paper needs no labelled base case and step if it is clear what is done | convention, untested |
+| Stanford 2023 | Example only: a course checklist asks proofs to state assumptions and the goal first, and to be written as paragraphs | convention, untested |
+
+Teledahl 2024 reports the same first standard (define assumptions and variables) for students' proofs.
 
 ## 2. The template: genre analysis and publisher rules
 
@@ -44,7 +78,11 @@ The guides disagree among themselves: Halmos 1970 quotes one adviser who praises
 | Graves 2014 | Introductions establish presumptions such as definitions before results (secondary) | supported with caveat |
 | AMS 2017 | AMS journals require an abstract without citations; the AMS proceedings checklist suggests at most about 150 words for short papers and 300 for long ones | convention; no citations enforced by the publisher, length only suggested |
 | AMS 2017 | At least one primary MSC code is required; keywords are optional; theorem styles are plain, definition, remark | convention, enforced by the publisher |
-| arXiv prep | Abstracts over 1920 characters are refused; mathematics has an optional MSC-class field | convention, enforced by the server |
+| arXiv 2026 | Abstracts over 1920 characters are refused; mathematics has an optional MSC-class field (example only: the page is the platform's statement about its own server) | convention, enforced by the server |
+| EMS 2026 | EMS Press: abstract brief, self-contained, no citations like "[5]", no displayed formulas; theorem styles plain and definition; no guidance on the introduction | convention, enforced by the publisher |
+| LMS 2021 | Journal of the LMS: every article needs a stand-alone abstract; at least 18 pages; no rule on how proofs are laid out | convention, enforced by the publisher |
+
+The societies and publishers regulate form (abstract, theorem styles, length) and leave the layout of introductions and proofs to authors.
 
 ## 3. The DTP style and its critics
 
@@ -95,6 +133,9 @@ The guides disagree among themselves: Halmos 1970 quotes one adviser who praises
 ## 6. Formal proofs as explicit structure (pointer only)
 
 - mathlib 2020: a library of formal mathematics in Lean, where every dependency is checked by machine.
-- leanblueprint: a LaTeX outline in which each statement lists the labels it uses, from which a dependency graph is drawn and coloured by formal status.
+- leanblueprint (Massot 2026): a LaTeX outline in which each statement lists the labels it uses, from which a dependency graph is drawn and coloured by formal status.
 - Gowers 2023 and PFR: the Polynomial Freiman-Ruzsa proof was formalised through such a blueprint within weeks (Tao 2023).
 - Tao 2023: formalising surfaced missing hypotheses in the written proof, such as a set required to be nonempty.
+- leanblueprint: its README lists about 40 projects that use it and showed 394 GitHub stars when read (measured, descriptive; the count is the repository's own).
+- Mathlib 2026: every file opens with a module docstring (title, summary, main statements, notation, implementation notes, references); every definition and major theorem needs a docstring, and linters flag missing ones.
+- Uskuplu 2026: a preprint of a tool that draws the dependency graph from LaTeX with no formalisation; it reports no user study.

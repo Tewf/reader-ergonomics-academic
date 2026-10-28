@@ -11,6 +11,7 @@ Why this one:
 - It is the control condition in the structured-abstract studies cited here (Hartley 2004a, Taddio 1994, Budgen 2008).
 - It is what ICMJE asks of original research, and what the leading medical journals print (Sollaci 2004).
 - Readers and reviewers already know where to look in it, so any new shape must beat it, not merely differ from it.
+- Its checklist part rests on CONSORT evidence; for other guidelines endorsement showed no significant gain on nearly every item (Stevens 2014).
 
 ## A second named baseline, for computing and ML papers
 
@@ -36,6 +37,7 @@ Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 20
 | Declared against actual availability | share of data and code statements that lead to usable files | statement audit and retrieval | Danchev 2021, Gabelica 2022 |
 | Knowledge from a summary | score on questions about the findings after reading a summary | multiple-choice knowledge test | Buljan 2018 |
 | Perceived understanding | self-rated understanding after the summary | survey item | Bredbenner 2019 |
+| Compliance after a prompt | share of articles meeting a requirement after an automated reminder at a set editorial point | before and after at one publisher | Evanko 2025 |
 | Language-model signature | excess-vocabulary share in the abstract, as a covariate | word-frequency comparison | Kobak 2025 |
 
 ## How to compare
@@ -53,3 +55,4 @@ Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 20
 
 - Highlights, graphical abstracts and the CARS order have no reader study against this baseline; they stay convention, untested.
 - Model cards, datasheets, STAR Methods, significance statements and release blog posts have no reader study against either baseline; they stay convention, untested.
+- Plain-language summary formats (Taylor & Francis 2024, PLOS 2026) have publisher rules and no comparison against the abstract on knowledge (Stoll 2022, Buljan 2018).

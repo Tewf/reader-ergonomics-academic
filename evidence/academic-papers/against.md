@@ -36,7 +36,8 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - In one journal, papers with a graphical abstract had fewer downloads, views and citations (Pferschy-Wenzig 2016). Grade: supported with caveat (observational).
 - The 7.7-fold impressions came from a study whose authors sat on the journal's editorial board, against title-only tweets (Ibrahim 2017, secondary). Grade: supported with caveat.
 - Public engagement stayed low whatever the format (Chapman 2019). Grade: measured.
-- Highlights exist for search engines by the publisher's own account (Elsevier highlights); no reader benefit was found. Grade: convention, untested.
+- Highlights exist for search engines by the publisher's own account (Elsevier highlights, example of practice only, 9.0/20); no reader benefit was found. Grade: convention, untested.
+- The Elsevier graphical-abstract page states aims (a quick takeaway, discovery) and gives no outcome data (Elsevier GA 2026, example of practice only, 9.0/20). Grade: convention, untested.
 
 ## 5. The bundle alternatives
 
@@ -57,6 +58,9 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - The organisers of the NeurIPS programme state they have no evidence of a quality effect (Pineau 2021). Grade: supported with caveat.
 - Broader impact statements were dropped after one year (Ashurst 2022), and their content was uneven (Nanayakkara 2021). Grade: supported with caveat.
 - Checklists catch missing items, not wrong methods: leakage affected 294 papers across 17 fields (Kapoor 2023). Grade: measured.
+- Outside CONSORT, endorsing a guideline did not significantly raise completeness on nearly every item: 26 evaluations of 101 guidelines (Stevens 2014). Grade: measured.
+- Across 56,800 papers at five AI venues, code and data sharing rose from 11% to 64% in 2014-2024, and the rise began before the checklists (Coakley 2026, preprint). Grade: supported with caveat.
+- Only 11 of 31 interventions to raise adherence to reporting guidelines had been evaluated (Blanco 2019). Grade: measured, descriptive.
 
 ## 8. Artifacts and badges
 
@@ -81,6 +85,8 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - Significance statements differ little from abstracts (readability d = 0.036, Markowitz 2024). Grade: measured.
 - The eLife reader survey is the publisher's own and self-selected (eLife 2017). Grade: convention, untested.
 - Cell Press and Elsevier pages describing STAR Methods are the owner's claim; this search found no independent evaluation. Grade: convention, untested.
+- The Elsevier page on the key resources table offers one anecdote and no study (Elsevier KRT 2026, example of practice only, 9.5/20). Grade: convention, untested.
+- Across 90 articles on plain-language summaries, empirical evidence on criteria for a good one is scarce (Stoll 2022). Grade: supported with caveat.
 
 ## 11. Availability statements
 
@@ -96,3 +102,5 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - The company-versus-university brief gives no counts (Rodriguez 2021), and the funding study is an abstract-level source here (Gnewuch 2025). Grade: supported with caveat.
 - The excess-vocabulary estimate is a lower bound and counts abstracts processed, not authors' intent (Kobak 2025). Grade: measured.
 - The mixture-model estimate depends on reference texts and covers preprints and one publisher (Liang 2025). Grade: supported with caveat.
+- The hidden-prompt method flagged 506 reviewers, and the organisers say it is easy to evade and catches only careless use (ICML 2026b). Grade: measured, descriptive.
+- Under a ban, 22.5% of surveyed reviewers said they used an LLM (Kim 2026, preprint, organisers among the authors). Grade: supported with caveat.

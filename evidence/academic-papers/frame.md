@@ -18,7 +18,7 @@ How should a research article be ordered so that a reader can find, judge and re
 | **Metadiscourse** | applied linguistics | text about the text: signposts, hedges, boosters, self-mention (Hyland 2004) |
 | **Structured abstract** (also "more informative abstract") | medical editing, information science | an abstract with fixed labelled parts (Ad Hoc Working Group 1987) |
 | **Graphical abstract**, **visual abstract** | publishing | one image that summarises the article |
-| **Highlights** | publishing | three to five short bullet points with the main findings (Elsevier highlights) |
+| **Highlights** | publishing | three to five short bullet points with the main findings (Elsevier highlights, example of practice only) |
 | **Reporting guideline** | research methodology | a checklist of what a report of one study design must contain (EQUATOR) |
 | **Completeness of reporting** | meta-research | the share of checklist items a report actually contains |
 | **Scholarly reading patterns**, **information-seeking behaviour** | library and information science | how many articles researchers read, for how long, and which parts |
@@ -37,6 +37,30 @@ How should a research article be ordered so that a reader can find, judge and re
 | **Data availability statement** (DAS), **data sharing statement** (DSS), **code availability statement** | publishing policy | a sentence or section saying where the data and code are, or why they are not shared |
 | **Technical report**, **model report**, **release blog post** | industry AI labs | a long report or a web page issued by a company in place of, or beside, a peer-reviewed paper |
 | **Generative AI policy**, **AI disclosure**, **LLM-modified content**, **excess vocabulary** | publishing ethics, meta-research | what a venue allows and asks authors to declare about language-model use, and how much use has been estimated |
+| **Multivocal literature review** (MLR), **grey literature** | evidence synthesis, software engineering (Garousi 2019) | a review that adds sources outside journals (rules, reports, pages) to the journal literature, each scored for quality |
+| **Reporting-guideline adherence interventions**, **journalology** | meta-research | what is done to make authors follow a guideline, and the science of publishing (Blanco 2019, Galipeau 2015) |
+
+## What practitioners call it
+
+Publishers and venues use their own words; the grey search used these as strings (protocol.md 5).
+
+| Practitioners' name | Where | Field's name above |
+|---|---|---|
+| **instructions for authors**, **guide for authors**, **author guidelines** | publishers, journals | article type, document class |
+| **call for papers**, **author guide**, **paper checklist** | conferences | reproducibility checklist |
+| **author summary**, **digest**, **lay summary**, **PLSP** | PLOS, eLife, Taylor & Francis | plain language summary |
+| **key resources table** | Cell Press | STAR Methods |
+| **LLM policy**, **AI use policy** | ICLR, ICML, NeurIPS, ACL | generative AI policy |
+| **TOP guidelines**, **MDAR checklist** | Center for Open Science, journals | reporting guideline |
+
+## Method
+
+This is a lighter **multivocal literature review** after Garousi 2019, written for software engineering and applied here to publication science.
+
+- The formal pool was built by a narrative search with snowballing, not by screening database counts.
+- The grey search was run with stated strings and a stopping rule.
+- Grey sources are scored on 20 criteria in three tiers: tier 1 books, standards and reports; tier 2 organisers' pages, presentations and abstracts; tier 3 blogs and posts.
+- Steps and pool: [protocol](protocol.md), [sources](sources.md).
 
 ## Search terms, three ways
 

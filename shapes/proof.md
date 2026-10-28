@@ -13,7 +13,7 @@ The shape of one [structured proof](../evidence/mathematical-writing/frame.md), 
 
 | Part | What it does | Evidence | Grade |
 |---|---|---|---|
-| Uses line | names the definitions and lemmas the proof depends on | leanblueprint, Tao organise, Tao 2023 | convention, untested for human readers |
+| Uses line | names the definitions and lemmas the proof depends on | Massot 2026, Tao 2026b, Tao 2023 | convention, untested for human readers |
 | Sketch first | the holistic idea, where a reader may stop | Lamport 2012; structure helped summaries in Fuller 2014 | measured, one study (for the summary effect) |
 | Numbered steps ⟨level⟩position | each claim with its own proof | Leron 1983, Lamport 1995, Lamport 2012 | convention, untested on readers |
 | Every warrant named | spares the reader the search for implicit justifications | Inglis & Alcock 2012 (experts hunt for them), Hodds 2014 | supported with caveat |

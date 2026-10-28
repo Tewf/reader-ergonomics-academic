@@ -14,6 +14,7 @@ A **trend** is a description of practice, with no comparison of formats.
 | How widespread elsewhere? | Lin 2012; Moskovitz 2024 | hand-coded corpora, 39 disciplines; STEM by study type | plain IMRD not the default; under half in engineering and social science | limit |
 | Does a checklist raise completeness? | Turner 2012 | Cochrane review, 50 non-randomised evaluations, 16,604 trials | allocation concealment 45% vs 22% (RR 1.81, 99% CI 1.25 to 2.61) | upper bound |
 | Is reporting then complete? | Turner 2012 | same | "remains sub-optimal" in endorsing journals too | limit |
+| Does endorsement help for guidelines other than CONSORT? | Stevens 2014 | systematic review, 101 guidelines, 26 evaluations | PRISMA summed score only (SMD 0.53, 99% CI 0.02 to 1.03); insufficient evidence for the rest | limit |
 | Does a structured abstract hold more information? | Taddio 1994 | 300 abstracts before and after the switch, 33 criteria | quality 0.57 vs 0.74 | upper bound |
 | Same, outside medicine | Budgen 2008 | randomised paired judgement, 64 judges | completeness +6.65 on an 18-item questionnaire, clarity +2.98 on 1-10 | upper bound |
 | Does it speed up search? | Hartley 1996 | simplified abstracts | faster and more accurate, as summarised in Hartley 2004a | upper bound |
@@ -29,6 +30,7 @@ A **trend** is a description of practice, with no comparison of formats.
 | How long does a reading last? | Tenopir 2008 | repeated surveys since 1977, last-reading incident | 48 minutes (1977) to 31 minutes (2005) | trend |
 | Where do experienced readers look? | Hubbard 2017 | survey, 260 undergraduates and researchers in biological sciences at one UK university, section ranking | figures and results first, introduction last | trend |
 | Is scientific prose getting harder? | Plavén-Sigray 2017 | 709,577 abstracts, FRE and NDC | FRE falls with year (r = -0.93) | trend |
+| Is there evidence for plain-language summary criteria? | Stoll 2022 | systematic review, 90 articles, 33 empirical | evidence on criteria scarce | limit |
 
 ### Most adopted (a practice record)
 
@@ -42,6 +44,10 @@ A **trend** is a description of practice, with no comparison of formats.
 | How many publishers give AI guidance? | Ganjavi 2024 | top 100 publishers and journals, 2023 | 24% and 87% | adoption |
 | How many statements say "on request"? | Gabelica 2022 | 3,416 BMC statements | 42% | adoption |
 | How transparent are industry AI developers? | Bommasani 2024 | 14 developers, 100 indicators | mean 58 of 100 | adoption |
+| How many STM publishers have an author policy on AI chatbots? | Bhavsar 2025 | audit of 162 publishers, 2023-09 to 2023-12 | 56 (34.6%) | adoption |
+| How many health journals instruct on plain-language summaries? | Gainey 2022 | scoping review of 534 journals | 27 (secondary) | adoption |
+| How many ML papers share code and data? | Coakley 2026 | 56,800 papers, five AI venues | 11% in 2014, 64% in 2024 (preprint) | adoption |
+| How many AI start-ups publish? | Loisel 2026 | 317 firms, 1998-2025 | about half have no qualifying output (preprint) | adoption |
 
 ### Best evidence (a research record)
 
@@ -49,6 +55,8 @@ A **trend** is a description of practice, with no comparison of formats.
 |---|---|---|---|---|
 | Does an ML checklist change reporting? | Magnusson 2023 | pre-checklist sample of 50 papers against self-reported answers | 8 of 10 items up | upper bound (confounded) |
 | Are checklist answers accurate? | Pineau 2021 | reviewers checked code claims | 71.5% confirmed | limit |
+| Did documentation improve before the checklists? | Coakley 2026 | same corpus, trend by year | gains predate the checklists; the authors infer an open-science norm | limit (preprint) |
+| Does a prompt at a set editorial point raise compliance? | Evanko 2025 | before and after, one publisher | RRIDs in published articles 33% to 65%; code capsules 1.4% to 4.6% | upper bound (uncontrolled, owner's data) |
 | Do artifact badges raise citations? | Winter 2022 | corpus, decade of AE | no significant gain | limit |
 | Same, with correlation only | Heumüller 2020 | 789 ICSE papers | small positive correlation | upper bound (observational) |
 | Does a badge raise sharing? | Kidwell 2016 | before and after with comparison journals | under 3% to 39% | upper bound |
@@ -64,10 +72,12 @@ A **trend** is a description of practice, with no comparison of formats.
 | Same, by field and venue | Liang 2025 | mixture model, 950,965 papers | up to 17.5% in computer science | upper bound (estimate) |
 | Does STAR Methods improve reporting? | none found | none | no study located | open |
 | Do release blog posts or technical reports change reading or citing? | none found | none | no study located | open |
-| Does declared AI use match estimated use? | none found | none | no study located | open |
+| Does authors' declared AI use match estimated use? | none found | none | no study located | open |
+| Do reviewers follow an AI rule? | Kim 2026 | randomised policy and survey, N = 1,486 | 22.5% under a ban said they used an LLM (self-report, preprint) | limit |
 
 ## Reading the table
 
 - Every record concerns an abstract, a checklist, a review format or a bundle; none compares a whole article written in two shapes.
 - Any claim that IMRaD helps readers of full articles is therefore graded convention, untested (position.md).
 - The trends describe readers and prose; they do not say which shape serves those readers best.
+- The upper bounds for compliance come from a venue or publisher measuring itself (Evanko 2025, ICML 2026b); an outside measurement of the same is rare.

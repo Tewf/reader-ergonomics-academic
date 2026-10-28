@@ -9,7 +9,7 @@ This file names the baseline article and proof a new shape is compared against, 
 | Part | Baseline form | Source |
 |---|---|---|
 | Class | `amsart`, current AMS article class, theorem styles plain, definition, remark | AMS 2017, amscls |
-| Top matter | title, author, abstract before `\maketitle`, primary MSC 2020 code, optional keywords | AMS 2017, MSC2020 |
+| Top matter | title, author, abstract before `\maketitle`, primary MSC 2020 code, optional keywords; EMS 2026 and LMS 2021 also require a self-contained abstract | AMS 2017, EMS 2026, LMS 2021, MSC2020 |
 | Opening | introduction that announces the principal findings | Kuteeva & McGrath 2015 |
 | Middle | optional background or notation section, then sections of definitions, lemmas, theorems and proofs | Kuteeva & McGrath 2015 |
 | Proofs | linear prose inside `\begin{proof}...\end{proof}`, warrants often implicit | Inglis & Alcock 2012 |
@@ -24,6 +24,8 @@ The baseline is what a referee at an AMS journal expects, so any change must bea
 | A, baseline | as above | linear paragraph proofs |
 | B, template | `shapes/mathematical-article` | `shapes/proof`: sketch, then numbered steps at most three levels deep, each lemma listing what it uses |
 | C, positive control | as A | as A, but readers first study self-explanation training (Hodds 2014) |
+
+A fourth arm could add a dependency graph drawn from the lemma list, since Uskuplu 2026 builds one from LaTeX with no formalisation; it has no user study, so it is untested.
 
 Arm C sets the bar: d = 0.95 is the largest gain among the studies found here, and it changes the reader, not the text.
 

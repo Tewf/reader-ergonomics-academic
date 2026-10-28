@@ -2,7 +2,7 @@
 
 How a research article is ordered (IMRaD and its abstract), what the evidence says about that order, and what publisher templates enforce.
 
-Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-the-art.md) · [position](position.md) · [against](against.md) · [baseline](baseline.md) · [bibliography](../bibliography.md)
+Steps: [frame](frame.md) · [protocol](protocol.md) · [sources](sources.md) · [review](review.md) · [state of the art](state-of-the-art.md) · [position](position.md) · [against](against.md) · [baseline](baseline.md) · [bibliography](../bibliography.md)
 
 ## Claims
 
@@ -11,6 +11,7 @@ Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-t
 | IMRaD became the only pattern in four leading medical journals by the 1980s | measured | review.md 1 |
 | IMRaD is not the default in many fields outside biomedicine | measured | review.md 1 |
 | Journal endorsement of CONSORT raises reporting completeness, modestly | measured | review.md 2 |
+| Endorsement of other guidelines showed no significant gain on nearly every item | measured | review.md 0 |
 | Introductions follow three moves (CARS) | supported with caveat | review.md 3 |
 | Structured abstracts hold more information than unstructured ones | measured | review.md 4 |
 | Structured abstracts are easier to read and to search | supported with caveat | against.md 3 |
@@ -29,4 +30,8 @@ Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-t
 | A declared data-sharing statement is a weak signal of actual sharing | measured | review.md 13 |
 | An infographic and a plain summary give the same knowledge | measured | review.md 12 |
 | At least 13.5% of 2024 biomedical abstracts were processed with a language model | measured | review.md 16 |
-| No study located of STAR Methods, of release blog posts, or of declared against estimated AI use | open | state-of-the-art.md |
+| ML documentation rose before the checklists were introduced | supported with caveat | review.md 9 |
+| An automated reminder raised the share of articles with RRIDs from 33% to 65% at one publisher | supported with caveat | review.md 12 |
+| Empirical evidence on criteria for plain-language summaries is scarce | supported with caveat | review.md 0 |
+| 34.6% of 162 STM publishers had a public AI policy for authors in late 2023 | measured, descriptive | review.md 15 |
+| No study located of STAR Methods, of release blog posts, or of authors' declared against estimated AI use | open | state-of-the-art.md |

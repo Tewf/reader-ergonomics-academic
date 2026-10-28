@@ -30,6 +30,15 @@ Each key (Author Year) is listed in [references](../evidence/bibliography.md).
 
 The LaTeX version is [proof.tex](proof.tex).
 
+## The principles it applies
+
+| Part | Principle |
+|---|---|
+| Sketch first, where a reader may stop | [overview first](../principles/document/overview-first.md) |
+| Numbered steps, at most three levels | [shallow outline](../principles/document/shallow-outline.md) |
+| Every warrant named; the Uses line | [define before use](../principles/document/define-before-use.md), [short reference distance](../principles/document/short-reference-distance.md) |
+| A Q.E.D. step closing each level | [signal the structure](../principles/page/signal-the-structure.md) |
+
 ## The skeleton
 
 **Theorem n.** One sentence with every hypothesis inside it.

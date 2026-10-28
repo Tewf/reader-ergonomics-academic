@@ -31,6 +31,16 @@ The shape of a proof-centred mathematics article on the AMS `amsart` class: the 
 Each key (Author Year) is listed in [references](../evidence/bibliography.md).
 No part of this shape has been tested against the conventional article on reader outcomes; [baseline](../evidence/mathematical-writing/baseline.md) says how it would be.
 
+## The principles it applies
+
+| Part | Principle |
+|---|---|
+| Main theorem stated in section 1, in words before any definition | [overview first](../principles/document/overview-first.md) |
+| Idea of the proof before its details | [overview first](../principles/document/overview-first.md) |
+| Notation fixed once, in Preliminaries | [define before use](../principles/document/define-before-use.md), [one place per fact](../principles/collection/one-place-per-fact.md) |
+| A Uses line in each proof; results ordered so each comes after what it uses | [short reference distance](../principles/document/short-reference-distance.md) |
+| Sections on at most three levels | [shallow outline](../principles/document/shallow-outline.md) |
+
 ## Skeleton
 
 Copy this into a new file, or start from the LaTeX version, [mathematical-article.tex](mathematical-article.tex).

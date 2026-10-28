@@ -28,6 +28,17 @@ The shape of an empirical research article: IMRaD with a structured abstract, th
 Each key (Author Year) is listed in [references](../evidence/bibliography.md).
 No part of this shape has been tested against IMRaD on reader outcomes; [position](../evidence/academic-papers/position.md) says what would test it.
 
+## The principles it applies
+
+| Part | Principle |
+|---|---|
+| Title that states the finding; structured abstract | [overview first](../principles/document/overview-first.md) |
+| Contributions and a map of the sections, closing the introduction | [overview first](../principles/document/overview-first.md), [signal the structure](../principles/page/signal-the-structure.md) |
+| Terms and measures defined in Methods before Results use them | [define before use](../principles/document/define-before-use.md) |
+| Results: one subsection per claim, its headline sentence first | [signal the structure](../principles/page/signal-the-structure.md), [given before new](../principles/sentence/given-before-new.md) |
+| A figure whose caption stands alone, placed with the text that cites it | [draw relations](../principles/page/draw-relations.md), [figure next to its text](../principles/page/figure-next-to-its-text.md) |
+| Headings on at most three levels | [shallow outline](../principles/document/shallow-outline.md) |
+
 ## Skeleton
 
 Copy this into a new file, or start from the LaTeX version, [research-paper.tex](research-paper.tex).

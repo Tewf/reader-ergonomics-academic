@@ -11,7 +11,7 @@ This file sets out what is known, what is not, and what this repository adds abo
 | Expert guides agree that the main results go first, stated as self-contained sentences | convention, untested | Halmos 1970, Knuth 1989, Krantz 2017, Tao 2026a |
 | A Leron-style structured proof helps readers grasp the summary and may cost local detail | measured, one study | Fuller 2014 |
 | More presentation support can lower retention | measured, one study | Roy 2017b |
-| Training the reader to self-explain raises comprehension by about one standard deviation | measured, replicated by the same team | Hodds 2014, Alcock 2015 |
+| Training the reader to self-explain raises comprehension by about one standard deviation | measured; the classroom replication by the same team was smaller (d = 0.41 and 0.35) | Hodds 2014, Alcock 2015 |
 | Experts spend their effort on implicit warrants between lines | measured | Inglis & Alcock 2012 |
 | Mathematicians do not share one standard of validity | measured | Inglis 2013b |
 | Formalisation through a blueprint exposes missing hypotheses | supported with caveat (case reports) | Tao 2023 |

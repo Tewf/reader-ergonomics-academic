@@ -74,7 +74,7 @@ It also did not find one that spans front matter, checklists, availability state
 | Budgen 2008 | randomised paired judgement | software engineering, 64 judges, 25 papers: completeness +6.65 on an 18-item questionnaire, clarity +2.98 on 1-10; 40 of 57 preferred structured | measured |
 | Pferschy-Wenzig 2016 | observational | one journal, 2014-2015: papers without a graphical abstract had more downloads, views and citations | supported with caveat |
 | Kim 2022 | observational | 4,205 gastroenterology articles: with a graphical abstract, median citations 14 vs 12 | supported with caveat |
-| Ibrahim 2017 | crossover | 44 articles tweeted both ways: visual abstract 7.7 times the impressions, 2.7 times the visits (secondary) | supported with caveat |
+| Ibrahim 2017 | crossover | 44 articles tweeted both ways: visual abstract 7.7 times the impressions, 2.7 times the visits | supported with caveat |
 | Oska 2020 | crossover, random order | 40 articles: visual abstract tweets drew about twice the views of citation or key-figure tweets | measured |
 | Chapman 2019 | randomised trial | 41 manuscripts: visual beat plain-English abstracts on engagement; public engagement low throughout | measured |
 | Elsevier highlights | publisher guideline (example of practice only, 9.0/20) | 3 to 5 bullets of at most 85 characters, meant for discoverability | convention, untested |

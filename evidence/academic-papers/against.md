@@ -25,7 +25,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - Length: structured abstracts run 21% to 35% longer, so part of each gain may come from more words (Hartley 2004a). Grade: measured.
 - Recall: the advantage disappeared once length and readability were equated (Hartley 2004a, study 18). Grade: measured.
 - Search speed: an advantage with simplified abstracts, none with real MEDLINE abstracts (Hartley 2004a). Grade: measured.
-- Retrieval by labelled field raised precision and cut recall (Booth 1997, abstract only). Grade: measured.
+- Retrieval by labelled field raised precision and cut recall (Booth 1997, full text). The authors conclude higher precision with the same or lower recall in three of five questions per database, and one question per database retrieved nothing (p. 165); their Table 4 shows higher precision in only two of five (B1, B2). Grade: measured.
 - Readability: no formula difference when journals switched format; higher scores only when authors rewrote (Hartley 1997). Grade: measured.
 - Accuracy: no better than traditional abstracts; psychology abstracts held few errors, unlike medicine, which the author ties to the discipline (Hartley 2000). Grade: measured.
 - Most early studies used abstracts rewritten by the investigators and undergraduates as judges (Hartley 2014). Grade: supported with caveat.
@@ -34,7 +34,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 ## 4. Visual abstracts and highlights
 
 - In one journal, papers with a graphical abstract had fewer downloads, views and citations (Pferschy-Wenzig 2016). Grade: supported with caveat (observational).
-- The 7.7-fold impressions came from a study whose authors sat on the journal's editorial board, against title-only tweets (Ibrahim 2017, secondary). Grade: supported with caveat.
+- The 7.7-fold impressions came from a study whose authors sat on the journal's editorial board, against title-only tweets (Ibrahim 2017). Grade: supported with caveat.
 - Public engagement stayed low whatever the format (Chapman 2019). Grade: measured.
 - Highlights exist for search engines by the publisher's own account (Elsevier highlights, example of practice only, 9.0/20); no reader benefit was found. Grade: convention, untested.
 - The Elsevier graphical-abstract page states aims (a quick takeaway, discovery) and gives no outcome data (Elsevier GA 2026, example of practice only, 9.0/20). Grade: convention, untested.

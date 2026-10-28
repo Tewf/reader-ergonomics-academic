@@ -44,7 +44,7 @@ Arm C sets the bar: d = 0.95 is the largest gain among the studies found here, a
 ## Sample size
 
 - A two-sided test at alpha 0.05 with power 0.8 needs about 64 readers per arm to detect d = 0.5.
-- Roy 2017b had 21 and 28 per arm (not checked against the paper), so effects smaller than about d = 0.8 could be missed.
+- Roy 2017b had 21 and 28 per arm, so effects smaller than about d = 0.8 could be missed.
 - Undergraduates and research mathematicians are tested as separate groups, since every study found used undergraduates.
 
 ## Decision rule

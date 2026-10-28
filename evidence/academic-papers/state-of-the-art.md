@@ -17,9 +17,9 @@ A **trend** is a description of practice, with no comparison of formats.
 | Does endorsement help for guidelines other than CONSORT? | Stevens 2014 | systematic review, 101 guidelines, 26 evaluations of nine of them | PRISMA summed score only (SMD 0.53, 99% CI 0.02 to 1.03, endorsing against non-endorsing journals); insufficient evidence for the rest | limit |
 | Does a structured abstract hold more information? | Taddio 1994 | 300 abstracts before and after the switch, 33 criteria | quality 0.57 vs 0.74 | upper bound |
 | Same, outside medicine | Budgen 2008 | randomised paired judgement, 64 judges | completeness +6.65 on an 18-item questionnaire, clarity +2.98 on 1-10 | upper bound |
-| Does it speed up search? | Hartley 1996 | simplified abstracts | faster and more accurate, as summarised in Hartley 2004a | upper bound |
+| Does it speed up search? | Hartley 1996 | simplified abstracts, timed true/false questions | faster and more accurate; a second study with a printed database found the same | upper bound |
 | Same, with real database abstracts | studies 15 and 17 in Hartley 2004a | timed search on MEDLINE abstracts | no speed advantage | limit |
-| Does searching by labelled field help? | Booth 1997 | simulated database, ten searches | precision rose and recall fell; figures not verified | limit |
+| Does searching by labelled field help? | Booth 1997 | simulated database, ten searches | structured fields gave higher precision with the same or lower recall in three of five questions per database; one question per database found nothing (p. 165); Table 4 shows higher precision in two of five | limit |
 | Is it easier to read? | Hartley 1997 | eight studies: formulas, sentence reordering, reader ratings | formula scores higher only when authors rewrote the abstract; readers rated structured ones easier | limit |
 | Is it more accurate? | Pitkin 1999; Hartley 2000 | abstract data checked against the body | 18% to 68% of medical abstracts deficient; no format difference in psychology | limit |
 | Does a visual abstract draw attention? | Oska 2020 | crossover, 40 articles, three tweet forms in random order | mean views 1,351 vs 639 (citation) vs 732 (key figure) | upper bound |

@@ -121,7 +121,7 @@ Each is marked in review.md and in the file that leans on it as an example of pr
 | Gundersen 2018 | formal | narrative search and snowballing | measured | review |
 | Hamilton 2023 | formal | narrative search and snowballing | measured | review, position, against |
 | Hardwicke 2018 | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against |
-| Hartley 1996 | formal | narrative search and snowballing | supported with caveat (secondary: read in Hartley 2004a) | state-of-the-art, baseline |
+| Hartley 1996 | formal | narrative search and snowballing | supported with caveat | state-of-the-art, baseline |
 | Hartley 1997 | formal | narrative search and snowballing | measured | state-of-the-art, against |
 | Hartley 1999 | formal | narrative search and snowballing | supported with caveat | review |
 | Hartley 2000 | formal | narrative search and snowballing | measured | state-of-the-art, against, baseline |

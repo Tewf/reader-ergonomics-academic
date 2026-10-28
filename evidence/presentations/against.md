@@ -5,7 +5,9 @@ This file gathers the evidence against the presentation rules: null results, dis
 ## Against assertion-evidence
 
 - One experiment carries most of the weight: Garner 2013 (n = 110, one topic, one 8-minute talk, engineering students).
-- The coauthor Alley is the main designer and promoter of the approach; the owner's site describes it as making talks more understandable (Leonhard Center 2026).
+- The coauthor Alley is the main designer and promoter of the approach.
+- The owner's site says it makes talks more understandable and cites no study on its front page (Leonhard Center 2026, 9 of 20).
+- Other tests are not clean: Alley 2007 bundles the design with active learning and shares an author with Garner 2013; Root Kustritz 2014 let students choose their session.
 - The arms differ in words per slide (21.2 against 41.5) and in graphics; the design is a package, so the cause is unknown.
 - AE viewers rated their slides as having a less appropriate amount of text than the other group did (Garner 2013).
 - Immediate fact recall did not differ; the gain was in explanation and delayed items.
@@ -31,6 +33,17 @@ This file gathers the evidence against the presentation rules: null results, dis
 - The belief that attention drops after 10 to 15 minutes has little primary support (Wilson 2007, Bradbury 2016).
 - Short fixed formats (Ignite, five minutes) cannot cite it as evidence.
 
+## Against practice formats
+
+- Liao 2020: the differences between PechaKucha and a traditional talk mostly reflected the selection of less material to fit the time, not the format.
+- Bakcek 2020 (randomised, n = 134): equal test scores; only satisfaction was higher.
+- Warmuth 2021: instructors rated PechaKucha higher, but delayed retention did not differ for presenters; audience retention was self-reported.
+
+## Against accessibility advice and the redundancy result
+
+- Guides ask speakers to say every slide word aloud (Rector 2019; ACM 2026), which is the redundancy that Adesope 2012 and Yue 2013 found unhelpful for sighted learners.
+- Rector 2019 itself allows more text on slides when the speaker talks fast. No study of blind or low-vision listeners on this trade-off was found.
+
 ## Against the speaker-effect claims
 
 - A visible face has no consistent effect over 12 studies (Henderson 2021).
@@ -41,4 +54,4 @@ This file gathers the evidence against the presentation rules: null results, dis
 
 - Laptop against longhand notes: the quiz difference did not replicate in a direct replication (Urry 2019).
 - Handout studies are not randomised (Worthington 2015).
-- Practice pages report their own success: Designer, Ignite, PechaKucha, the memo, the assertion-evidence site.
+- Practice pages report their own success: Designer, Ignite, PechaKucha, the memo, the assertion-evidence site. Of these, all but the memo (Bezos 2018, 10.5) score under 10 of 20.

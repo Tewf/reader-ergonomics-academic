@@ -9,11 +9,13 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 | Q1 Redundancy of on-screen text and speech | Adesope 2012 | meta-analysis, 57 studies, retention and transfer |
 | Q1 Modality, segmenting | Ginns 2005; Rey 2019 | meta-analyses, system-paced lab lessons |
 | Q1 Coherence, signalling | Sundararajan 2020; Schneider 2018 | meta-analyses (see learning science) |
+| Q1 Does design matter more when pacing is fixed | Noetel 2022 | overview of 29 reviews, 1,189 studies; moderator "system-paced" |
 | Q2 Does showing slides help | Baker 2018 | meta-analysis, 48 studies, no average difference |
 | Q2 Which slide design | Garner 2013 | randomised experiment, n = 110, essay and delayed test, d about 0.8 to 0.9 |
-| Q2 How common are slide faults | Kosslyn 2012 | three studies of slideshows and viewers |
+| Q2 How common are slide faults | Kosslyn 2012; Le Blanc 2025 | three studies of slideshows; an audit of one medical school's lectures |
 | Q3 Gesture | Dargue 2019; Hostetter 2011 | meta-analyses, 83 and 63 samples |
-| Q3 Instructor visible in video | Henderson 2021 | systematic review, 12 studies, no consistent effect |
+| Q3 Instructor visible in video | Henderson 2021; Polat 2022 | systematic reviews, 12 and 41 studies, no consistent learning effect |
+| Q6 Does fixed pacing (20 by 20) raise learning | Bakcek 2020 | randomised trial, n = 134, test scores equal |
 | Q4 Contrast floor | WCAG 2.2 (W3C 2023) | standard (a convention), not an experiment |
 | Q5 How talks are built | Rowley-Jolivet 2005 | move analysis of 44 talks in three fields |
 
@@ -23,7 +25,8 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 |---|---|---|
 | Slide template | PowerPoint, with Designer | Designer: over 1 billion slides, owner's claim (Microsoft 2019) |
 | Typeset talks in computer science and mathematics | Beamer | a CTAN package with a long user guide; a usage count was not found |
-| Short talks | TED and TEDx guidance; PechaKucha; Ignite | formats run in many cities; counts are the owners' claims |
+| Short talks | TED and TEDx guidance; PechaKucha; Ignite | formats run in many cities; counts are the owners' claims (TED 2026, PechaKucha 2026 and Ignite 2026 score 9.5, 6 and 5.5 of 20: examples only) |
+| Accessible talks | Rector 2019 and the conference guides derived from it | three conference pages seen citing it; no evidence cited by the guide |
 | Replacing slides | Amazon narrative memo | one company's own report (Bezos 2018) |
 | Headlines as sentences | Assertion-evidence workshops; consulting action titles | no adoption count found |
 
@@ -35,8 +38,9 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 
 ## Lower bounds (not shown)
 
-- No independent randomised replication of the assertion-evidence effect was found in this search; the forward citations are small studies (Alzayed 2023, Sripradith 2023) or pilots (Wolfe 2023).
+- No independent randomised replication of the assertion-evidence effect was found in this search. Closest: a non-randomised veterinary course with better retention at one month (Root Kustritz 2014), a bundled geology course (Alley 2007), and small studies (Alzayed 2023, Sripradith 2023) or pilots (Wolfe 2023).
 - No study was found that varies one slide factor (headline form, text amount, graphic) in isolation within a live talk.
 - No study was found of projected text size and comprehension in a room.
 - No controlled comparison of a memo-first meeting against a slide meeting was found.
-- The 20 by 20 and 15-second pacing rules have no outcome study found.
+- The 20 by 20 and 15-second pacing rules have three small outcome studies (Liao 2020, Warmuth 2021, Bakcek 2020); the one randomised trial found no test-score gain. None tests Ignite's 15 seconds.
+- No study was found of accessibility advice (say every slide word aloud) against the redundancy result for blind or low-vision listeners.

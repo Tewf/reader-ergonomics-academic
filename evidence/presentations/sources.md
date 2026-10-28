@@ -18,7 +18,7 @@ This file lists the pool of sources behind the review, with how each was found a
 
 ## Subtotals of grey sources
 
-Columns of the quality field: authority (4) / methodology (6) / objectivity (4) / date (1) / position (1) / novelty (2) / impact (1) / outlet (1) = total of 20. Books marked "catalogue page only" or "not read" are scored on what the page or earlier notes show.
+The quality field gives the eight subtotals in the order A to T defined in the [method](../README.md#method), then the total of 20. Books marked "catalogue page only" or "not read" are scored on what the page or earlier notes show.
 
 ## Grey sources
 

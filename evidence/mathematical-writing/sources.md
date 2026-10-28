@@ -4,18 +4,31 @@ This file lists every source of the review, how it was found, and its quality; t
 
 ## Flow of the grey search
 
-| Step | Count |
-|---|---|
-| Results listed by 9 web strings, 4 API queries and the Tao reading list | 160 |
-| Opened and read in full or in the relevant part | 21 |
-| Included, new to the review | 11 (Lee 2005, Georgakopoulos 2023, Ramdas 2026, Cohn 2026, Tao 2026c, LMS 2021, EMS 2026, Mathlib 2026, Stanford 2023, Ilmavirta 2015, MathOverflow 2021) |
-| Already in the review and now scored | 12 |
-| Excluded | unreachable (4, not read), off the question (2: Pak, the 2016 LMS process guide), only pointers (1: MathOverflow 506032) |
-| Grey sources scored | 23 |
-| Below 10 of 20 | 4 (arXiv 2026, Serre 2003, Stanford 2023, MathOverflow 2021) |
-| Added by snowballing | Cohn 2026, from Tao's reading list |
+| Stage | Formal | Grey |
+|---|---|---|
+| Returned by the strings | not recorded | 160 |
+| Screened | not recorded | not recorded |
+| Included as new | 7 | 11 |
+| Carried from the earlier pass | not recorded | 12 |
+| In the review | 15 | 23 |
 
-New formal items from the search for existing reviews: 7 (strand 0 of review.md) and Uskuplu 2026.
+- Formal:
+  - The formal pool was built by narrative search and snowballing before the protocol existed, so no count of returned or screened records exists.
+  - Semantic Scholar gave a total for each of nine strings (see the protocol), and OpenAlex gave none.
+  - 7 new formal items came from the search for existing reviews (strand 0 of review.md), and Uskuplu 2026 was added besides.
+- Grey:
+  - 160 results were listed by 9 web strings, 4 API queries and the Tao reading list.
+  - 21 were opened and read in full or in the relevant part.
+  - 11 were included as new (Lee 2005, Georgakopoulos 2023, Ramdas 2026, Cohn 2026, Tao 2026c, LMS 2021, EMS 2026, Mathlib 2026, Stanford 2023, Ilmavirta 2015, MathOverflow 2021).
+  - Cohn 2026 came by snowballing, from Tao's reading list.
+  - 12 were already in the review and were scored now, which gives 23 grey sources scored, 4 of them below 10 of 20 (arXiv 2026, Serre 2003, Stanford 2023, MathOverflow 2021).
+  - Excluded: 4 unreachable pages (not read), 2 off the question (Pak, the 2016 LMS process guide) and 1 that only pointed to others (MathOverflow 506032).
+
+In the review: the mathematical writing source rows of each kind, counted by script.
+
+The figure draws the stages of the table for mathematical writing.
+
+![160 grey results were listed, and 11 grey sources were added and 12 carried. No formal counts were recorded except 7 formal items added. The review holds 15 formal and 23 grey sources, 38 in all.](flow.svg)
 
 ## Grey sources, scored on 20 criteria
 

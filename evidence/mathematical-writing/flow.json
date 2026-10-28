@@ -1,0 +1,33 @@
+{
+  "title": "Mathematical writing: how the pool of sources was built",
+  "columns": [
+    "Formal",
+    "Grey"
+  ],
+  "rows": [
+    [
+      "Returned by the strings",
+      "not recorded",
+      160
+    ],
+    [
+      "Screened",
+      "not recorded",
+      "not recorded"
+    ],
+    [
+      "Included as new",
+      7,
+      11
+    ],
+    [
+      "Carried from the earlier pass",
+      "not recorded",
+      12
+    ]
+  ],
+  "total": [
+    "In the review",
+    38
+  ]
+}

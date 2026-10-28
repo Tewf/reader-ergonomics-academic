@@ -4,6 +4,32 @@ This file lists every source in the pool of this review: the search flow, what w
 
 ## Flow
 
+| Stage | Formal | Grey |
+|---|---|---|
+| Returned by the strings | 83 | 182 |
+| Screened | not recorded | not recorded |
+| Included as new | 11 | 12 |
+| Carried from the earlier pass | 101 | 23 |
+| In the review | 115 | 35 |
+
+- Formal:
+  - The 83 results are those of the nine searches for existing reviews (E1 to E8 and the Blanco 2019 lookup).
+  - The formal pool was built by narrative search and snowballing.
+  - 11 formal sources were added with a source that was read, plus 3 pointers (Macleod 2021, Nosek 2015, Grant 2024) cited without being read; the pointers are in the 115.
+  - The earlier pool held 101 formal sources.
+- Grey:
+  - The 182 results are those of the 17 grey strings.
+  - 12 grey sources were added, and the earlier pool held 23.
+  - A screened count is not recorded; the table by string below gives the number read: 22 in all, in full or as an abstract.
+
+In the review: the academic papers source rows of each kind, counted by script.
+
+The figure draws the stages of the table for academic papers.
+
+![83 formal and 182 grey results were returned. 11 formal sources and 12 grey sources were added, and 101 formal and 23 grey were carried, for 115 formal and 35 grey sources in the review, 150 in all.](flow.svg)
+
+### By string
+
 Found is the number of results the search listed; read is the number fetched and read, in full or as an abstract; added is the number new to the review.
 
 | String | Found | Read | Added |

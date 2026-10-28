@@ -1,0 +1,123 @@
+% Research paper shape: IMRaD with a structured abstract.
+% Same sections as template.md; the comment above each section is its guidance.
+% Standard article class only; compiles with pdflatex (run it twice for references).
+\documentclass[11pt]{article}
+
+% Title that states the main finding.
+\title{Title that states the main finding}
+\author{First Author\thanks{Affiliation. Contact address.}
+  \and Second Author\thanks{Affiliation.}}
+\date{}
+
+\begin{document}
+\maketitle
+
+% Structured abstract: one or two sentences per label, numbers in Results.
+\begin{abstract}
+\noindent\textbf{Background.} The problem and the gap, in one or two sentences.
+\textbf{Methods.} Design, sample and main measure.
+\textbf{Results.} The main result with its number and interval.
+\textbf{Conclusions.} What the result means, and its main limit.
+\end{abstract}
+
+\noindent\textbf{Keywords:} three to six terms a searcher would type.
+
+% Optional: three to five bullets of at most 85 characters, only if the venue asks.
+\paragraph{Highlights (optional).}
+\begin{itemize}
+  \item First finding, in at most 85 characters.
+  \item Second finding, in at most 85 characters.
+  \item Third finding, in at most 85 characters.
+\end{itemize}
+
+% Territory, gap, this paper, contributions, then a one-line map of the sections.
+\section{Introduction}
+Establish the territory and cite the closest prior work~\cite{placeholder}.
+Show the gap. Say what this paper does.
+The contributions are:
+\begin{enumerate}
+  \item first contribution;
+  \item second contribution.
+\end{enumerate}
+Section~\ref{sec:methods} gives the methods, Section~\ref{sec:results} the
+results and Section~\ref{sec:discussion} their meaning.
+
+\section{Methods}\label{sec:methods}
+
+% Link the preregistration or protocol; list every departure with its reason.
+\subsection{Plan and deviations}
+Protocol: link. Deviations: none, or each one with its reason.
+
+% Who or what was studied, how it was chosen, with what; enough to repeat it.
+\subsection{Design and materials}
+Design, sample, setting and materials.
+
+% Each outcome, how it was measured, and the analysis planned for it.
+\subsection{Measures and analysis}
+Outcomes, instruments and analysis.
+
+\section{Results}\label{sec:results}
+
+% Headline sentence first, then the number and its interval, then the figure.
+\subsection{First claim}
+The headline sentence of the first result, with its number and interval
+(Figure~\ref{fig:first}).
+
+\begin{figure}[ht]
+  \centering
+  \fbox{\parbox{0.8\linewidth}{\centering\vspace{3em}Figure placeholder\vspace{3em}}}
+  \caption{A caption that says what the figure shows and what to conclude,
+    readable without the text.}
+  \label{fig:first}
+\end{figure}
+
+% One subsection per claim, in the order of the contribution list.
+\subsection{Second claim}
+The headline sentence of the second result.
+
+\section{Discussion}\label{sec:discussion}
+
+% The main result restated in one paragraph, without new data.
+\subsection{Principal finding}
+The main result, restated.
+
+% Where the result agrees or disagrees with earlier studies, and why.
+\subsection{Comparison with prior work}
+Agreement and disagreement with earlier studies.
+
+% What the design cannot show, and how large each threat is.
+\subsection{Limitations}
+Each limitation and its likely size.
+
+% What follows for practice or for the next study, within what the data support.
+\subsection{Implications}
+Consequences for practice and for the next study.
+
+% Two or three sentences a reader could quote; no claim absent from the results.
+\section{Conclusion}
+The conclusion in two or three sentences.
+
+% Where the data, code and environment are, under which licence, how to re-run.
+\section*{Data and code availability}
+Repository, licence and the command that reproduces the results.
+
+% Name the reporting guideline followed and attach the completed checklist.
+\section*{Reporting checklist}
+The reporting guideline followed, such as CONSORT or PRISMA, with its checklist attached.
+
+% Funding, conflicts of interest, author contributions, acknowledgements.
+\section*{Declarations}
+Funding. Conflicts of interest. Author contributions. Acknowledgements.
+
+% In the venue's style; every entry with a DOI, an arXiv id or a stable URL.
+\begin{thebibliography}{9}
+\bibitem{placeholder} Author, A. (Year). Title of the work. Venue.
+  doi:10.0000/placeholder.
+\end{thebibliography}
+
+% Material a specialist needs and a general reader can skip.
+\appendix
+\section{Supplementary material}
+Supplementary tables and extra analyses.
+
+\end{document}

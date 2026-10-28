@@ -1,6 +1,6 @@
 # Shape: structured proof
 
-The shape of one [structured proof](../evidence/mathematical-writing/frame.md), with each [warrant](../evidence/mathematical-writing/frame.md) named: a one-line sketch first, then numbered steps in Lamport's hierarchical style, each with its own justification, at most three levels deep, with the results it uses named at the top.
+The shape of one [structured proof](../evidence/mathematical-writing/frame.md), with each [warrant](../evidence/mathematical-writing/frame.md) named. It has a one-line sketch first, then numbered steps in Lamport's hierarchical style, each with its own justification, at most three levels deep, with the results it uses named at the top.
 
 ## When to use it
 

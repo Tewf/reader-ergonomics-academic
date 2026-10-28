@@ -70,6 +70,8 @@ No study found tests Lamport's numbered format, as distinct from Leron's, on rea
 
 ## Most adopted versus best evidence
 
+The two records are defined in the [method](../README.md#method).
+
 The two records are held by different practices.
 
 | Question | Most adopted | Best evidence |

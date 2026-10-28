@@ -32,7 +32,7 @@ Arm C sets the bar: d = 0.95 is the largest gain among the studies found here, a
 ## How a comparison is measured
 
 1. **Materials**: the same theorem and the same mathematical content in arms A and B; only the layout differs.
-2. **Assignment**: readers randomised between arms, as in Fuller 2014, Roy 2017b and Lew 2020.
+2. **Randomisation**: readers assigned at random between arms, as in Fuller 2014, Roy 2017b and Lew 2020.
 3. **Comprehension test**: one item set per dimension of Mejia-Ramos 2012, built and checked for reliability by the method of Mejia-Ramos 2017.
 4. **Per-dimension scores**: report local (terms, logical status, justifications) and holistic (idea, modules, transfer, examples) separately, because Fuller 2014 found a trade-off that a total score hides.
 5. **Summary quality**: ask for a short summary and score it by comparative judgement (Davies 2020).

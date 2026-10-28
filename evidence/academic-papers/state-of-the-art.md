@@ -34,6 +34,8 @@ A **trend** is a description of practice, with no comparison of formats.
 
 ### Most adopted (a practice record)
 
+The two records are defined in the [method](../README.md#method).
+
 | Sub-question | Record holder | Method | Measure | Kind |
 |---|---|---|---|---|
 | Is a reporting checklist required of every submission in ML? | NeurIPS (since 2019), ACL venues (since 2020) | venue rules | mandatory at submission; NeurIPS 2026 has 16 questions | adoption |

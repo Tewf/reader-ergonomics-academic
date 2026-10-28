@@ -48,7 +48,7 @@ The earlier pool of 101 formal and 23 grey sources was built before this pass by
 | EC4 duplicate | the ICML policy covered again by news; the Bhavsar audit found by three strings | not counted |
 | EC5 peer-review process only | ICLR and ICML reviewer rules beyond what changes authors' work | not counted |
 
-- The numbers from Gainey 2022 were read in a secondary summary and are marked so in review.md.
+- The numbers from Gainey 2022 were read in the abstract, a primary source.
 - The Galipeau 2015 abstract was seen, not its results.
 
 ## Pool

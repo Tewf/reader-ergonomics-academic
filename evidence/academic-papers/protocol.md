@@ -182,4 +182,4 @@ Twenty criteria, each scored 1, 0.5 or 0; the eight subtotals are in sources.md.
 - Search engines personalise and change; the tool returns summaries, so every included source was fetched and read, or its abstract was.
 - Pages blocked or redirected to a login were not read: the COPE statement, Springer Nature's AI policy, the ACM badging policy, the PNAS MDAR paper.
 - The OpenAlex counts are missing (section 4).
-- Some secondary counts are marked "(secondary)" where the primary was not opened (Gainey 2022).
+- Some secondary counts are marked "(secondary)" where the primary was not opened (Collberg 2016).

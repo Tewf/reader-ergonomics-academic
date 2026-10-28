@@ -10,13 +10,13 @@ Searched first, as Garousi 2019 asks (protocol.md 3). Each covers one part of th
 
 | Work | Kind | What it covered | How this review differs | Grade |
 |---|---|---|---|---|
-| Hartley 2004a | systematic survey, 31 studies | structured abstracts | adds practice and the other front matter (strand 4) | measured |
+| Hartley 2004a | narrative survey, 31 studies | structured abstracts | adds practice and the other front matter (strand 4) | measured |
 | Turner 2012 | Cochrane review, 50 evaluations | endorsement of CONSORT and completeness | read with Stevens 2014 as the limit of that result | measured |
-| Stevens 2014 | systematic review | 101 guidelines other than CONSORT; 15,249 records screened, 26 evaluations; only PRISMA summed score significant (SMD 0.53, 99% CI 0.02 to 1.03); insufficient evidence | adds venue checklists in machine learning, which it does not cover | measured |
+| Stevens 2014 | systematic review | 101 guidelines other than CONSORT; 15,249 records retrieved, 26 evaluations of nine of them; only the PRISMA summed score significant (SMD 0.53, 99% CI 0.02 to 1.03, endorsing against non-endorsing journals); insufficient evidence | adds venue checklists in machine learning, which it does not cover | measured |
 | Blanco 2019 | scoping review | 109 references, 31 interventions to raise adherence to reporting guidelines, 11 evaluated | studies what authors and journals do with the article, not training or tools | measured, descriptive |
 | Galipeau 2015 | systematic review | training in writing, editing and peer review; the title reports a knowledge gap; results not read | teaches no one; describes the article | supported with caveat |
 | Stoll 2022 | systematic review | plain language summaries: 7,714 records, 90 included, 33 empirical; evidence on criteria scarce | adds journals' own rules (Taylor & Francis 2024, PLOS 2026) and the summary experiments (strand 12) | measured |
-| Gainey 2022 | scoping review | author instructions for plain language summaries in 534 health journals; 27 gave them (secondary) | adds what the instructions require in two publishers | measured, descriptive |
+| Gainey 2022 | scoping review | author instructions for plain language summaries in 534 health journals; 27 gave them | adds what the instructions require in two publishers | measured, descriptive |
 | Krukowski 2023 | narrative review | graphical abstracts: purpose and design advice; benefits called emerging | keeps measured outcomes apart: attention, citations, understanding | supported with caveat |
 | Bhavsar 2025 | cross-sectional audit | AI-chatbot policies of 162 STM publishers, 2023-09 to 2023-12: 56 had one | reads it with Ganjavi 2024 and venue rules (strand 15) | measured, descriptive |
 
@@ -137,9 +137,9 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
 | Gundersen 2018 | survey (400 papers) | IJCAI and AAAI papers document 20% to 30% of the variables needed to reproduce them; none documents all | measured |
-| Dodge 2019 | seminal (NLP checklist) | argues for reporting validation scores and budgets; checks 50 random 2018 EMNLP papers against a checklist, the baseline later reused | supported with caveat |
+| Dodge 2019 | seminal (NLP checklist) | argues for reporting validation scores and budgets; checks 50 random 2018 EMNLP papers against a checklist (secondary: the count is read in Magnusson 2023), the baseline later reused | supported with caveat |
 | Pineau 2021 | seminal (practice report) | 2019 NeurIPS: checklist mandatory at submission and at camera-ready, 6,743 submissions; model of the Nature life-science checklist | convention, untested |
-| Pineau 2021 | same | about 40% of authors said they had code at submission; reviewers confirmed 71.5% of those (so about 28% overall); 74.4% had code at camera-ready | measured, descriptive |
+| Pineau 2021 | same | about 40% of authors said they had code at submission; reviewers confirmed 71.5% of those (so about 29% overall, derived: 40% x 71.5%); 74.4% had code at camera-ready | measured, descriptive |
 | Pineau 2021 | same | 34% of reviewers found the checklist answers useful; 36% of submissions judged error bars not applicable; the authors state there is no evidence yet that quality improved | supported with caveat |
 | Magnusson 2023 | forward (analysis of the NLP checklist) | 10,405 anonymous responses, EMNLP in 2020 and 2021, NAACL and ACL in 2021; 45.9% of submissions link code; those that do score 0.30 higher on reviewer-rated reproducibility | measured, descriptive |
 | Magnusson 2023 | same | acceptance rate rises with the number of yes answers; 44% of submissions collect new data and are 5% less likely to be accepted | measured, descriptive |
@@ -150,19 +150,19 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | Nanayakkara 2021 | thematic analysis | 2020 NeurIPS required a broader impact statement; the statements vary in specificity, valence and uncertainty | supported with caveat |
 | Ashurst 2022 | dataset and analysis | all 2020 NeurIPS impact statements; the requirement was dropped in 2021 for a checklist; lessons on incentives, guidance, deliberation | supported with caveat |
 | Kapoor 2023 | survey and case study | data leakage found in 17 fields, 294 papers; proposes a model info sheet; a corrected civil-war prediction comparison shows no gain over logistic regression | measured |
-| Goldberg 2024 | experiment | 234 2024 NeurIPS submissions voluntarily checked by a language-model assistant; over 70% of authors found it useful; causal effect on papers not established | supported with caveat |
+| Goldberg 2024 | experiment | 234 2024 NeurIPS submissions voluntarily checked by a language-model assistant; over 70% of the 78 authors who answered the post-usage survey found it useful; causal effect on papers not established | supported with caveat |
 | NeurIPS 2021; NeurIPS 2026 | venue policy | 2021: 5 questions, 18 items, yes/no/n.a., a no is not grounds for rejection. 2026: 16 questions including a language-model usage declaration; omitting the checklist means desk rejection | convention, untested |
 
 ## 10. Artifacts and badges
 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
-| Collberg 2016 | seminal audit | 402 papers whose results rest on code: the code was found and built within 30 minutes for 32.3% (secondary: read in a summary of the technical report) | measured |
+| Collberg 2016 | seminal audit | 402 papers whose results rest on code: the code was found and built within 30 minutes for 32.3% (secondary: read in a summary of the technical report, not opened; the CACM article uses 601 papers) | measured |
 | Saucez 2019 | practice report | two artifact committees at SIGCOMM venues awarded ACM badges to 12 and 28 papers | measured, descriptive |
 | Heumüller 2020 | corpus (789 ICSE papers, 2007-2017) | 604 papers (76.6%) describe a software artifact; in 2017 only 58.5% of them made it public; a small positive correlation of linking an artifact with citations | measured |
 | Hermann 2020 | survey of committee members | no consensus on quality thresholds; terminology for the main purpose, replicability, is inconsistent | supported with caveat |
 | Timperley 2021 | mixed methods | 153 researchers: expectations of creators, users and reviewers do not match; creators and reviewers lack reward | supported with caveat |
-| Winter 2022 | forward (retrospective of a decade of AE) | articles with artifacts do not get significantly more citations; articles with an "Available" badge have a working link among their references in 99.6% of cases against 90.3% without; about 90% of eligible 2020 PLDI articles came with artifacts | measured |
+| Winter 2022 | forward (retrospective of a decade of AE) | articles with artifacts do not get significantly more citations; articles with an "Available" badge have a working link among their references in 99.6% of cases against 90.3% without (pooled from Table 4); about 90% of eligible 2020 PLDI articles came with artifacts | measured |
 | Kidwell 2016 | before and after with comparison journals | Psychological Science open-data badges: under 3% of articles reported open data before, 23% after, 39% in the first half of 2015; no change in comparison journals; earned badges went with data that were available | measured |
 
 ## 11. Documentation cards
@@ -188,7 +188,7 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | Karačić 2019 | corpus | readability (SMOG) of Cochrane texts: median 15.6 for scientific abstracts, 14.7 for plain language summaries, against a recommended sixth-grade level | measured |
 | Buljan 2018 | three randomised trials | students (n = 171), consumers (n = 99), doctors (n = 64): no difference in knowledge between an infographic and a text summary; the infographic was preferred (d = 0.48 reading experience) | measured |
 | Bredbenner 2019 | randomised survey (n = 538) | video and plain-language summaries gave higher perceived understanding than graphical abstracts and abstracts; all groups did well on the test; preference did not track comprehension | measured |
-| Taylor & Francis 2024 | publisher guideline | three formats (text, graphical, standalone article with its own DOI); a standalone summary of 3000 words or less, peer reviewed including by lay experts; no outcome data | convention, untested |
+| Taylor & Francis 2024 | publisher guideline | three formats (text, graphical, standalone article with its own DOI); a standalone summary with a recommended length of 3000 words or less (a guide, not a limit), peer reviewed including by lay experts; no outcome data | convention, untested |
 | PLOS 2026 | journal instruction | authors of research articles revised after review write an author summary, 2-3 one-sentence bullets under each of three questions, after the abstract | convention, untested |
 | eLife 2017 | publisher survey (owner's claim) | 313 self-selected readers of digests; over 90% found most digests informative | convention, untested |
 | Markowitz 2024 | corpus and experiments | 34,584 PNAS papers: significance statements are simpler than abstracts, with small effect sizes (d near 0.3 on word simplicity); readers understood GPT-written statements better than the published ones | measured |
@@ -199,7 +199,7 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
 | Nosek 2015; COS 2024 | standard and its update | TOP guidelines of 2015, revised in 2025: seven research practices each at three levels (disclosed, shared and cited, certified), plus verification practices; Grant 2024 is the preprint, not read | convention, untested |
-| Hardwicke 2018 | interrupted time series, one journal | after a mandatory open-data policy at Cognition, data-available statements rose from 25% to 78%, reusable data from 22% to 62%; of 1,324 values in 35 articles, 64 did not reproduce within 10% | measured |
+| Hardwicke 2018 | interrupted time series, one journal | after a mandatory open-data policy at Cognition, data-available statements rose from 25% to 78%, reusable data from 22% to 62% of articles with a data-available statement; of 1,324 values in 35 articles, 64 did not reproduce within 10% | measured |
 | Stodden 2018 | random sample, 204 papers in Science | after the policy of sharing on request, artifacts were obtained for 44% and findings reproduced for 26% | measured |
 | Hamilton 2023 | meta-analysis of 105 meta-research studies, 2,121,580 articles | 2016-2021: declared public data 8%, actual 2%; declared and actual public code both under 0.5% | measured |
 | Gabelica 2022 | audit with author survey | 3,556 BioMed Central articles: 42% of statements say "on reasonable request"; of 1,792 authors willing to share, 93% did not reply or refused; 6.8% supplied data | measured |
@@ -212,7 +212,7 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | OpenAI 2023 | company report (owner's claim) | the GPT-4 technical report says it gives no details on architecture, hardware, training compute, dataset construction or training method | convention, untested |
 | Bommasani 2023 | external index | 10 developers scored on 100 disclosure indicators from public information: mean 37, highest 54, lowest 12 | measured, descriptive |
 | Bommasani 2024 | follow-up | after developers submitted their own reports, 14 developers averaged 58; indicators newly disclosed averaged 16.6 per developer; the authors say the index probably contributed | supported with caveat |
-| Loisel 2026 | bibliometric preprint (abstract read) | 317 AI start-ups valued over a billion, 1998-2025: 1,389 peer-reviewed papers and 688 preprints with start-up authors; about half have no qualifying output; about 0.1% of the 2025 AI literature | supported with caveat |
+| Loisel 2026 | bibliometric preprint (abstract read) | 317 AI start-ups valued over a billion, 1998-2025: 1,389 peer-reviewed papers and 688 preprints with start-up authors; more than half (52.4%) have no qualifying output; about 0.1% of the 2025 AI literature | supported with caveat |
 | Rodriguez 2021 | data brief (think-tank) | universities produce more ML papers than most leading company labs; company papers draw more citations; the most cited are often joint | supported with caveat |
 | Gnewuch 2025 | preprint, 49.8K papers at 10 AI venues (abstract read) | industry-funded papers rose from under 2% (2015) to over 11% (2020); 12% of them reached high citation rates against 4% and 2% for the other two groups | measured |
 | Ahmed 2023 | perspective | industry's growing weight in AI research (one-line abstract; figures not read) | convention, untested |
@@ -225,7 +225,7 @@ Not found by this search: a study of how paper-plus-blog-post releases are read,
 |---|---|---|---|
 | Nature 2023 | editorial | no language-model tool is accepted as an author; use is documented in methods, acknowledgements or introduction | convention, untested |
 | ICMJE 2023 | editorial standard | chatbots are not authors; authors disclose AI-assisted technology at submission and describe it in the cover letter and the work; humans stay responsible. Added in 2023, in May by secondary accounts | convention, untested |
-| ACL 2023 | venue policy (updated 2023-01-10) | six scenarios; language polishing needs no disclosure; low-novelty text must be flagged and checked; new text from a model is discouraged; disclosure goes through the Responsible NLP Research checklist | convention, untested |
+| ACL 2023 | venue policy (updated 2023-01-10) | six cases for text, plus a note on code; language polishing needs no disclosure; low-novelty text must be flagged and checked; new text from a model is discouraged; disclosure goes through the Responsible NLP Research checklist | convention, untested |
 | ICML 2023 | venue policy | text generated by a language model is prohibited unless it is part of the experimental analysis; light editing is allowed; no automated checks, cases handled as plagiarism on complaint | convention, untested |
 | NeurIPS 2025 | venue policy | writing-only use needs no declaration; use that is important, original or non-standard goes in the methods; authors answer for everything; checks can come after publication. The text for 2023 was not found | convention, untested |
 | Bhavsar 2025 | cross-sectional audit, 2023-09 to 2023-12 | 56 of 162 STM publishers (34.6%) had a public author policy; none allowed an AI author; 4 banned use outright; the abstract says 49 of 56 require disclosure and the text 46 of 56 | measured, descriptive |
@@ -242,7 +242,7 @@ Not found by this search: a study of how paper-plus-blog-post releases are read,
 | Kobak 2025 | corpus, over 15 million PubMed abstracts, 2010-2024 | words that rose abruptly after 2022 imply at least 13.5% of 2024 abstracts were processed with a language model; up to 40% in some subcorpora; a lower bound | measured |
 | Markowitz 2024 | experiments | participants comprehended GPT-written significance statements better than the published ones in one experiment | supported with caveat |
 | ICML 2026b | venue enforcement report (owner's account) | hidden prompts in PDFs caught 795 reviews by 506 reviewers assigned the no-LLM policy; 497 papers (about 2%) desk rejected; the method catches careless use only | measured, descriptive |
-| Kim 2026 | randomised experiment and survey (preprint, abstract read), reviewers of the 2026 ICML | the policy each reviewer was given had near-zero effect on decisions; of 1,486 survey answers, 22.5% under the ban said they used an LLM and 36.5% under the permissive policy used a disallowed form; the organisers are co-authors | supported with caveat |
+| Kim 2026 | randomised experiment and survey (preprint, abstract read), reviewers of the 2026 ICML | the policy each reviewer was given had near-zero effect on decisions; of 1,486 survey answers from reviewers and chairs, 22.5% under the ban said they used an LLM and 36.5% under the permissive policy used a disallowed form; the organisers are co-authors | supported with caveat |
 
 This search did not find a study that sets authors' declared language-model use against estimated use.
 The nearest, Kim 2026 and ICML 2026b, concern reviewers.

@@ -59,7 +59,7 @@ Sources at exactly 10 (Tao 2026a, Tao 2026b, Ramdas 2026, Cohn 2026) are include
 | Stylianides 2017 | E2 | supported with caveat, narrative review (read in part) | review 0 |
 | Lessing 2025 | E1 | systematic review, not read | review 0 |
 | Teledahl 2024 | E4 | systematic review (abstract read) | review 0 |
-| Powell 2017 | E4 | systematic synthesis (abstract read) | review 0 |
+| Powell 2017 | E4 | systematic synthesis (not read; counts secondary) | review 0 |
 | Tran Minh 2025 | E3 | narrative survey (abstract read) | review 0 |
 | Davies 2021 | E1 | measured, one study; used for a secondary statement | review 0 |
 | Uskuplu 2026 | G6 | preprint of a tool, no user study | review 6 |

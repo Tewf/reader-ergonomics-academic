@@ -44,7 +44,7 @@ This search did not find a review that compares layouts of a research article or
 
 ## Where evidence is ignored by practice
 
-- Self-explanation training (Hodds 2014, d = 0.95) appears in none of the guides found.
+- Self-explanation training (Hodds 2014, d = 0.95 in Experiment 1) appears in none of the guides found.
 - Roy 2017b warns that narrated support can lower retention; none of the guides found mentions it.
 
 ## "Nobody has done it" versus "we have not seen it"

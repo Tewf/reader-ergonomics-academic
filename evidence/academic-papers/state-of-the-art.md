@@ -14,7 +14,7 @@ A **trend** is a description of practice, with no comparison of formats.
 | How widespread elsewhere? | Lin 2012; Moskovitz 2024 | hand-coded corpora, 39 disciplines; STEM by study type | plain IMRD not the default; under half in engineering and social science | limit |
 | Does a checklist raise completeness? | Turner 2012 | Cochrane review, 50 non-randomised evaluations, 16,604 trials | allocation concealment 45% vs 22% (RR 1.81, 99% CI 1.25 to 2.61) | upper bound |
 | Is reporting then complete? | Turner 2012 | same | "remains sub-optimal" in endorsing journals too | limit |
-| Does endorsement help for guidelines other than CONSORT? | Stevens 2014 | systematic review, 101 guidelines, 26 evaluations | PRISMA summed score only (SMD 0.53, 99% CI 0.02 to 1.03); insufficient evidence for the rest | limit |
+| Does endorsement help for guidelines other than CONSORT? | Stevens 2014 | systematic review, 101 guidelines, 26 evaluations of nine of them | PRISMA summed score only (SMD 0.53, 99% CI 0.02 to 1.03, endorsing against non-endorsing journals); insufficient evidence for the rest | limit |
 | Does a structured abstract hold more information? | Taddio 1994 | 300 abstracts before and after the switch, 33 criteria | quality 0.57 vs 0.74 | upper bound |
 | Same, outside medicine | Budgen 2008 | randomised paired judgement, 64 judges | completeness +6.65 on an 18-item questionnaire, clarity +2.98 on 1-10 | upper bound |
 | Does it speed up search? | Hartley 1996 | simplified abstracts | faster and more accurate, as summarised in Hartley 2004a | upper bound |
@@ -45,9 +45,9 @@ A **trend** is a description of practice, with no comparison of formats.
 | How many statements say "on request"? | Gabelica 2022 | 3,416 BMC statements | 42% | adoption |
 | How transparent are industry AI developers? | Bommasani 2024 | 14 developers, 100 indicators | mean 58 of 100 | adoption |
 | How many STM publishers have an author policy on AI chatbots? | Bhavsar 2025 | audit of 162 publishers, 2023-09 to 2023-12 | 56 (34.6%) | adoption |
-| How many health journals instruct on plain-language summaries? | Gainey 2022 | scoping review of 534 journals | 27 (secondary) | adoption |
+| How many health journals instruct on plain-language summaries? | Gainey 2022 | scoping review of 534 journals | 27 | adoption |
 | How many ML papers share code and data? | Coakley 2026 | 56,800 papers, five AI venues | 11% in 2014, 64% in 2024 (preprint) | adoption |
-| How many AI start-ups publish? | Loisel 2026 | 317 firms, 1998-2025 | about half have no qualifying output (preprint) | adoption |
+| How many AI start-ups publish? | Loisel 2026 | 317 firms, 1998-2025 | more than half (52.4%) have no qualifying output (preprint) | adoption |
 
 ### Best evidence (a research record)
 
@@ -73,7 +73,7 @@ A **trend** is a description of practice, with no comparison of formats.
 | Does STAR Methods improve reporting? | none found | none | no study located | open |
 | Do release blog posts or technical reports change reading or citing? | none found | none | no study located | open |
 | Does authors' declared AI use match estimated use? | none found | none | no study located | open |
-| Do reviewers follow an AI rule? | Kim 2026 | randomised policy and survey, N = 1,486 | 22.5% under a ban said they used an LLM (self-report, preprint) | limit |
+| Do reviewers follow an AI rule? | Kim 2026 | randomised policy and survey, N = 1,486 reviewers and chairs | 22.5% under a ban said they used an LLM (self-report, preprint) | limit |
 
 ## Reading the table
 

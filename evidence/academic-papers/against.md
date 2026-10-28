@@ -58,7 +58,7 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - The organisers of the NeurIPS programme state they have no evidence of a quality effect (Pineau 2021). Grade: supported with caveat.
 - Broader impact statements were dropped after one year (Ashurst 2022), and their content was uneven (Nanayakkara 2021). Grade: supported with caveat.
 - Checklists catch missing items, not wrong methods: leakage affected 294 papers across 17 fields (Kapoor 2023). Grade: measured.
-- Outside CONSORT, endorsing a guideline did not significantly raise completeness on nearly every item: 26 evaluations of 101 guidelines (Stevens 2014). Grade: measured.
+- Outside CONSORT, endorsing a guideline did not significantly raise completeness on nearly every item: 26 evaluations of nine of 101 guidelines (Stevens 2014). Grade: measured.
 - Across 56,800 papers at five AI venues, code and data sharing rose from 11% to 64% in 2014-2024, and the rise began before the checklists (Coakley 2026, preprint). Grade: supported with caveat.
 - Only 11 of 31 interventions to raise adherence to reporting guidelines had been evaluated (Blanco 2019). Grade: measured, descriptive.
 
@@ -67,12 +67,12 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 - Artifacts did not raise citations in a decade of evaluations (Winter 2022). Grade: measured.
 - Committees disagree on what an artifact must meet (Hermann 2020), and creators and reviewers see little reward (Timperley 2021). Grade: supported with caveat.
 - In 2017 only 58.5% of ICSE papers that built an artifact released it (Heumüller 2020). Grade: measured.
-- The 32.3% quick-build rate (Collberg 2016, secondary) was disputed in public by authors of papers it classed as not repeatable (secondary). Grade: supported with caveat.
+- The 32.3% quick-build rate (the technical report behind Collberg 2016, secondary) was disputed in public by authors of papers it classed as not repeatable (secondary). Grade: supported with caveat.
 
 ## 9. Documentation cards
 
 - Environmental impact is filled in 2.0% of model cards and limitations 17.4% (Liang 2024). Grade: measured, descriptive.
-- The 29.0% download gain appeared in one of two batches of 42 models; the other batch was null (Liang 2024). Grade: supported with caveat.
+- The 29.0% download gain appeared in one of two batches (42 models in all); the other batch was null (Liang 2024). Grade: supported with caveat.
 - Two authors of Liang 2024 work at the hub it studies, and the preprint gives 44.2% and 42.8% for the share of repositories with cards in different places. Grade: supported with caveat.
 - The datasheet test has 23 participants and one dataset (Boyd 2021). Grade: supported with caveat.
 

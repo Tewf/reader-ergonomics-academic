@@ -12,9 +12,9 @@ Searched first (protocol.md 3). None of them reviews the layout of a research ar
 |---|---|---|
 | Stylianides 2024 | Systematic review of 103 papers on proof and proving, school and university (abstract read) | Sorts papers by teacher, student and content; this review asks only how a text should be laid out |
 | Stylianides 2017 | Handbook chapter: proving as problem solving, as convincing, as social; discusses Hodds 2014 and why mathematicians read proofs (read in part) | Narrative, argues for intervention studies; this review compares layouts |
-| Lessing 2025 | Systematic review of reasoning and proof in mathematics education (not read; a search summary gave 80 publications for 2019-2024, secondary) | Broad scope; no layout question |
+| Lessing 2025 | Systematic review of reasoning and proof in mathematics education (not read; a search summary gave 80 publications for 2019-2024, secondary, not checked) | Broad scope; no layout question |
 | Teledahl 2024 | Systematic review of 48 works on quality in students' mathematical writing: proof writing shows a common set of standards, such as defining assumptions and variables (abstract read) | Students' written proofs; this review looks at what readers of papers meet |
-| Powell 2017 | Synthesis of 29 studies of mathematics writing, grades 1 to 12, 1991-2015 (abstract read) | School writing, not research articles |
+| Powell 2017 | Synthesis of 29 studies of mathematics writing, grades 1 to 12, 1991-2015 (secondary: a search summary of the journal page, not opened; not checked) | School writing, not research articles |
 | Tran Minh 2025 | Narrative survey of proof assistants used for teaching (abstract read) | Teaching tools; this review's formal strand is the blueprint as explicit structure |
 | Mejia-Ramos and Inglis 2009 | Found little work on how students read proofs, as against how they construct them (secondary, from Davies 2021) | Not opened; the gap it names is the one strand 5 fills |
 
@@ -126,7 +126,7 @@ The societies and publishers regulate form (abstract, theorem styles, length) an
 | Fuller 2014 | Structured versus linear proof: structured readers better at picking a summary, somewhat worse on justifications, transfer and examples, mostly not significant | measured, one study |
 | Roy 2017b | e-Proof (N = 21) versus textbook proof (N = 28): equal at once, e-Proof group retained less after two weeks; sample sizes not checked against the paper | measured |
 | Lew 2020 | Generic versus traditional proof, randomised: no difference in comprehension, though students preferred generic | measured |
-| Hodds 2014 | Self-explanation training before reading: d = 0.95 in the lab; held in a classroom study (Alcock 2015; the count of 107 students not checked) | measured |
+| Hodds 2014 | Self-explanation training before reading: d = 0.95 in Experiment 1, in the lab; held in a classroom study (Alcock 2015; the count of 107 students not checked) | measured |
 | Davies 2020 | Proof summaries scored by comparative judgement are reliable; top summaries name the logical structure | measured |
 | Weber 2015 | Strategies of good student readers: try the proof first, find the framework, split into parts, test with examples (secondary) | supported with caveat |
 

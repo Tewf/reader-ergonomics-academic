@@ -78,4 +78,4 @@ The two records are held by different practices.
 | Where the main results go | introduction states them (21 of 22 openings; every guide) | none; no experiment |
 | Layout of a proof | linear paragraphs | Fuller 2014, a trade-off |
 | Dependencies | a list of labels in blueprints (about 40 projects) | none for human readers |
-| Raising comprehension | not adopted: self-explanation training | Hodds 2014, d = 0.95 |
+| Raising comprehension | not adopted: self-explanation training | Hodds 2014, d = 0.95 (Experiment 1) |

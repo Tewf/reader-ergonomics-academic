@@ -12,6 +12,12 @@ Why this one:
 - It is what ICMJE asks of original research, and what the leading medical journals print (Sollaci 2004).
 - Readers and reviewers already know where to look in it, so any new shape must beat it, not merely differ from it.
 
+## A second named baseline, for computing and ML papers
+
+**IMRaD with a structured abstract, the venue checklist (NeurIPS or ACL) filled in, a data and code statement with a persistent archive, and a one-line language-model use declaration where the venue asks.**
+
+Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 2023), so a proposed shape for those venues must beat it. The first baseline stays the control for medicine and other fields.
+
 ## What to measure
 
 | Outcome | Definition | Instrument used before | Source |
@@ -25,6 +31,12 @@ Why this one:
 | Completeness of reporting | share of guideline items reported | CONSORT or PRISMA items | Turner 2012 |
 | Judged clarity | rating from 1 to 10 by independent researchers | paired rating | Budgen 2008 |
 | Readability, secondary only | FRE and NDC scores | formula | Plavén-Sigray 2017 |
+| Checklist accuracy | share of yes answers a reader can confirm in the paper | reviewer check of code claims | Pineau 2021 |
+| Artifact reachability | share of artifact links that work after N years | automated link check | Winter 2022 |
+| Declared against actual availability | share of data and code statements that lead to usable files | statement audit and retrieval | Danchev 2021, Gabelica 2022 |
+| Knowledge from a summary | score on questions about the findings after reading a summary | multiple-choice knowledge test | Buljan 2018 |
+| Perceived understanding | self-rated understanding after the summary | survey item | Bredbenner 2019 |
+| Language-model signature | excess-vocabulary share in the abstract, as a covariate | word-frequency comparison | Kobak 2025 |
 
 ## How to compare
 
@@ -35,7 +47,9 @@ Why this one:
 - Cover at least two fields, since effects differed by discipline (Hartley 2000, Moskovitz 2024).
 - Preregister the protocol, Registered Report style (Chambers 2013).
 - Report effect sizes with intervals, and publish the questions and the texts.
+- Report whether the texts were written or edited with a language model, and the excess-vocabulary share, since 13.5% or more of 2024 biomedical abstracts show it (Kobak 2025).
 
 ## Not baselined
 
 - Highlights, graphical abstracts and the CARS order have no reader study against this baseline; they stay convention, untested.
+- Model cards, datasheets, STAR Methods, significance statements and release blog posts have no reader study against either baseline; they stay convention, untested.

@@ -4,6 +4,10 @@ An **upper bound** here is the best result achieved, by whom, measured how.
 A **limit** is a result showing that a part does not deliver what it is assumed to deliver.
 A **trend** is a description of practice, with no comparison of formats.
 
+- **adoption**: a count of how many venues, papers or developers follow a practice;
+- **lower bound**: an estimate that undercounts by construction;
+- **open**: a question for which no study was located.
+
 | Sub-question | Record holder | Method | Measure | Kind |
 |---|---|---|---|---|
 | How widespread is IMRaD in medicine? | Sollaci 2004 | 1,297 articles, 4 journals, 1935-1985 | above 80% in the 1970s, sole pattern in the 1980s | upper bound |
@@ -25,6 +29,42 @@ A **trend** is a description of practice, with no comparison of formats.
 | How long does a reading last? | Tenopir 2008 | repeated surveys since 1977, last-reading incident | 48 minutes (1977) to 31 minutes (2005) | trend |
 | Where do experienced readers look? | Hubbard 2017 | survey, 260 undergraduates and researchers in biological sciences at one UK university, section ranking | figures and results first, introduction last | trend |
 | Is scientific prose getting harder? | Plavén-Sigray 2017 | 709,577 abstracts, FRE and NDC | FRE falls with year (r = -0.93) | trend |
+
+### Most adopted (a practice record)
+
+| Sub-question | Record holder | Method | Measure | Kind |
+|---|---|---|---|---|
+| Is a reporting checklist required of every submission in ML? | NeurIPS (since 2019), ACL venues (since 2020) | venue rules | mandatory at submission; NeurIPS 2026 has 16 questions | adoption |
+| How many papers come with code in ML? | Pineau 2021 | 2019 NeurIPS submissions | about 40% at submission, 74.4% at camera-ready | adoption |
+| How many NLP submissions link code? | Magnusson 2023 | 10,405 checklist responses | 45.9% | adoption |
+| How many models carry a card? | Liang 2024 | 74,970 Hugging Face repositories | 44.2% by one count in the preprint, 90.5% of downloads | adoption |
+| Are artifacts common where evaluation exists? | Winter 2022 | decade of SE and PL conferences | about 90% of eligible 2020 PLDI articles | adoption |
+| How many publishers give AI guidance? | Ganjavi 2024 | top 100 publishers and journals, 2023 | 24% and 87% | adoption |
+| How many statements say "on request"? | Gabelica 2022 | 3,416 BMC statements | 42% | adoption |
+| How transparent are industry AI developers? | Bommasani 2024 | 14 developers, 100 indicators | mean 58 of 100 | adoption |
+
+### Best evidence (a research record)
+
+| Sub-question | Record holder | Method | Measure | Kind |
+|---|---|---|---|---|
+| Does an ML checklist change reporting? | Magnusson 2023 | pre-checklist sample of 50 papers against self-reported answers | 8 of 10 items up | upper bound (confounded) |
+| Are checklist answers accurate? | Pineau 2021 | reviewers checked code claims | 71.5% confirmed | limit |
+| Do artifact badges raise citations? | Winter 2022 | corpus, decade of AE | no significant gain | limit |
+| Same, with correlation only | Heumüller 2020 | 789 ICSE papers | small positive correlation | upper bound (observational) |
+| Does a badge raise sharing? | Kidwell 2016 | before and after with comparison journals | under 3% to 39% | upper bound |
+| Does a data mandate raise sharing? | Hardwicke 2018 | interrupted time series | 25% to 78% | upper bound |
+| Does a statement predict real availability? | Danchev 2021 | 487 trials, declared against actual | 68.6% declared, 0.6% public | limit |
+| Does sharing on request work? | Stodden 2018 | 204 papers, request and re-run | 44% obtained, 26% reproduced | limit |
+| Does a datasheet change what an engineer notices? | Boyd 2021 | think-aloud, 23 participants | more ethical issues, earlier | upper bound (small) |
+| Does a model card raise use? | Liang 2024 | difference in differences, 42 models | +29.0% in one batch | upper bound (one batch) |
+| Does a plain summary beat a text summary? | Buljan 2018 | three randomised trials | no knowledge difference | limit |
+| Which summary type raises perceived understanding? | Bredbenner 2019 | randomised, 538 participants | video and plain language ahead | upper bound |
+| Is a significance statement simpler? | Markowitz 2024 | 34,584 PNAS papers | d near 0.3 on word simplicity | trend |
+| How much biomedical writing is LLM-processed? | Kobak 2025 | excess vocabulary, 15 million abstracts | at least 13.5% (2024) | lower bound |
+| Same, by field and venue | Liang 2025 | mixture model, 950,965 papers | up to 17.5% in computer science | upper bound (estimate) |
+| Does STAR Methods improve reporting? | none found | none | no study located | open |
+| Do release blog posts or technical reports change reading or citing? | none found | none | no study located | open |
+| Does declared AI use match estimated use? | none found | none | no study located | open |
 
 ## Reading the table
 

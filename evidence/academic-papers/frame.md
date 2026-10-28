@@ -29,6 +29,14 @@ How should a research article be ordered so that a reader can find, judge and re
 | **Nanopublication**, **modular publishing** | semantic publishing | the article split into machine-readable claims, or into one unit per research stage |
 | **Readability formula** (Flesch Reading Ease, FRE; New Dale-Chall, NDC) | psycholinguistics, bibliometrics | a score from sentence length, word length or word familiarity |
 | **Document class**, **article type** | typesetting, publishing (JATS) | the template a publisher supplies, and the label a journal gives a manuscript |
+| **Paper checklist**, **reproducibility checklist**, **Responsible NLP Research checklist** | machine learning (ML) and natural language processing (NLP) venues | a form the author fills at submission: yes, no or not applicable, per reporting item (NeurIPS, ACL) |
+| **Artifact evaluation** (AE), **artifact badge** | software engineering, systems, programming languages | a review of the code and data behind a paper, and a pictogram printed on the article if it passes (ACM Artifact Review and Badging) |
+| **Model card**, **datasheet for datasets**, **system card** | ML, responsible AI | a short fixed-section document that travels with a model or a dataset |
+| **STAR Methods**, **key resources table**, **RRID** | life-science publishing (Cell Press) | a methods format with a table of reagents and software, each with a persistent identifier |
+| **Plain language summary** (PLS), **lay summary**, **digest**, **significance statement**, **author summary** | health and science publishing | a second, short text for readers outside the field, beside the abstract (Cochrane, eLife, PNAS, PLOS) |
+| **Data availability statement** (DAS), **data sharing statement** (DSS), **code availability statement** | publishing policy | a sentence or section saying where the data and code are, or why they are not shared |
+| **Technical report**, **model report**, **release blog post** | industry AI labs | a long report or a web page issued by a company in place of, or beside, a peer-reviewed paper |
+| **Generative AI policy**, **AI disclosure**, **LLM-modified content**, **excess vocabulary** | publishing ethics, meta-research | what a venue allows and asks authors to declare about language-model use, and how much use has been estimated |
 
 ## Search terms, three ways
 
@@ -42,8 +50,16 @@ How should a research article be ordered so that a reader can find, judge and re
 | registered reports, results-free review | RR | Chambers, Nosek |
 | executable paper, computational notebook | none | Donoho, Pimentel |
 | readability of scientific abstracts | FRE, NDC | Plavén-Sigray, Hartley |
+| reproducibility checklist, machine learning | none | Pineau, Dodge |
+| artifact evaluation, research artifact badge | AE, AEC | Winter, Heumüller, Timperley |
+| model documentation, dataset documentation | none | Mitchell, Gebru |
+| plain language summary, lay summary | PLS | Buljan, Jelicic Kadic |
+| data availability statement, data sharing statement | DAS, DSS | Gabelica, Hardwicke, Hamilton |
+| foundation model transparency | FMTI | Bommasani |
+| LLM-modified content, excess vocabulary | LLM | Liang, Kobak |
+| generative AI policy for authors | GAI | Ganjavi |
 
 ## Out of scope
 
 - Mathematics, theoretical computer science and the humanities depart from IMRaD; a companion review in this repository covers mathematical articles with proofs.
-- Peer review as a process, citation practice and authorship rules are left out.
+- Peer review as a process, citation practice and authorship rules are left out, except where a venue's rule about language-model use or about a reporting checklist changes what an author writes.

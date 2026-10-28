@@ -24,3 +24,9 @@ Steps: [frame](frame.md) · [review](review.md) · [state of the art](state-of-t
 | Few shared notebooks reproduce their results (4.03%) | measured | against.md 5 |
 | Templates fix layout, metadata and references, not the argument | supported with caveat | review.md 8 |
 | IMRaD helps a reader find a result faster than another order | convention, untested | position.md |
+| Reviewers confirmed 71.5% of 2019 NeurIPS code claims made on the checklist | measured | review.md 9 |
+| Artifacts do not raise citations in a decade of evaluations | measured | review.md 10 |
+| A declared data-sharing statement is a weak signal of actual sharing | measured | review.md 13 |
+| An infographic and a plain summary give the same knowledge | measured | review.md 12 |
+| At least 13.5% of 2024 biomedical abstracts were processed with a language model | measured | review.md 16 |
+| No study located of STAR Methods, of release blog posts, or of declared against estimated AI use | open | state-of-the-art.md |

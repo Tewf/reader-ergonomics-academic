@@ -47,3 +47,52 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 ## 6. Reading advice is untested
 
 - The three-pass method (Keshav 2007) and the ten rules for structure (Mensh 2017) are advice from experience. Grade: convention, untested.
+
+## 7. Checklists are self-reported and lightly used
+
+- Of authors who said they had code, reviewers confirmed 71.5% (Pineau 2021). Grade: measured.
+- 34% of 2019 NeurIPS reviewers found the checklist useful; the share who read it is unknown (Pineau 2021). Grade: measured, descriptive.
+- Submissions that answer yes to every item are accepted less than expected, which the authors read as inaccurate answers (Magnusson 2023). Grade: supported with caveat.
+- Reporting rates were flat across the year after the first gain; the before data are 50 papers checked by hand against later self-reports (Magnusson 2023). Grade: supported with caveat.
+- The organisers of the NeurIPS programme state they have no evidence of a quality effect (Pineau 2021). Grade: supported with caveat.
+- Broader impact statements were dropped after one year (Ashurst 2022), and their content was uneven (Nanayakkara 2021). Grade: supported with caveat.
+- Checklists catch missing items, not wrong methods: leakage affected 294 papers across 17 fields (Kapoor 2023). Grade: measured.
+
+## 8. Artifacts and badges
+
+- Artifacts did not raise citations in a decade of evaluations (Winter 2022). Grade: measured.
+- Committees disagree on what an artifact must meet (Hermann 2020), and creators and reviewers see little reward (Timperley 2021). Grade: supported with caveat.
+- In 2017 only 58.5% of ICSE papers that built an artifact released it (Heumüller 2020). Grade: measured.
+- The 32.3% quick-build rate (Collberg 2016, secondary) was disputed in public by authors of papers it classed as not repeatable (secondary). Grade: supported with caveat.
+
+## 9. Documentation cards
+
+- Environmental impact is filled in 2.0% of model cards and limitations 17.4% (Liang 2024). Grade: measured, descriptive.
+- The 29.0% download gain appeared in one of two batches of 42 models; the other batch was null (Liang 2024). Grade: supported with caveat.
+- Two authors of Liang 2024 work at the hub it studies, and the preprint gives 44.2% and 42.8% for the share of repositories with cards in different places. Grade: supported with caveat.
+- The datasheet test has 23 participants and one dataset (Boyd 2021). Grade: supported with caveat.
+
+## 10. Plain-language formats
+
+- None of 1,738 Cochrane plain language summaries met every measured standard (Jelicic Kadic 2016). Grade: measured.
+- Their readability stays far above the recommended level (Karačić 2019). Grade: measured.
+- An infographic and a text summary gave the same knowledge in three trials (Buljan 2018). Grade: measured.
+- Bredbenner 2019 states that abstracts are less successful at producing comprehension, while its own results show all groups did well and preference did not track comprehension. Grade: supported with caveat.
+- Significance statements differ little from abstracts (readability d = 0.036, Markowitz 2024). Grade: measured.
+- The eLife reader survey is the publisher's own and self-selected (eLife 2017). Grade: convention, untested.
+- Cell Press and Elsevier pages describing STAR Methods are the owner's claim; this search found no independent evaluation. Grade: convention, untested.
+
+## 11. Availability statements
+
+- 0.6% of declared clinical-trial datasets were public in three leading journals (Danchev 2021). Grade: measured.
+- Even where data were reusable, 64 of 1,324 values did not reproduce within 10% (Hardwicke 2018). Grade: measured.
+- Request-based sharing worked for 6.8% to 44% depending on the study (Gabelica 2022, Stodden 2018). Grade: measured.
+- Only eight of 105 meta-research studies had low risk of bias (Hamilton 2023). Grade: measured.
+
+## 12. Industry release and AI-use estimates
+
+- A company report is its owner's account; the GPT-4 report states what it withholds (OpenAI 2023). Grade: convention, untested.
+- The transparency index is run by academics who score companies, and the follow-up score rose partly because developers sent the information (Bommasani 2024). Grade: supported with caveat.
+- The company-versus-university brief gives no counts (Rodriguez 2021), and the funding study is an abstract-level source here (Gnewuch 2025). Grade: supported with caveat.
+- The excess-vocabulary estimate is a lower bound and counts abstracts processed, not authors' intent (Kobak 2025). Grade: measured.
+- The mixture-model estimate depends on reference texts and covers preprints and one publisher (Liang 2025). Grade: supported with caveat.

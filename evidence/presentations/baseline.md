@@ -27,6 +27,9 @@ Two further reference points, for practice:
 | Load | self-rated mental effort, 7 points | Garner 2013 |
 | Statistic | Cohen's d with an interval; report d for each outcome | Garner 2013 |
 | Check on preference | rating of appropriateness of text on slides | Garner 2013 |
+| Motion arm | the same narration with key points shown in step against the whole slide at once; eye tracking where possible | Liu 2022; Ito 2026 |
+| Engagement beside comprehension | rate both, since they can diverge | Li 2023 (secondary); Guo 2014 |
+| Colour arm | the same slide with colour coding against monochrome, or one palette against another, in the same words | Ozcelik 2009; Brom 2018 |
 | Control for prior knowledge | self-rating or pre-test | Garner 2013 |
 
 - Not yet run by this repository: no comparison of its own rules against the baseline exists.
@@ -48,6 +51,12 @@ Grades: **convention** means a number agreed by a body or by practice, **measure
 | Words beside the figure they explain | [figure next to its text](https://github.com/Tewf/reader-ergonomics/blob/master/principles/page/figure-next-to-its-text.md) | measured |
 | No decorative images without a purpose | Sundararajan 2020 | measured |
 | Alt text on every figure; reading order set | Rector 2019 (text equivalents for informative graphics); Microsoft 2026 (example only) | convention |
+| Colour is never the only cue: the slide stays readable in greyscale | W3C 2023c; Rector 2019; Microsoft 2026 | convention |
+| No rainbow or jet map for ordered data; a perceptually uniform map instead | Crameri 2020; Borland 2007; Matplotlib 2026 | convention, argued; one model finds a use for rainbow (Reda 2021) |
+| A palette of at most 4 to 6 colours, one colour per category, in a fixed order | ScotGov 2024; Bramble 2026 (three colours) | convention |
+| Dark text on a light ground by default | Greco 2008; Beamer 2026 | measured (three experiments); advice for dark rooms differs |
+| No movement that starts alone and lasts over 5 seconds without a way to stop it | W3C 2023b | convention |
+| No transition other than none or one plain kind used throughout | Beamer 2026 | convention, untested |
 
 ## Checklist (rules a person judges)
 
@@ -60,3 +69,7 @@ Grades: **convention** means a number agreed by a body or by practice, **measure
 7. Handout: the paper or a document of its own, not the slides read as notes (Worthington 2015, secondary).
 8. Test the room: read the farthest seat in rehearsal (TED 2026, example only).
 9. Describe a diagram aloud when its content is not in your words (Rector 2019); untested against the redundancy result (Adesope 2012).
+10. Show key points in step with what you say, and animate a change, not decoration (Liu 2022, Ito 2026; Beamer 2026).
+11. Check the deck for colour-vision deficiency with a simulator or a greyscale view (ACM 2026, Microsoft 2026).
+12. Demo only what shows moving parts; script it, and keep a recording ready (Nederbragt 2016; LornaJane 2017, example only). Live coding has not been shown to teach more than static code (Shah 2025).
+13. Keep embedded clips short and put an educational one in the middle (Ljubojevic 2014); test the file on the room computer.

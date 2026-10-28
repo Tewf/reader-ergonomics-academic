@@ -6,37 +6,39 @@ This file lists the pool of sources behind the review, with how each was found a
 
 | Stage | Formal | Grey |
 |---|---|---|
-| Pool before this round (narrative search and snowballing) | 52 | 20 |
-| Found by strings E, F, G (protocol.md) | 12 | 4 |
-| Pool now | 64 | 24 |
-| Grey at or above 10 of 20 | n/a | 12 |
-| Grey below 10 of 20 (examples of practice only) | n/a | 12 |
+| Pool before the first MLR round (narrative search and snowballing) | 52 | 20 |
+| Found by strings E, F, G of the first round (protocol.md) | 12 | 4 |
+| Found by strings E7 to E13, H, M, V, G13 to G31 and other routes (Q7 and Q8 round) | 43 | 15 |
+| Pool now | 107 | 39 |
+| Grey at or above 10 of 20 | n/a | 20 |
+| Grey below 10 of 20 (examples of practice only) | n/a | 19 |
 
-- Strings: 6 existing-review (E), 2 follow-up (F), 12 grey (G); 225 results screened in all.
-- Excluded without opening: blogs and template vendors (tier 3), event listings, repeats. Seen, not read: two IEEE guides (certificate error).
+- Strings: first round 6 existing-review (E), 2 follow-up (F), 12 grey (G); Q7 and Q8 round 7 existing-review (E7 to E13), 23 formal database strings (H, M, V), 19 grey (G13 to G31). That is 69 strings and 628 results screened in all (225 and 403).
+- Excluded without opening: blogs and template vendors (tier 3), event listings, repeats, papers on web pages, packaging and marketing colour. Seen, not read: two IEEE guides (certificate error), a Tufte page on projection backgrounds (HTTP 403), a science-communication colour PDF.
 - Not included though seen in a summary: a repository review of 31 PowerPoint studies; a 2025 review of teachers' gesture experiments.
+- Also not included: a 2020 meta-analysis of signaling in training (abstract fragment only), and a study of sequential display and retention seen as an abstract in a Geneva archive.
 
 ## Subtotals of grey sources
 
-The quality field gives the eight subtotals in the order A to T defined in the [method](../README.md#method), then the total of 20. Books marked "catalogue page only" or "not read" are scored on what the page or earlier notes show.
+Scores for the Q7 and Q8 round were read from the page or the PDF on 2026-10-28. The wide-use credit in the impact column rests on what the page says about itself unless a count is named. The quality field gives the eight subtotals in the order A to T defined in the [method](../README.md#method), then the total of 20. Books marked "catalogue page only" or "not read" are scored on what the page or earlier notes show.
 
 ## Grey sources
 
 | Key | Kind | Found via | Quality | Used in |
 |---|---|---|---|---|
-| TED 2026 | grey, owner guide (tier 2) | prior pool; G1 | 3/4/0/0.5/0/1/0.5/0.5 = **9.5** (below 10) | review 6, baseline |
+| TED 2026 | grey, owner guide (tier 2) | prior pool; G1 | 3/4/0/0.5/0/1/0.5/0.5 = **9.5** (below 10) | review 6, baseline, 8 |
 | Duarte 2008 | grey, book (tier 1), catalogue page only | prior pool | 4/3/0.5/1/0.5/1/0.5/1 = **11.5** | review 6 |
 | Duarte 2010 | grey, book (tier 1), catalogue page only | prior pool | 4/2.5/0.5/1/0.5/0.5/0.5/1 = **10.5** | review 6 |
 | Duarte 2026 | grey, owner guide (tier 2) | prior pool | 2/2/0/0/0/0.5/0/0.5 = **5** (below 10) | review 6, position |
 | Reynolds 2008 | grey, book (tier 1), catalogue page only | prior pool; G12 | 3.5/3.5/1/1/0.5/1/0.5/1 = **12** | review 6 |
 | Anderson 2016 | grey, book (tier 1), catalogue page only | prior pool | 3.5/2.5/0.5/1/0/0.5/0.5/1 = **9.5** (below 10) | review 6 |
 | Kawasaki 2005 | grey, blog (tier 3), secondary only | prior pool | 2.5/2/0/1/0/0.5/0.5/0 = **6.5** (below 10) | review 6 |
-| Beamer 2026 | grey, software manual (tier 1) | prior pool | 4/3/2/1/0/0.5/0.5/1 = **12** | review 4, 6, baseline |
+| Beamer 2026 | grey, software manual (tier 1) | prior pool | 4/3/2/1/0/0.5/0.5/1 = **12** | review 4, 6, baseline, 7, 8 |
 | PechaKucha 2026 | grey, owner page (tier 2) | prior pool; G8 | 2.5/2/0/0/0/0.5/0.5/0.5 = **6** (below 10) | review 6, state of the art |
 | Ignite 2026 | grey, owner page (tier 2) | prior pool; G8 | 2/2/0/0/0/0.5/0.5/0.5 = **5.5** (below 10) | review 6, state of the art |
 | Bezos 2018 | grey, annual report letter (tier 2) | prior pool; G6 | 4/3/0.5/1/0/1/0.5/0.5 = **10.5** | review 6, position |
 | Microsoft 2019 | grey, company blog (tier 3) | prior pool | 3/1.5/0/1/0/0.5/0.5/0 = **6.5** (below 10) | review 6, state of the art |
-| Microsoft 2026 | grey, support page (tier 2) | prior pool | 3/2.5/1.5/0/0/0.5/0.5/0.5 = **8.5** (below 10) | review 4, baseline |
+| Microsoft 2026 | grey, support page (tier 2) | prior pool | 3/2.5/1.5/0/0/0.5/0.5/0.5 = **8.5** (below 10) | review 4, baseline, 8 |
 | Leonhard Center 2026 | grey, owner site (tier 2) | prior pool; G5 | 4/3.5/0/0/0/0.5/0.5/0.5 = **9** (below 10) | against, position |
 | Minto 1987 | grey, book (tier 1), not read | prior pool | 3/2.5/0.5/1/0/1/0.5/1 = **9.5** (below 10) | review 6 |
 | Tufte 2003 | grey, book (tier 1), not read | prior pool | 3.5/3.5/1.5/1/0.5/1/0.5/1 = **12.5** | review 2, against |
@@ -44,10 +46,25 @@ The quality field gives the eight subtotals in the order A to T defined in the [
 | W3C 2023 | grey, standard (tier 1) | prior pool | 4/5/3/1/1/0.5/1/1 = **16.5** | review 4, baseline |
 | Access Board 2017 | grey, government standard (tier 1) | prior pool | 4/5.5/3.5/1/1/0.5/1/1 = **17.5** | review 4, baseline |
 | AVIXA 2016 | grey, standard (tier 1), formula via secondary | prior pool | 4/5/2.5/1/0.5/1/0.5/1 = **15.5** | review 4 |
-| Rector 2019 | grey, owner guide (tier 2) | G9; derived guides cite it | 4/4/2/1/0.5/1/1/0.5 = **14** | review 6, position |
-| ACM 2026 | grey, owner guide (tier 2) | G3 | 2/3.5/2/0.5/0.5/0.5/0/0.5 = **9.5** (below 10) | review 6 (example only) |
-| Bramble 2026 | grey, teaching centre guide (tier 2) | G4 | 2.5/4/2.5/0/1/0.5/0/0.5 = **11** | review 6, position |
-| SSP 2026 | grey, society guide (tier 2) | G2 | 2/3/2/0.5/0/1/0/0.5 = **9** (below 10) | review 6 (example only) |
+| Rector 2019 | grey, owner guide (tier 2) | G9; derived guides cite it | 4/4/2/1/0.5/1/1/0.5 = **14** | review 6, position, 7, 8 |
+| ACM 2026 | grey, owner guide (tier 2) | G3 | 2/3.5/2/0.5/0.5/0.5/0/0.5 = **9.5** (below 10) | review 6 (example only), 8 |
+| Bramble 2026 | grey, teaching centre guide (tier 2) | G4 | 2.5/4/2.5/0/1/0.5/0/0.5 = **11** | review 6, position, 7, 8 |
+| SSP 2026 | grey, society guide (tier 2) | G2 | 2/3/2/0.5/0/1/0/0.5 = **9** (below 10) | review 6 (example only), 8 |
+| Wilke 2019 | grey, book with free text (tier 1) | Q8, added directly | 3.5/4/3/1/0.5/1/0.5/1 = **14.5** | review 8 |
+| EU 2023 | grey, official guide (tier 1) | G16 | 3.5/3/3.5/1/0.5/1/0.5/1 = **14** | review 8 |
+| ScotGov 2024 | grey, government design system (tier 1) | G18 | 3.5/2.5/3/1/0.5/0.5/0.5/1 = **12.5** | review 8 |
+| Matplotlib 2026 | grey, software manual (tier 1) | Q8, added directly | 3.5/3.5/3.5/1/0.5/1/0.5/1 = **14.5** | review 8 |
+| Schwabish 2014 | grey, blog (tier 3) | G14 | 2.5/0.5/1/0/0.5/0.5/0/0 = **5** (below 10) | review 8 (example only) |
+| Ethos3 2026 | grey, company blog (tier 3) | G15 | 1.5/0.5/0/0/0/0/0.5/0 = **2.5** (below 10) | review 8 (example only) |
+| LornaJane 2017 | grey, blog (tier 3) | G20 | 2.5/1.5/2/0.5/0.5/1/0.5/0 = **8.5** (below 10) | review 7 (example only) |
+| Mozilla 2026 | grey, wiki (tier 2) | G20 | 2/1/2.5/0/0/0/0/0.5 = **6** (below 10) | review 7 (example only) |
+| Nederbragt 2016 | grey, organisation blog (tier 2) | G23 | 3/2/3/0.5/1/1/0.5/0.5 = **11.5** | review 7 |
+| Microsoft 2026b | grey, support page (tier 2) | G19 | 2.5/1/0.5/0.5/0/0.5/0.5/0.5 = **6** (below 10) | review 7 (example only) |
+| Sanderson 2026 | grey, owner page (tier 2) | G22 | 3/1/1/0.5/0/1/1/0.5 = **8** (below 10) | review 7 (example only) |
+| W3C 2023b | grey, standard (tier 1) | Q7, added directly | 4/5/3.5/1/1/0.5/1/1 = **17** | review 7, baseline |
+| W3C 2023c | grey, standard (tier 1) | Q8, added directly | 4/5/3.5/1/1/0.5/1/1 = **17** | review 8, baseline |
+| Pichler 2023 | grey, thesis (tier 1) | E13 | 2.5/3.5/3.5/1/1/1/0/1 = **13.5** | review 7 |
+| Simpleshow 2021 | grey, company white paper (tier 2) | E13 | 1.5/1/0/0.5/0/0.5/0.5/0.5 = **4.5** (below 10) | review 7 (example only) |
 
 ## Formal sources
 
@@ -93,19 +110,19 @@ The quality field gives the eight subtotals in the order A to T defined in the [
 | Mayer 2017 | formal | prior pool | supported with caveat (review, secondary) | review 1 |
 | Mayer 2020 | formal | prior pool | supported with caveat (book) | review 1 |
 | Mueller 2014 | formal | prior pool | supported with caveat (not replicated, see Urry 2019) | review 2 |
-| Noetel 2022 | formal | E2 | measured (overview of 29 reviews) | review 0, 1 |
+| Noetel 2022 | formal | E2 | measured (overview of 29 reviews) | review 0, 1, 7 |
 | Peyton Jones 1993 | formal | prior pool | convention, untested | review 6, baseline |
-| Piepenbrock 2013 | formal | prior pool | measured | review 4 |
+| Piepenbrock 2013 | formal | prior pool | measured | review 4, 8 |
 | Polat 2022 | formal | E4 | supported with caveat (systematic review, 41 studies) | review 0, 3 |
 | Rello 2016 | formal | prior pool | supported with caveat | review 4 |
 | Rey 2019 | formal | prior pool | measured | review 1 |
-| Richter 2016 | formal | prior pool | measured | review 1 |
+| Richter 2016 | formal | prior pool | measured | review 1, 8 |
 | Rowley-Jolivet 2002 | formal | prior pool | measured, descriptive (secondary) | review 5 |
 | Rowley-Jolivet 2005 | formal | prior pool | measured, descriptive | review 5 |
 | Rowley-Jolivet 2012 | formal | prior pool | measured, descriptive (secondary) | review 5 |
 | Root Kustritz 2014 | formal | snowball from Bramble 2026; F1 | supported with caveat (not randomised, one course) | review 2 |
 | Savoy 2009 | formal | prior pool | supported with caveat (secondary) | review 2 |
-| Schneider 2018 | formal | prior pool | measured | review 1 |
+| Schneider 2018 | formal | prior pool | measured | review 1, 8 |
 | Sripradith 2023 | formal | prior pool; forward from Garner 2013 | supported with caveat | review 2 |
 | Sundararajan 2020 | formal | prior pool | measured | review 1 |
 | Urry 2019 | formal | prior pool | measured (replication) | review 2 |
@@ -117,3 +134,46 @@ The quality field gives the eight subtotals in the order A to T defined in the [
 | Xu 2022 | formal | prior pool | measured, descriptive | review 5 |
 | Yue 2013 | formal | prior pool | supported with caveat | review 1 |
 | Zhu 2024 | formal | E4 | measured (meta-analysis, secondary) | review 0, 3 |
+| Ozcelik 2009 | formal | H1 | supported with caveat (one experiment, n = 52; abstract and listing) | review 8 |
+| Plass 2014 | formal | named in the question | supported with caveat (listing only; its colour manipulation is described in Brom 2018) | review 8 |
+| Um 2012 | formal | H2 | supported with caveat (one experiment, N = 118; abstract) | review 8 |
+| Brom 2018 | formal | named in the question | measured (meta-analysis, 33 samples, N = 2,924; read in the author's manuscript) | review 0, 8 |
+| Wong 2020 | formal | named in the question | measured (meta-analysis, 28 articles; secondary) | review 0, 8 |
+| Mutlu-Bayraktar 2024 | formal | H2 | measured, descriptive (systematic review, 51 articles; abstract) | review 0, 8 |
+| Desiron 2026 | formal | H2 | measured, descriptive (systematic review, 35 studies; abstract) | review 0, 8 |
+| Meusel 2024 | formal | H2, H7 | supported with caveat (N = 191, possible ceiling effects; abstract) | review 8 |
+| Clariana 2009 | formal | H7 | supported with caveat (N = 80; abstract) | review 8 |
+| Harrower 2003 | formal | named in the question | convention (a tool description; abstract) | review 8 |
+| Borland 2007 | formal | named in the question | convention (argued with examples; abstract) | review 8 |
+| Crameri 2020 | formal | named in the question | convention (argued, read in full; no experiment) | review 8 |
+| Nunez 2018 | formal | V2 | supported with caveat (title and listing only) | review 8 |
+| Liu 2018 | formal | G16 | measured (a user study; secondary) | review 8 |
+| Reda 2021 | formal | G16 | measured (secondary) | review 8, against |
+| Petroff 2021 | formal | V2 | convention (title only) | review 8 |
+| Birch 2012 | formal | G17, G13 | measured, descriptive (title only) | review 8 |
+| Wong 2011 | formal | G17 | convention (journal column; title only, palette content secondary) | review 8 |
+| Schloss 2011 | formal | targeted lookup after G15 | measured (preference experiments; secondary) | review 8, against |
+| Palmer 2010 | formal | targeted lookup after G27 | measured (abstract) | review 8 |
+| Bramao 2011 | formal | targeted lookup after E11 | measured (meta-analysis, 35 experiments, N = 1,535; secondary) | review 8 |
+| Greco 2008 | formal | G14, G29 | measured (three experiments; secondary) | review 8, against |
+| Guo 2014 | formal | named in the question | measured, descriptive (observational, 6.9 million sessions; read in full) | review 7, against |
+| Noetel 2021 | formal | E8 | measured (105 randomised trials; abstract) | review 0, 7 |
+| Brame 2016 | formal | G21 | convention (narrative review; abstract) | review 0, 7 |
+| Tharumalingam 2025 | formal | M2 | measured (meta-analysis, 24 studies, 110 effect sizes; abstract) | review 0, 7 |
+| Kuang 2023 | formal | M2 | measured (meta-analyses, 18 studies, 203 effect sizes; abstract) | review 0, 7 |
+| Shah 2023 | formal | E9 | supported with caveat (quasi-experiment, two sections; abstract and introduction) | review 7 |
+| Shah 2025 | formal | E9, M4 | supported with caveat (about 530 students, two sections; abstract) | review 7 |
+| Selvaraj 2021 | formal | E10 | measured, descriptive (literature review; title and a search summary only) | review 0, 7 |
+| Lin 2022 | formal | M4 | supported with caveat (n = 33, no control group; abstract) | review 7 |
+| Miller 2011 | formal | M1 | supported with caveat (two semesters, one course; abstract) | review 7 |
+| Ito 2026 | formal | E12 | supported with caveat (n = 40; abstract on a repository page) | review 7 |
+| Liu 2022 | formal | E12 | supported with caveat (n = 99; abstract on a repository page) | review 7 |
+| Tabbers 2009 | formal | M9 | supported with caveat (abstract) | review 7 |
+| Hatsidimitris 2012 | formal | M9 | supported with caveat (abstract) | review 7 |
+| Ljubojevic 2014 | formal | M10 | supported with caveat (abstract) | review 7 |
+| Meij 2021 | formal | M1 | supported with caveat (abstract) | review 7 |
+| Bos 2025 | formal | M7 | supported with caveat (two sessions of about 20 students, no control; abstract) | review 7 |
+| Voorde 2024 | formal | M7 | convention, untested (a taxonomy by open coding; abstract) | review 7 |
+| Radmehr 2024 | formal | M7 | convention, untested (one case; abstract) | review 7 |
+| Zureick 2017 | formal | M8 | measured, descriptive (a survey, N = 439; abstract) | review 7 |
+| Li 2023 | formal | E13 | supported with caveat (n = 290; secondary) | review 7 |

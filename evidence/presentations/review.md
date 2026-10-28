@@ -1,6 +1,6 @@
 # Review
 
-This file reviews the literature on presentations in strands: existing reviews first, then the experiments, then practice (grey literature), each strand ending with what carries over to a live talk. Search strings and scores are in [protocol](protocol.md) and [sources](sources.md).
+This file reviews the literature on presentations in strands: existing reviews first, then the experiments, then practice (grey literature), each strand ending with what carries over to a live talk. Search strings and scores are in [protocol](protocol.md) and [sources](sources.md). Strands 7 (motion) and 8 (colour) were added in a second round.
 
 ## 0. Existing reviews
 
@@ -13,6 +13,17 @@ Found with strings E1 to E6 (protocol.md, Garousi 2019 Guideline 2).
 - Speaker: Hostetter 2011 and Dargue 2019 (gesture); Henderson 2021, Polat 2022 and Zhu 2024 (secondary) on a visible instructor, with no consistent learning gain.
 - Not found by this search: a review of slide-design factors in a live talk, of talk structure, or of projected legibility.
 - Seen in a summary, not retrieved, not included: a repository review of 31 PowerPoint studies; a 2025 review of teachers' gesture experiments.
+- Motion (Q7), found with E7 to E13:
+  - Animation against static pictures, self-paced: held in the [learning science review](https://github.com/Tewf/reader-ergonomics/blob/master/evidence/learning-science/review.md) (animation section; overall d = 0.37 and g = 0.23, larger when the change is the thing to learn). Not repeated.
+  - Noetel 2021 (105 randomised trials, 7,776 students): video replacing other teaching g = 0.28, video added to it g = 0.80 (abstract).
+  - Tharumalingam 2025 (24 studies, 110 effect sizes): faster video playback lowers test scores, at a cost that is small and often not significant at 1.5 times or slower (abstract).
+  - Kuang 2023 (18 studies, 203 effect sizes): an instructor's guided gaze g = 0.33 and direct gaze g = 0.30 on learning (abstract).
+  - Brame 2016 (narrative review): manage load, raise engagement, promote active learning; Selvaraj 2021 reviews live coding (read as title and a summary only).
+- Colour (Q8), found with H1 to H10 and E11:
+  - Brom 2018 (33 samples, N = 2,924), Wong 2020 (28 articles; secondary), Mutlu-Bayraktar 2024 (51 articles) and Desiron 2026 (35 studies) review emotional design with pleasant colours.
+  - Bramao 2011 (35 experiments, N = 1,535; secondary) reviews colour in object recognition.
+  - Richter 2016 and Schneider 2018 are signaling meta-analyses. Whether either analyses colour coding as a moderator was not settled: only abstracts and an archive description were read. The abstract of Richter 2016 names colour coding as an example of a signal; the archive description of its data lists "distinctiveness of signals" as a moderator, not signal type.
+- Not found by these strings: a review of slide builds or transitions, of live demos inside talks, of colour on projected slides, or of colour harmony and learning.
 - How this review differs: its unit is the talk, not the lesson, and it adds genre, legibility and practice.
 
 ## 1. Paced media: modality, redundancy, segmenting
@@ -111,3 +122,85 @@ Scores out of 20 are in sources.md. A source under 10 is named here only as an e
   - Both ask the speaker to say every slide word aloud; this runs against Adesope 2012, and no study of blind or low-vision listeners was found.
 - Teaching centre: Bramble 2026 (11) recommends assertion-visual evidence, handouts for notes and 10-minute chunks (the rule against.md doubts); it names two studies by surname only.
 - Built-in tools: Designer reached 1 billion slides, the owner's claim (Microsoft 2019, 6.5, example only).
+
+## 7. Motion in a talk
+
+What changes from a self-paced page: the viewer cannot stop, step or replay, so the speaker's pace stands in for the viewer's control.
+
+- Who sets the pace:
+  - Tabbers 2009: learner-paced instruction gave better transfer than system-paced, with a large rise in time on task (abstract).
+  - Hatsidimitris 2012: a timeline scrollbar helped novices and did not help learners with more prior knowledge (abstract).
+  - Carries over: a talk is system-paced, so the speaker's pauses and steps carry what the scrollbar carried. No study of that was found.
+- Builds (progressive disclosure), all with recorded narration:
+  - Liu 2022 (n = 99): key points appearing in step with the narration beat two other formats, on post-test and efficiency.
+  - The two other formats: the whole slide at once, and narration followed by the picture (abstract; no effect sizes in it).
+  - Ito 2026 (n = 40, one biology lesson): a cumulative slide gave higher learning, d = 0.49, and earlier looks at the matching element, d = 1.76 (abstract).
+  - Miller 2011 (two semesters, astronomy): students judged animated slides more effective, exam scores were largely unaffected, and animating illustrations may do more than animating text (abstract).
+  - Meij 2021: a whiteboard animation and a slideshow gave similar knowledge scores; the animation was rated higher, which the authors link to seductive details (abstract).
+- Transitions: no study was found. WCAG asks for a way to pause movement that lasts over 5 seconds and starts by itself (W3C 2023b).
+- Video inside a talk:
+  - Ljubojevic 2014: an educational clip placed in the middle of a lecture was the most efficient; an entertainment clip was less so (abstract).
+  - Zureick 2017 (survey, N = 439): students who always attended live or always watched video scored higher than those who mixed; interruptions went with lower scores (correlational).
+  - Guo 2014 (6.9 million sessions, four edX courses in maths and science): median watching time was at most 6 minutes whatever the video length.
+  - Shorter videos, an interleaved talking head, Khan-style tablet drawing and a fast, enthusiastic speaker were each more engaging.
+  - Engagement is watching time and problem attempts, not learning.
+- Explainer video in the style of mathematical animation:
+  - Voorde 2024 coded YouTube maths videos into seven roles of dynamic visuals (abstract); Radmehr 2024 analysed one 3Blue1Brown video, over 3.3 million views, as a case.
+  - Bos 2025 (two sessions of about 20 calculus students, no control group): students learned from the videos and overestimated how much.
+  - Naming a visual's learning goal went with better learning; a visual without a clear goal could hinder (abstract).
+  - Pichler 2023 (thesis, 29, 42 and 30 viewers): an animation video and a slides-only video beat a slides-plus-professor video on the knowledge test.
+  - Li 2023 (n = 290; secondary): animation and slideshow video abstracts gave the same comprehension; animation was more engaging, and higher engagement went with slightly lower comprehension.
+  - Carries over: engagement and liking favour animation; learning is equal or mixed.
+- Live demos and live coding:
+  - Shah 2023 (two remote CS1 sections) found no learning difference between live coding and static code examples.
+  - Shah 2025 (about 530 students) found none between active and traditional live coding, with higher engagement after the in-class task (abstracts).
+  - Lin 2022 (n = 33, no control group): watching experts' recorded live coding with annotations correlated with coding skill, r = 0.37 to 0.51 (abstract).
+  - No study of a live demo inside a conference talk was found.
+- Practice (all conventions; sources under 10 are examples only):
+  - Beamer 2026: animate the dynamics of a system, not to attract attention; use dissolves sparingly. Bramble 2026: use animation for in-between states. Rector 2019: avoid animation unless described aloud.
+  - Nederbragt 2016 (11.5): say aloud what is typed, go slowly, mirror the learners' screen. LornaJane 2017 (8.5) and Mozilla 2026 (6): demo only what shows moving parts, rehearse, or play a silent screencast while speaking.
+  - Microsoft 2026b (6) is a feature guide for Morph with no learning claim.
+  - Sanderson 2026 (8) states an aim, not a result; Simpleshow 2021 (4.5) reports its own study of twice the gain over slides.
+- Carries over: builds that follow the voice and show change have the best support; everything else about motion in a live room is untested.
+
+## 8. Colour
+
+- Colour coding as a signal:
+  - Ozcelik 2009 (n = 52): colour-coding text and picture parts raised retention and transfer; eye tracking showed faster location of corresponding parts and attention drawn to salient items (abstract).
+  - Clariana 2009 (N = 80): a left-margin background hue that signalled lesson sections helped a structure test, d = 0.41, and not a fact test, d = -0.17 (abstract).
+  - Meusel 2024 (N = 191): a background colour as retrieval cue was not enough to help recall (abstract).
+  - The signaling meta-analyses are in strand 1; whether they separate colour from other cues was not verified (strand 0).
+- Emotional design with pleasant colours:
+  - Um 2012 (N = 118): positive emotional design raised comprehension and transfer and lowered perceived difficulty (abstract).
+  - Brom 2018, read in the author's manuscript: 33 samples, N = 2,924.
+  - Retention d+ = 0.387 (k = 18), comprehension 0.317 (k = 14), transfer 0.327 (k = 27), intrinsic motivation 0.255; perceived difficulty -0.208.
+  - Pleasant meant warm, bright, saturated colours.
+  - Only 5 of the 33 samples (15.2%) changed colour alone; the rest added faces or both. No moderation by contrast type was found, and the authors say the mechanism is unclear and may be signalling.
+  - Wong 2020 (secondary): retention g+ = 0.35, transfer 0.27, comprehension 0.29. Mutlu-Bayraktar 2024 found contradictory learning results but agreement on motivation and emotion; Desiron 2026 found heterogeneous designs that limit comparison.
+- Colour in data figures:
+  - Harrower 2003 (ColorBrewer): schemes chosen by class number, data type (sequential, diverging, qualitative) and end use, projected included.
+  - Borland 2007 and Crameri 2020 argue against the rainbow map. Crameri 2020 (read in full): jet-like maps can distort over 7% of the displayed data variation.
+  - Its general estimate: 8% of men and 0.5% of women have a colour-vision deficiency.
+  - Poor maps stay the default in software.
+  - Liu 2018 (secondary): viridis gave consistently low error; a diverging scheme erred across its centre. Reda 2021 (secondary): rainbow maps can help some inference tasks (see against.md).
+  - Position and length before colour: [draw relations](https://github.com/Tewf/reader-ergonomics/blob/master/principles/page/draw-relations.md).
+- Colour-vision deficiency: WCAG asks that colour not be the only cue (W3C 2023c). Wong 2011 is the source of a widely copied eight-colour palette (secondary). Rector 2019, ACM 2026 and Microsoft 2026 give the same rule for slides; ACM 2026 names a simulator.
+- Light against dark when projected:
+  - Greco 2008 (three experiments, secondary): dark text on a light background was the most legible, on a laptop and projected under several room lights; pleasantness followed legibility.
+  - Positive polarity in general: [sufficient contrast](https://github.com/Tewf/reader-ergonomics/blob/master/principles/page/sufficient-contrast.md).
+  - Practice disagrees: TED 2026 says bold text on a dark ground; Beamer 2026 warns that inverse video fails in bright rooms.
+  - Schwabish 2014 (5, example only) reports the usual advice of a dark ground in a dark room, and finds no reason given for it.
+- Colour harmony (art-school colour theory):
+  - Schloss 2011 (secondary): pairs of similar hue were rated more harmonious and preferred; strongly contrasting hue pairs were rated neither. Pair preference followed liking of each colour and lightness contrast.
+  - Palmer 2010: liking for a colour follows the average liking of things that have that colour (abstract).
+  - Both measure preference. No study of harmony and learning was found: harmony is preference only, on this search.
+  - Ethos3 2026 (2.5, example only) teaches wheels (complementary, analogous) and states that colour decides 90% of quick purchase judgments, with no source on the page.
+- Colour in natural images: Bramao 2011 (secondary): colour aids recognition of objects with a typical colour, d = 0.43, and less for others, d = 0.18; so keep photographs in their real colours.
+- Practice on slides (conventions):
+  - Beamer 2026 (12): few colours, maximum contrast, darken bright colours on white, no decorative background shading.
+  - Bramble 2026 (11): three colours, consistent by kind. SSP 2026 (9, example only): high contrast.
+  - Duarte 2026 and Leonhard Center 2026: their pages say nothing on colour.
+  - Palettes: ScotGov 2024 (12.5) gives one colour per category in a fixed order, 3:1 against white, at most 4 colours per chart.
+  - EU 2023 (14): a rainbow map made a front that is not in the data.
+  - Wilke 2019 (14.5): avoid encoding too much in colour, and design for colour-vision deficiency. Matplotlib 2026 (14.5): choose maps by lightness.
+- Carries over: colour as a signal and as a safe palette has support; pleasant colours help a little in lessons; harmony and hue meaning for a live audience are untested.

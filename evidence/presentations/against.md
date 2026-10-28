@@ -50,6 +50,26 @@ This file gathers the evidence against the presentation rules: null results, dis
 - Enthusiasm raised engagement but not quiz scores (Marty-Dugas 2024).
 - Agent studies use animated agents, not live speakers (Castro-Alonso 2021).
 
+## Against motion on slides and in talks
+
+- The build studies are small and recorded: n = 99 and n = 40, one lesson each (Liu 2022, Ito 2026); one course found exams unaffected by animated slides (Miller 2011).
+- Learner control beat system pacing on transfer (Tabbers 2009), but cost time; a speaker-paced build is the system-paced arm.
+- A whiteboard animation raised satisfaction and not knowledge, and its authors suspect seductive details (Meij 2021); engaged viewers comprehended slightly less (Li 2023, secondary).
+- A slides-only video matched an animation, at lower cost (Pichler 2023).
+- Watching time is not learning (Guo 2014); its 6-minute rule comes from engagement logs in maths and science MOOCs.
+- Live coding did not beat static code on learning in two controlled studies (Shah 2023, Shah 2025); the engagement gain is not a learning gain.
+- Accessibility guides ask for no animation (Rector 2019); the WCAG rule is only to allow pausing (W3C 2023b).
+
+## Against colour claims
+
+- Emotional design: the colour-only subgroup is 5 of 33 samples (Brom 2018); studies disagree on learning and agree on motivation (Mutlu-Bayraktar 2024); designs are too varied to compare (Desiron 2026). Wong 2020's updated values are a little smaller than Brom 2018's (secondary).
+- Colour as retrieval cue did not help (Meusel 2024); hue-signalled sections helped one test and not another (Clariana 2009).
+- Rainbow maps: a model found they can help some inference tasks (Reda 2021, secondary), so the ban is a default, not a law.
+- The rule of dark ground for projection has no support in the one experiment found (Greco 2008, secondary).
+- Harmony: contrasting hue pairs, the "complementary" ones of the colour wheel, were rated less harmonious (Schloss 2011, secondary); preference is not comprehension.
+- Practice cites unsourced figures: a 90% claim for colour in quick judgments (Ethos3 2026, 2.5 of 20).
+- Old colour-versus-monochrome studies were excluded by Brom 2018 because the colours were arbitrary.
+
 ## Replications and notes
 
 - Laptop against longhand notes: the quiz difference did not replicate in a direct replication (Urry 2019).

@@ -18,6 +18,16 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 | Q6 Does fixed pacing (20 by 20) raise learning | Bakcek 2020 | randomised trial, n = 134, test scores equal |
 | Q4 Contrast floor | WCAG 2.2 (W3C 2023) | standard (a convention), not an experiment |
 | Q5 How talks are built | Rowley-Jolivet 2005 | move analysis of 44 talks in three fields |
+| Q7 Build steps that follow the voice | Liu 2022; Ito 2026 | randomised, n = 99; n = 40 with eye tracking, d = 0.49; both recorded narration |
+| Q7 Who sets the pace | Tabbers 2009 | learner-paced beat system-paced on transfer, at a large cost in time |
+| Q7 Does video help | Noetel 2021 | 105 randomised trials, g = 0.28 as a substitute and 0.80 as an addition |
+| Q7 Live coding against static code | Shah 2025; Shah 2023 | two-section studies of about 530 and of a remote course, no learning difference |
+| Q7 Animated explainer against slides | Pichler 2023; Li 2023 | groups of 29 to 42; n = 290; engagement differs, comprehension mostly does not |
+| Q8 Colour as a signal | Ozcelik 2009 | one eye-tracking experiment, n = 52 |
+| Q8 Pleasant colours and faces | Brom 2018; Wong 2020 | meta-analyses, 33 samples and 28 articles, d about 0.3 to 0.4 on retention and transfer |
+| Q8 Colour maps for data | Crameri 2020; Liu 2018 | an argued guide with a distortion measure; a user study of colormaps |
+| Q8 Light or dark when projected | Greco 2008 | three experiments, dark text on light best |
+| Q8 Harmony | Schloss 2011 | preference experiments only |
 
 ## Most adopted
 
@@ -29,8 +39,17 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 | Accessible talks | Rector 2019 and the conference guides derived from it | three conference pages seen citing it; no evidence cited by the guide |
 | Replacing slides | Amazon narrative memo | one company's own report (Bezos 2018) |
 | Headlines as sentences | Assertion-evidence workshops; consulting action titles | no adoption count found |
+| Build steps and Morph | PowerPoint's animation pane and Morph | a vendor page with no learning claim (Microsoft 2026b, 6 of 20: example only); no adoption count |
+| Live coding in teaching | Software Carpentry style workshops | a practice guide that says it is taught in instructor training (Nederbragt 2016, 11.5) |
+| Animated maths videos | 3Blue1Brown and its Manim library | over 3.3 million views of one video (Radmehr 2024); the owner's aim (Sanderson 2026, 8: example only) |
+| Colour defaults | the viridis family as a library default; the Okabe-Ito eight colours | a software manual (Matplotlib 2026, 14.5); the palette is copied from a column (Wong 2011) |
+| Colour accessibility | WCAG 1.4.1 and the guides built on it | a standard (W3C 2023c, 17 of 20) |
 
 ## Upper bounds (achieved)
+
+- Key points shown in step with the narration beat the whole slide in one randomised study (Liu 2022).
+- Pleasant colours and faces gave small gains in retention and transfer across 33 samples (Brom 2018).
+- A perceptually uniform map keeps data variation honest where a jet-like map distorts over 7% of it (Crameri 2020).
 
 - A bundle of principles in a slide set raised delayed recall and essay quality in one lab setting (Garner 2013).
 - Gesture helps comprehension across many samples (Dargue 2019).
@@ -44,3 +63,7 @@ Two records are kept apart: **best evidence** (a research record) and **most ado
 - No controlled comparison of a memo-first meeting against a slide meeting was found.
 - The 20 by 20 and 15-second pacing rules have three small outcome studies (Liao 2020, Warmuth 2021, Bakcek 2020); the one randomised trial found no test-score gain. None tests Ignite's 15 seconds.
 - No study was found of accessibility advice (say every slide word aloud) against the redundancy result for blind or low-vision listeners.
+- No study was found of slide transitions, of an embedded clip in a live conference talk, of a live demo, or of build steps in front of a live audience.
+- No live-coding study found a learning gain over static code (Shah 2023, Shah 2025).
+- Colour alone, without faces or shape, is 5 samples of 33 in the emotional-design meta-analysis (Brom 2018); no isolated effect is established.
+- No study of colour harmony and learning, of hue meaning on slides, or of projected colour at room distance was found.

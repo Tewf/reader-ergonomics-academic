@@ -17,7 +17,7 @@ The shape of an empirical research article: IMRaD with a structured abstract, th
 | Structured abstract | Background, Methods, Results with numbers, Conclusions | Taddio 1994, Budgen 2008, Hartley 2004a | measured (information content) |
 | Highlights, graphical abstract | optional extras some journals require | Elsevier highlights, Oska 2020 | convention, untested (attention only) |
 | Introduction | territory, niche, this paper, then contributions and a map of the sections | Swales 1990, Hill 1982 | supported with caveat (describes practice) |
-| Methods: plan and deviations | the preregistration, and each departure from it with its reason | Chambers 2013, Kerr 1998, Scheel 2021 | measured (for the format) |
+| Methods: plan and deviations | if the study was preregistered, the protocol and each departure from it with its reason; if not, that it is exploratory | Chambers 2013, Kerr 1998, Scheel 2021 | measured (for the format) |
 | Methods: design, measures, analysis | enough detail to repeat the study, item by item | Turner 2012 | measured (completeness) |
 | Results | one subsection per claim, a headline sentence first, a figure whose caption stands alone | Hubbard 2017, Keshav 2007 | supported with caveat |
 | Discussion | the principal finding first, then comparison, limitations, implications | Hill 1982, Boutron 2010 | supported with caveat |
@@ -72,7 +72,7 @@ First Author (affiliation, contact), Second Author (affiliation)
 
 ### 2.1 Plan and deviations
 
-> Link the preregistration or protocol, then list every departure from it with its reason.
+> If the study was preregistered, link the protocol and list every departure from it with its reason; if not, say that it is exploratory.
 
 ### 2.2 Design and materials
 

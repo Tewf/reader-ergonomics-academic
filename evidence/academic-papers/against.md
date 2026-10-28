@@ -1,5 +1,7 @@
 # Against
 
+This file lists the evidence against the standard paper shape, by theme, each with its source.
+
 ## 1. IMRaD hides the real process
 
 - Medawar 1963 argued that the paper misrepresents discovery: it narrates an inductive march from facts to conclusion, while the work ran from a guess to its test (revisited by Howitt 2014). Grade: supported with caveat (an argument, not a measurement).

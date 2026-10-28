@@ -1,6 +1,6 @@
 # Shape: research paper
 
-The shape of an empirical research article: IMRaD with a structured abstract, the baseline named in [baseline](../evidence/academic-papers/baseline.md), plus the few additions that have evidence elsewhere.
+The shape of an empirical research article: IMRaD with a [structured abstract](../evidence/academic-papers/frame.md), the baseline named in [baseline](../evidence/academic-papers/baseline.md), plus the few additions that have evidence elsewhere.
 
 ## When to use it
 

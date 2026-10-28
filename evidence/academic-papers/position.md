@@ -20,6 +20,6 @@
 
 - No new data.
 - A shape (`../shapes/research-paper/`) that keeps the baseline and labels each part with its grade.
-- Additions to the baseline only where evidence exists elsewhere: a structured abstract with numbers, a named reporting checklist, the plan with its deviations (from Registered Reports), and a data and code statement (from reproducible research).
+- Additions to the baseline only where evidence exists elsewhere. They are a structured abstract with numbers, a named reporting checklist, the plan with its deviations (from Registered Reports), and a data and code statement (from reproducible research).
 - Parts with no reader evidence (highlights, graphical abstract, the CARS order) stay optional and marked convention, untested.
 - A protocol (baseline.md) so a future study can test a proposed shape against IMRaD on reader outcomes.

@@ -1,5 +1,7 @@
 # Position: what is known, what is not, what this repository adds
 
+This file sets out what is known, what is not, and what this repository adds about mathematical articles and proofs.
+
 ## Known
 
 | Claim | Grade | Source |

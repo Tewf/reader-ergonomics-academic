@@ -1,5 +1,7 @@
 # Frame: the problem and the field's names for it
 
+This file states the problem in one sentence and lists what mathematics and its education research call its parts.
+
 ## The problem in one sentence
 
 How should a mathematical research article, and each proof inside it, be laid out so that a reader finds the result, judges whether it holds, and sees why it holds, at the least reading cost?

@@ -1,5 +1,7 @@
 # Baseline
 
+This file names the baseline a proposed paper shape is compared against, and how the comparison would be measured.
+
 ## The named baseline
 
 **IMRaD with a structured abstract**: Introduction, Methods, Results, Discussion; an abstract labelled Background, Methods, Results, Conclusions; and the EQUATOR reporting checklist for the study design when one exists.

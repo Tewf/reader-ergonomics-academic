@@ -1,5 +1,7 @@
 # Frame
 
+This file states the problem in one sentence and lists what the fields that study papers call its parts.
+
 ## The problem in one sentence
 
 How should a research article be ordered so that a reader can find, judge and reuse its claims, and does the standard order do that?

@@ -1,5 +1,7 @@
 # Against: the evidence against, the controversies, the failed tests
 
+This file lists the evidence against structured proofs and the definition-theorem-proof style, and where the field disagrees.
+
 ## 1. Structured proofs do not always improve comprehension
 
 | Evidence | Source | Grade |

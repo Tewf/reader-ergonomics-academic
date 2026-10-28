@@ -1,5 +1,7 @@
 # Baseline: what the templates are compared against, and how
 
+This file names the baseline article and proof a new shape is compared against, and how the comparison would be measured.
+
 ## The named baseline
 
 **The conventional amsart article with paragraph proofs.**

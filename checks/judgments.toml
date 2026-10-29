@@ -337,3 +337,10 @@ path = "AGENTS.md"
 question = "reads about equally as reference and how-to: one mode per document?"
 file = "c0ae98a7e1b5"
 answer = "One mode, how-to: the steps for changing the repository (`## Before writing`, `## Before handing back`). The rules it lists are steps of that task, and the reference they come from is linked, not repeated."
+
+[[answer]]
+check = "document-mode"
+path = "README.fr.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "8e2daf35349b"
+answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."

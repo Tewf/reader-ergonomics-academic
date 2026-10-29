@@ -6,6 +6,7 @@ project:
     - "**/*.md"
     - "!checks/"
   resources:
+    - llms.txt
     - LICENSE
     - LICENSES/
     - "**/*.md"
@@ -13,6 +14,7 @@ project:
 
 website:
   title: "Academic writing"
+  description: "How to write a report, a research paper, a mathematical article or a proof: the conventions of each genre, the evidence behind them, and a shape for each, extending reader-ergonomics."
   site-url: "https://tewf.github.io/reader-ergonomics-academic/"
   repo-url: "https://github.com/Tewf/reader-ergonomics-academic"
   repo-actions: [source, issue]

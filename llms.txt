@@ -1,0 +1,16 @@
+# Academic writing
+
+> How to write a report, a research paper, a mathematical article or a proof: the conventions of each genre, the evidence behind them, and a shape for each, extending reader-ergonomics.
+
+Each page's markdown source is served at the same path with a .md extension.
+
+## Standard
+
+- [Standard](https://tewf.github.io/reader-ergonomics-academic/standard.md): the one-page card to follow, with every principle and its grade
+- [Contributing](https://tewf.github.io/reader-ergonomics-academic/AGENTS.md): rules for changing this repository
+
+## Optional
+
+- [Evidence](https://tewf.github.io/reader-ergonomics-academic/evidence/README.md): one literature review per topic, with the evidence against
+- [Bibliography](https://tewf.github.io/reader-ergonomics-academic/evidence/bibliography.md): every cited work, once
+- [Shapes](https://tewf.github.io/reader-ergonomics-academic/shapes/README.md): skeletons for kinds of documents

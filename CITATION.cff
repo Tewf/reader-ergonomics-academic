@@ -4,23 +4,23 @@ message: >-
   work-in-progress synthesis of published research, written with Claude, an AI
   assistant by Anthropic. It is not an official standard, not peer-reviewed,
   and not a new result.
-title: "academic-writing-and-presentations (work in progress)"
+title: "reader-ergonomics-academic (work in progress)"
 abstract: >-
-  How to write research papers, mathematical articles and proofs, and how
-  to build presentations, so that they are cheap to read or to follow. An
-  extension of reader-ergonomics: the evidence and document shapes
-  particular to these genres.
+  How to write reports, research papers, mathematical articles and proofs
+  that meet academic conventions and are cheap to read. An extension of
+  reader-ergonomics: the evidence and document shapes particular to these
+  genres.
   Use it as a reading list and a starting point, not as an authority.
 type: software
 authors:
   - name: "Tewf"
-repository-code: "https://github.com/Tewf/academic-writing-and-presentations"
+repository-code: "https://github.com/Tewf/reader-ergonomics-academic"
 license:
   - Apache-2.0
   - CC-BY-4.0
 keywords:
+  - reports
   - research papers
   - mathematical writing
   - proofs
-  - presentations
   - literature review

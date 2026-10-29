@@ -2,7 +2,7 @@
 
 What a report, a research paper, a mathematical article and a proof need beyond what any text needs: the conventions
 of each genre, the evidence behind them, and a shape for each. It extends
-[reader-ergonomics](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/standard.md), the standard for any reader:
+[reader-ergonomics](https://github.com/Tewf/reader-ergonomics/blob/v1.10.0/standard.md), the standard for any reader:
 read that one first.
 
 ## How to use it
@@ -17,7 +17,7 @@ read that one first.
 ## Principles
 
 This extension adds shapes and no principles. The principles are reader-ergonomics' own, listed with their grades in
-[its card](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/standard.md#principles).
+[its card](https://github.com/Tewf/reader-ergonomics/blob/v1.10.0/standard.md#principles).
 
 ## Shapes
 

@@ -35,11 +35,11 @@ No part of this shape has been tested against the conventional article on reader
 
 | Part | Principle |
 |---|---|
-| Main theorem stated in section 1, in words before any definition | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/document/overview-first.md) |
-| Idea of the proof before its details | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/document/overview-first.md) |
-| Notation fixed once, in Preliminaries | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/document/define-before-use.md), [one place per fact](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/collection/one-place-per-fact.md) |
-| A Uses line in each proof; results ordered so each comes after what it uses | [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/document/short-reference-distance.md) |
-| Sections on at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.0.0/principles/document/shallow-outline.md) |
+| Main theorem stated in section 1, in words before any definition | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/document/overview-first.md) |
+| Idea of the proof before its details | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/document/overview-first.md) |
+| Notation fixed once, in Preliminaries | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/document/define-before-use.md), [one place per fact](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/collection/one-place-per-fact.md) |
+| A Uses line in each proof; results ordered so each comes after what it uses | [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/document/short-reference-distance.md) |
+| Sections on at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.1.1/principles/document/shallow-outline.md) |
 
 ## Skeleton
 

@@ -1,0 +1,8 @@
+# Checks of reader-ergonomics-academic: the standard's config, merged with what this extension changes.
+extends = "reader-ergonomics"
+
+[readable_measure]
+stylesheets = []   # the standard's site.css is not in this repository; its site borrows it at build time
+
+[sufficient_contrast]
+stylesheets = []   # the same: no stylesheet of its own

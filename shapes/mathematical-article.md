@@ -141,3 +141,79 @@ Funding and thanks.
 1. A. Author, *Title of the earlier result*, Journal **1** (2000), 1-10.
 2. B. Author, *Title of the known theorem*, Publisher, City, 2010.
 ````
+
+## Worked example
+
+A classical theorem written to this shape, with its proof in the structured form of [proof.md](proof.md).
+
+```markdown
+# Every finite tournament has a Hamiltonian path
+
+A worked example for this shape.
+
+**Abstract.** Every tournament on $n \geq 1$ vertices has a directed path through all its vertices. The proof inserts
+one vertex at a time.
+
+**MSC 2020.** Primary 05C20; Secondary 05C38.
+
+**Keywords.** tournament, Hamiltonian path, induction.
+
+## 1. Introduction
+
+In any round-robin contest with no draws, the players can be listed so that each one beat the next.
+
+### 1.1 Main results
+
+**Theorem 1.1.** Every tournament on $n \geq 1$ vertices has a Hamiltonian path.
+
+### 1.2 Relation to previous work
+
+Rédei proved this, and that the number of such paths is odd [1]; this note proves existence only. Completeness
+cannot be dropped: on vertices $a, b, c$ with arcs $a \to b$ and $c \to b$ only, no path passes through all three.
+
+### 1.3 Idea of the proof
+
+Lemma 3.1 inserts a new vertex into any directed path; induction on $n$ then builds the whole path.
+
+### 1.4 Organisation
+
+Section 2 defines the terms, Section 3 states the lemma and derives the theorem, and Section 4 proves the lemma.
+
+## 2. Preliminaries and notation
+
+**Definition 2.1.** A *tournament* is a finite set $V$ of vertices with, for each pair of distinct vertices $u, v$,
+exactly one of the arcs $u \to v$ and $v \to u$.
+
+**Definition 2.2.** A *Hamiltonian path* is a list $v_1, \dots, v_n$ of all the vertices, each once, with
+$v_i \to v_{i+1}$ for every $i < n$.
+
+## 3. Results
+
+**Lemma 3.1.** Let $v_1, \dots, v_k$ be a directed path in a tournament and $u$ a vertex not on it. Then $u$ can be
+inserted into the path so that $v_1, \dots, v_k$ and $u$ form a directed path.
+
+*Proof of Theorem 1.1.*
+Uses: Lemma 3.1.
+By induction on $n$: one vertex is a path. For $n \geq 2$, remove a vertex $u$; the rest is a tournament with a
+Hamiltonian path, and Lemma 3.1 inserts $u$. $\square$
+
+## 4. Proofs
+
+*Proof of Lemma 3.1.*
+Uses: Definition 2.1.
+
+Sketch: put $u$ just before the first vertex it beats.
+
+- ⟨1⟩1. If $u \to v_1$, then $u, v_1, \dots, v_k$ is a path.
+- ⟨1⟩2. If $v_k \to u$, then $v_1, \dots, v_k, u$ is a path.
+- ⟨1⟩3. Otherwise $v_1 \to u$ and $u \to v_k$. Let $j$ be the least index with $u \to v_j$; then $j \geq 2$,
+  and $v_{j-1} \to u$, so $v_1, \dots, v_{j-1}, u, v_j, \dots, v_k$ is a path.
+  *Proof:* $j$ exists since $u \to v_k$, and $j \neq 1$ since $v_1 \to u$; by the choice of $j$, $u \to v_{j-1}$
+  fails, so $v_{j-1} \to u$ by Definition 2.1.
+- ⟨1⟩4. Q.E.D. *Proof:* by Definition 2.1 either $u \to v_1$ or $v_1 \to u$, and either $v_k \to u$ or
+  $u \to v_k$, so ⟨1⟩1 to ⟨1⟩3 cover every case. $\square$
+
+## References
+
+1. L. Rédei, *Ein kombinatorischer Satz*, Acta Litterarum ac Scientiarum Szeged **7** (1934), 39-43.
+```

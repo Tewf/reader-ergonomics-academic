@@ -191,3 +191,93 @@ Author, school and degree, course or host organisation, supervisor, date. The sc
 
 In a thesis, open each chapter with two lines recalling where the argument stands, and end it with one line leading
 to the next: an examiner reads it over several days (Mullins 2002).
+
+## Worked example
+
+A technical report (TR) on a real choice made in this family. It has the parts a TR needs, numbered once the parts
+it leaves out are deleted. The decision it records is reader-ergonomics-presentations'
+[decision 0007](https://github.com/Tewf/reader-ergonomics-presentations/blob/master/decisions/0007-diagrams-are-drawn-with-graphviz.md).
+
+```markdown
+# Graphviz drew a five-box diagram with no overlap, where Mermaid and D2 did not
+
+Technical report, reader-ergonomics-presentations, 29 October 2026. Two authors: the maintainer and an AI assistant.
+
+## Résumé · Abstract
+
+Cinq outils ont dessiné la même figure, quatre boîtes et trois flèches sur trois niveaux, avec une palette et une
+police : Mermaid, Graphviz, D2, TikZ et un script Python. Graphviz seul l'a placée sans défaut ; une seule figure a
+été testée. Mots-clés : diagrammes en code, placement de graphes, Graphviz.
+
+Five tools drew the same figure, four boxes and three arrows on three levels, with one palette and one font. Graphviz
+alone placed it with no defect; one figure was tested. Keywords: diagrams as code, graph layout, Graphviz.
+
+## Synthèse · Executive summary
+
+Draw diagrams of relations with Graphviz and keep each `.dot` beside its SVG; keep TikZ for LaTeX documents and
+Mermaid for GitHub comments. The cost: GitHub does not draw `.dot`, so each diagram is two files kept in step by a check.
+
+## Sommaire · Contents
+
+1 Introduction · 2 Method · 3 Results · 4 Discussion · 5 Conclusion · 6 Recommendations · Contributions ·
+Use of AI tools · Glossary · References
+
+## 1. Introduction
+
+The family's figures were typed in characters. A first draft of a figure shape chose Mermaid because GitHub draws it
+from source, not because of how it reads. Question: which tool draws a small diagram of relations most cleanly?
+Answer, on one figure: Graphviz.
+
+## 2. Méthode · Method
+
+- One figure: where reader-ergonomics-topic sits, four boxes, three arrows, three levels.
+- Five tools: Mermaid 11.12 from the command line, Graphviz 2.43, D2 0.7.1 with its ELK layout, TikZ under LuaLaTeX,
+  and the family's graph_diagram.py.
+- The same three colours, one per kind of repository, and the same font, Inter, in each.
+- Each rendered to PNG at one width and read side by side for overlaps, broken names, and labels away from their arrow.
+
+## 3. Résultats · Results
+
+| Tool | Defects seen | Placement |
+|---|---|---|
+| Mermaid | a name broken across two lines; a level label on an arrow | automatic |
+| Graphviz | none | automatic |
+| D2 (ELK) | two arrow labels printed over each other | automatic |
+| TikZ | none | by hand |
+| graph_diagram.py | greyscale by design; an arrow crossed its label | by hand |
+
+## 4. Discussion
+
+Graphviz was the only automatic layout with no defect. Mermaid and Graphviz both use a layered layout, so the
+difference here came from their defaults, not their algorithm. With larger diagrams, crossings matter most to a reader
+(Purchase 1997), which favours a layout built to reduce them. Limit: one figure, read by one reader, with no measure of
+reading speed.
+
+## 5. Conclusion
+
+On a small diagram of relations, Graphviz gave the cleanest automatic layout of five tools.
+
+## 6. Recommandations et perspectives · Recommendations and perspectives
+
+- Graphviz by default; TikZ inside LaTeX; Mermaid where GitHub must draw a diagram in a comment.
+- Test again on a figure of about twenty nodes before generalising.
+
+## Contributions
+
+The maintainer chose the tool from the comparison. The assistant drew the five versions and wrote the report.
+
+## Déclaration d'usage de l'IA · Use of AI tools
+
+An AI assistant wrote the five sources, rendered them and drafted this report; the maintainer read the figures and
+decided.
+
+## Glossaire · Glossary
+
+- **Layered layout:** nodes placed in ranks so that arrows point one way, each rank ordered to reduce crossings.
+- **Diagrams as code:** a figure written as text and drawn by a program.
+
+## Bibliographie · References
+
+- Purchase (1997). Which aesthetic has the greatest effect on human understanding? Graph Drawing, LNCS 1353,
+  248-261. https://doi.org/10.1007/3-540-63938-1_67
+```

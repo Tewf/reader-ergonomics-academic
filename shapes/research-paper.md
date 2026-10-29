@@ -137,3 +137,91 @@ Figure 1. A caption that says what the figure shows and what to conclude, readab
 
 > Material a specialist needs and a general reader can skip.
 ````
+
+## Worked example
+
+A short descriptive paper on a count made across this family on 2026-10-29, filled to the skeleton: each part says
+what the skeleton asks, with real numbers.
+
+```markdown
+# Eighteen figures in six documentation repositories were typed in characters, half of them on front pages
+
+The maintainers of the reader-ergonomics family.
+
+## Abstract
+
+**Background.** WCAG counts text art as non-text content, and no study compares a typed figure with a drawn one.
+
+**Methods.** One script counted the figures typed in characters in six repositories, on their main branch of one day.
+
+**Results.** 18 typed figures, in five of the six repositories; 9 of the 18 were on a front page or a standard's card.
+
+**Conclusions.** Typed figures were the family's default where readers arrive first; a count says nothing of harm.
+
+**Keywords:** text art, documentation, figures, accessibility.
+
+## 1. Introduction
+
+A figure typed in box-drawing characters reads well in a terminal but reaches a screen reader character by character.
+The family had no rule on how to draw a figure. How many were typed, and where?
+
+## 2. Methods
+
+### 2.1 Plan and deviations
+
+The count was planned before it ran and ran once. No deviation.
+
+### 2.2 Design and materials
+
+Six repositories, each read as an archive of its main branch on 2026-10-29. Files read by a model or a terminal
+(AGENTS.md, CLAUDE.md) were left out.
+
+### 2.3 Measures and analysis
+
+A typed figure is a fenced block with no language, or marked text, that holds a box-drawing character
+(U+2500 to U+257F) or a block arrow. The count is per repository and per kind of page.
+
+## 3. Results
+
+### 3.1 Eighteen typed figures, in five of six repositories
+
+reader-ergonomics 7, topic 5, presentations 4, software-design 1, academic 1, learning 0.
+
+### 3.2 Half were on a front page or a card
+
+9 of the 18 were in a README or a standard.md, the pages a reader opens first.
+
+## 4. Discussion
+
+### 4.1 Principal finding
+
+Typing was the default, and most of all on the first pages.
+
+### 4.2 Comparison with prior work
+
+No study of readers compares the two forms; the standard's rule rests on access, not on measured reading.
+
+### 4.3 Limitations
+
+One day; a figure typed with plain ASCII (`-->`) is not counted; the count shows presence, not harm.
+
+### 4.4 Implications
+
+Each figure was redrawn and offered to its repository's owner; files read by a model keep their typed figures.
+
+## 5. Conclusion
+
+18 typed figures, half on the first pages; the family now draws them from Graphviz sources.
+
+## Data and code availability
+
+The count is the typed-figure check of reader-ergonomics-presentations, checks/local/typed_figure.py.
+
+## Reporting checklist
+
+None applies: a descriptive count, with no participants.
+
+## Declarations
+
+No funding. An AI assistant ran the count and drafted the text; the maintainers decided the rule it informed.
+```

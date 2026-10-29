@@ -19,7 +19,7 @@ The shape of one [structured proof](../evidence/mathematical-writing/frame.md), 
 | Every warrant named | spares the reader the search for implicit justifications | Inglis 2012 (experts hunt for them), Hodds 2014 | supported with caveat |
 | Citations only to visible steps | earlier siblings and ancestors' earlier siblings | Lamport 2012 | convention, untested |
 | Q.E.D. step closing each level | says how the steps give the claim above | Lamport 1995 | convention, untested |
-| 4 to 10 steps per level | the size Lamport finds easiest to read | Lamport 2012 | convention, untested |
+| about 4 to 10 steps per level | the size Lamport finds easiest to read; fewer when a claim needs fewer | Lamport 2012 | convention, untested |
 | At most three levels | a deeper step is a lemma to state on its own | this repository; Lamport 2012 finds step names past level 4 hard to read | convention, untested; stricter than Lamport, who often writes more than six levels (1995) |
 | Calculation at the lowest level | a chain of relations with a hint per link | Dijkstra 2000, Gries 1993, Lamport 2012 | convention, untested |
 | Paragraph alternative | for short, single-idea proofs | Lamport 2012 (prose under about ten lines), Fuller 2014 (readers found structure jumpy) | supported with caveat |
@@ -62,7 +62,8 @@ Uses: Definition 2.1, Lemma 3.2.
 3. A step's proof names every step, hypothesis and earlier result it uses.
 4. A step may cite only its earlier siblings and the earlier siblings of its ancestors.
 5. Each level ends with a Q.E.D. step that says how the level's steps give the claim above.
-6. Keep 4 to 10 steps per level; split a longer level into sub-steps, merge a shorter one.
+6. Aim for about 4 to 10 steps per level; past ten, split the level into sub-steps. A level of two or three steps is
+   fine when its claim needs no more, as in the skeleton and the example below.
 7. Stop at three levels; a proof that needs a fourth has a lemma inside it, so state the lemma separately.
 8. A sub-proof may open with its own one-line sketch.
 9. The lowest level is a short paragraph or a calculation with a hint per link.

@@ -409,13 +409,6 @@ file = "3b491b191b55"
 answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
 
 [[answer]]
-check = "document-mode"
-path = "README.fr.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "10b3a52fcb44"
-answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
-
-[[answer]]
 check = "section-cohesion"
 path = "README.md"
 question = "section 'Check it' is far from every other section (0.24): a second role?"
@@ -463,3 +456,10 @@ path = "evidence/mathematical-writing/frame.md"
 question = "changed together with shapes/proof.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "986450752e16"
 answer = "Keep them apart: the frame names the problem of the mathematical-writing review (`# Frame: the problem and the field's names for it`), and shapes/proof.md is the shape that review supports. They changed together when a citation key or a rule's wording was corrected in both; the shape links the review."
+
+[[answer]]
+check = "document-mode"
+path = "README.fr.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "6372b13030a3"
+answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."

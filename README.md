@@ -11,6 +11,24 @@ live there and are not repeated here. This repository adds only what is particul
 and the shapes of their documents. Where an academic convention and a principle of the standard disagree, the shape
 says which one wins, and why.
 
+## Take it
+
+Copy a shape's skeleton (the block under its "Skeleton" heading in [shapes/](shapes/README.md)) into a file of your
+own, and check it against the release of the standard this repository pins. The checks read Markdown; each shape's
+`.tex` twin has the same parts for writing in LaTeX, which the checks do not read.
+
+```sh
+git clone https://github.com/Tewf/reader-ergonomics-academic academic
+git clone https://github.com/Tewf/reader-ergonomics
+git -C reader-ergonomics checkout $(grep -m1 -o '[0-9a-f]\{40\}' academic/.github/workflows/checks.yml)   # the release this repository pins
+mkdir -p my-report/checks      # then paste a skeleton into my-report/report.md
+printf 'extends = "reader-ergonomics"\n[readable_measure]\nstylesheets = []\n[sufficient_contrast]\nstylesheets = []\n' > my-report/checks/config.toml
+python3 reader-ergonomics/checks/run.py my-report
+```
+
+Fix each error, fix or explain each warning, and answer the questions in `my-report/checks/out/needs-judgment.md`. To
+disagree with a rule, open an issue here naming the rule and the evidence.
+
 > **Status:** work in progress. Three multivocal reviews are written and audited in [evidence/](evidence/): research
 > papers and mathematical writing, audited on 2026-10-28, and reports. Each of the four shapes has a skeleton, a LaTeX
 > version and a worked example; the report shape is a first draft. It is an informal reading of published research and practice: not an

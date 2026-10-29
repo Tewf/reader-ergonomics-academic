@@ -11,6 +11,25 @@ et les vérifications y vivent et ne sont pas répétés ici. Ce dépôt n'ajout
 preuves et les formes de leurs documents. Quand une convention académique et un principe du standard divergent, la
 forme dit lequel l'emporte, et pourquoi.
 
+## Le prendre
+
+Copiez le squelette d'une forme (le bloc sous son titre « Skeleton » dans [shapes/](shapes/README.md)) dans un fichier à
+vous, et vérifiez-le avec la version du standard que ce dépôt épingle. Les vérifications lisent le Markdown ; la version
+`.tex` de chaque forme a les mêmes parties pour écrire en LaTeX, que les vérifications ne lisent pas.
+
+```sh
+git clone https://github.com/Tewf/reader-ergonomics-academic academic
+git clone https://github.com/Tewf/reader-ergonomics
+git -C reader-ergonomics checkout $(grep -m1 -o '[0-9a-f]\{40\}' academic/.github/workflows/checks.yml)   # la version que ce dépôt épingle
+mkdir -p mon-rapport/checks    # puis collez un squelette dans mon-rapport/rapport.md
+printf 'extends = "reader-ergonomics"\n[readable_measure]\nstylesheets = []\n[sufficient_contrast]\nstylesheets = []\n' > mon-rapport/checks/config.toml
+python3 reader-ergonomics/checks/run.py mon-rapport
+```
+
+Corrigez chaque erreur, corrigez ou expliquez chaque avertissement, et répondez aux questions de
+`mon-rapport/checks/out/needs-judgment.md`. Pour contester une règle, ouvrez une issue ici en nommant la règle et la
+preuve.
+
 > **État :** en cours. Trois revues multivocales sont écrites et auditées dans [evidence/](evidence/) : les articles
 > de recherche et l'écriture mathématique, auditées le 2026-10-28, et les rapports. Chacune des quatre formes a un
 > squelette, une version LaTeX et un exemple rédigé ; la forme d'un rapport est une première version. C'est une lecture informelle

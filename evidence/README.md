@@ -51,8 +51,10 @@ On 2026-10-28, seventeen claims the audits could not verify were checked against
 
 The reports review was written in two passes and audited after each, on 2026-10-29. The first pass: 135 lines, 97
 correct, 22 imprecise, 14 unverifiable and 2 wrong. The second, on examiners and on putting the summary first: 101
-lines, 62 correct, 21 imprecise, 15 unverifiable and 3 wrong. Its paywalled sources are being read in full through
-the university's access.
+lines, 62 correct, 21 imprecise, 15 unverifiable and 3 wrong.
+
+Its paywalled sources were then sent to the university's library. Of 25, 20 were read in full and the claims
+corrected to match. The other 5 stay marked: a book, a standard, two papers behind a bot check, and one with no access.
 
 Every wrong, imprecise or unverifiable line was corrected, narrowed to what the source supports, or marked "(secondary)" or
 "not checked", here and in the shapes that repeat it. Claims without a number have not been audited this way, so such a

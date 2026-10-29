@@ -160,7 +160,7 @@ Seven of seven are yes or partly, so grey literature is kept.
 | E8 | `synthèse en tête résumé exécutif lecteurs décideurs étude expérimentale compréhension rapport conclusion d'abord ou en dernier lecteurs` | nothing new |
 | E9 | `meta-analysis OR systematic review text structure signaling main idea position topic sentence placement comprehension expository text reviews` | reviews of structure instruction; none on position; nothing included |
 | E10 | `systematic review assessment of student reports rubrics criteria written project reports higher education engineering reliability validity review` | one review of rubrics (Reddy 2010); one rubric reliability paper (Brown 2023) |
-| E11 | `literature review of research on thesis assessment and examiner reading: systematic review of thesis examination studies 2015-2025` | Golding 2014 again; one survey of examiners (Sharmini 2015, secondary) |
+| E11 | `literature review of research on thesis assessment and examiner reading: systematic review of thesis examination studies 2015-2025` | Golding 2014 again; one survey of examiners (Sharmini 2015) |
 | E12 | `review of research on reading of technical reports by engineers and managers: summary conclusions first, document design evidence synthesis` | one preference experiment (Silyn-Roberts 2002) |
 | E13 | `systematic review inverted pyramid news structure comprehension recall experiments meta-analysis` | no review; items already held in reading-order |
 | E14 | `systematic review of internship or work placement assessment written report reflective report grading practices` | module guides only; nothing included |
@@ -185,7 +185,7 @@ Seven of seven are yes or partly, so grey literature is kept.
 Snowballing, one step, on the Semantic Scholar graph API (anonymous):
 
 - forward from Mullins 2002 (100 citing papers listed), Jansen 2010 (19), Britt 2003 (49) and Kieras 1978 (136): 304 titles screened;
-- backward from Golding 2014 (its reference list): Carter 2008, Holbrook 2008 and Johnston 1997, metadata only.
+- backward from Golding 2014 (its reference list): Carter 2008, Holbrook 2008 and Johnston 1997 (the first two were read in full on 2026-10-29).
 
 ### 4. Grey search
 
@@ -215,12 +215,12 @@ Types chosen: a government regulation (US Army), university assessment forms (Tw
 
 - Inclusion, exclusion and the 20-criterion score are those of protocol.md sections 7 and 8, unchanged.
 - A source below 10 stays an example of practice. A number read only in an abstract, a record, a search summary or another paper's report of it is marked "(secondary)".
-- One addition: a source that I reached only through the review that cites it (Carter 2008, Holbrook 2008, Johnston 1997) is listed with metadata only, and every claim from it is marked "(secondary)".
+- One addition: a source that I reached only through the review that cites it (Carter 2008, Holbrook 2008, Johnston 1997) was listed with metadata only and its claims marked "(secondary)". Carter 2008 and Holbrook 2008 were read in full on 2026-10-29. Johnston 1997 stays secondary.
 
 ### 7. Limits of the pass
 
 - One reviewer; no second rater.
-- Full text of the four examiner papers was not reached in this pass. Mullins 2002 and Kiley 2004: publisher closed, and the one copy found sits behind a university VPN login, not tried. Holbrook 2007 and Bourke 2013: publisher closed, and the Newcastle repository answered 403. Their abstracts were read through OpenAlex or Crossref. All four were read in full on 2026-10-29 through the university's access (full text). The review Golding 2014 reports their findings. It is not verified either: it was said to be read in full, but its publisher PDF is behind a bot check, and the audit read only its abstract and a slide deck.
+- Full text of the four examiner papers was not reached in this pass. Mullins 2002 and Kiley 2004: publisher closed, and the one copy found sits behind a university VPN login, not tried. Holbrook 2007 and Bourke 2013: publisher closed, and the Newcastle repository answered 403. Their abstracts were read through OpenAlex or Crossref. All four were read in full on 2026-10-29 through the university's access (full text). Golding 2014 was also read in full on 2026-10-29 (open access).
 - Several pages returned 403, an access-denied notice or a bot check and were not read; no check was bypassed (sources-pass2.md, Excluded).
 - A claim that "no study was found" means no study in this pool of strings and engines.
 - No Grenoble M1 AI report guide was found (G16, as in the first pass).

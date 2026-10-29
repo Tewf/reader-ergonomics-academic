@@ -98,11 +98,11 @@ Rows to append to sources.md. Scores for grey sources use the same eight subtota
 | Listed by the strings (371 in all) | 266 (E 112 + F 154) | 105 (G) |
 | Citing papers screened by title (snowball) | 304 | 0 |
 | Included, new to the pool | 22 | 5 |
-| Pool sources upgraded (abstract now read; all three then read in full on 2026-10-29) | 3 (Holbrook 2007, Bourke 2013, Mullins 2002) | 0 |
-| Read in full or the relevant part | 4 (Golding 2014, Bodnar 2018, Brown 2023; Reddy 2010 as an open copy, abstract and introduction; not verified: the audit could not reproduce the Golding 2014 reading, whose publisher PDF is behind a bot check, nor locate the open copy of Reddy 2010) | 5 (Army 2020 section, UT 2024, ULB 2025, UGA 2026, BTS 2010) |
-| Read as abstract (Crossref, OpenAlex or Semantic Scholar copy of the publisher abstract) | 11 new (Hodgson 2020, Chetcuti 2022, Williams 2018, Jansen 2013, Koetsenruijter 2022, Suchan 1989, Spyridakis 2000, Spyridakis 2002, Davey 1990, Bridge 1984, Silyn-Roberts 2002), plus 3 pool sources upgraded | 0 |
-| Record or search summary only | 3 (Sharmini 2015, Kieras 1978, Kieras 1980) | 0 |
-| Metadata only, cited through Golding 2014 | 3 (Carter 2008, Holbrook 2008, Johnston 1997) | 0 |
+| Pool sources upgraded (abstract first; all three then read in full on 2026-10-29) | 3 (Holbrook 2007, Bourke 2013, Mullins 2002) | 0 |
+| Read in full or the relevant part | 11 (Golding 2014, Bodnar 2018, Brown 2023, Reddy 2010 and, on 2026-10-29, Holbrook 2008, Carter 2008, Williams 2018, Sharmini 2015, Suchan 1989, Kieras 1978, Kieras 1980; all full text) | 5 (Army 2020 section, UT 2024, ULB 2025, UGA 2026, BTS 2010) |
+| Read as abstract (Crossref, OpenAlex or Semantic Scholar copy of the publisher abstract) | 9 new (Hodgson 2020, Chetcuti 2022, Jansen 2013, Koetsenruijter 2022, Spyridakis 2000, Spyridakis 2002, Davey 1990, Bridge 1984, Silyn-Roberts 2002), plus 3 pool sources upgraded | 0 |
+| Record or search summary only | 0 | 0 |
+| Metadata only, cited through Golding 2014 | 1 (Johnston 1997) | 0 |
 
 - Of 5 grey, 1 scores below 10: BTS 2010 (9). It is an example of practice only, and the low end of the report-weight range (17%) rests on it, so the range without it is 60% to 75%.
 - New formal sources, 22 in all: Golding 2014, Hodgson 2020, Chetcuti 2022, Sharmini 2015, Williams 2018, Bodnar 2018, Brown 2023, Reddy 2010, Jansen 2010, Jansen 2013, Koetsenruijter 2022.
@@ -119,12 +119,12 @@ Rows to append to sources.md. Scores for grey sources use the same eight subtota
 | E8 synthèse en tête (FR) | 28 | 0 | 0 |
 | E9 text structure reviews | 9 | 0 | 0 |
 | E10 rubric reviews | 9 | 2 | 2 (Reddy 2010, Brown 2023) |
-| E11 thesis examination reviews 2015-2025 | 18 | 0 | 1 (Sharmini 2015, secondary) |
+| E11 thesis examination reviews 2015-2025 | 18 | 0 | 1 (Sharmini 2015) |
 | E12 reading of technical reports | 10 | 0 | 1 (Silyn-Roberts 2002) |
 | E13 inverted pyramid reviews | 10 | 0 | 0 |
 | E14 placement assessment reviews | 9 | 0 | 0 |
 | F10 Mullins full text | 10 | 0 | 0 |
-| F11 Carter 2008 | 19 | 0 | 1 (Carter 2008, metadata) |
+| F11 Carter 2008 | 19 | 0 | 1 (Carter 2008) |
 | F12 Holbrook 2007 | 20 | 0 | 0 (abstract read through OpenAlex) |
 | F13 Bourke 2013 | 9 | 0 | 0 (abstract read through OpenAlex) |
 | F14 capstone rubric reliability | 10 | 1 | 1 (Bodnar 2018) |
@@ -132,7 +132,7 @@ Rows to append to sources.md. Scores for grey sources use the same eight subtota
 | F16 summary before or after | 9 | 0 | 0 |
 | F17 main idea first or last | 19 | 0 | 2 (Davey 1990, Kieras 1980) |
 | F18 deductive or inductive | 20 | 0 | 0 |
-| F19 Kieras 1978 | 9 | 0 | 1 (Kieras 1978, record) |
+| F19 Kieras 1978 | 9 | 0 | 1 (Kieras 1978) |
 | F20 Britt and Larson | 10 | 0 | 0 |
 | F21 Johnston 1997 | 9 | 0 | 0 (Johnston 1997 by metadata) |
 | Snowball (forward from Mullins 2002, Jansen 2010, Britt 2003, Kieras 1978) | 304 titles | 0 | 7 (Hodgson 2020, Chetcuti 2022, Williams 2018, Suchan 1989, Spyridakis 2000, Spyridakis 2002, Bridge 1984) |
@@ -148,7 +148,7 @@ Rows to append to sources.md. Scores for grey sources use the same eight subtota
 | G21 Pyramid Principle | 10 | 0 | 0 |
 | G22, a book by Lovitts | 10 | 0 | 0 |
 
-Carter 2008 appears under F11 because the string found the record; Holbrook 2008 and Johnston 1997 come from Golding 2014's reference list.
+Carter 2008 appears under F11 because the string found the record; Holbrook 2008 and Johnston 1997 come from Golding 2014's reference list. Carter 2008 and Holbrook 2008 were read in full on 2026-10-29.
 
 ### Excluded rows
 
@@ -163,7 +163,7 @@ Carter 2008 appears under F11 because the string found the record; Holbrook 2008
 | EC3 scanned, not readable | NPS Naval Writing chapter 9 (image-only PDF; no OCR run) | 1 |
 | Off topic after reading the record | three studies by Li, by Salmerón and by Kuechler (published in 2015, 2009 and 2006): manual structure for Western and Chinese users, graphical overviews in hypertext, goals in process narratives; and meta-analyses of text structure instruction (instruction, not order) | 4 |
 | Search summary only, not in pool | module guides of Nanterre (equal thirds), IUT Caen (report 15 and oral 15), Strasbourg (report half, oral half), Leiden, Wageningen, HKU; claims from them are not used | not counted |
-| Paywalled or a book | a book by Lovitts (published 2007); Carter 2008 and Johnston 1997 (only through Golding 2014) | 3 |
+| Paywalled or a book | a book by Lovitts (published 2007); Johnston 1997 (only through Golding 2014) | 2 |
 
 ### Pool rows
 
@@ -171,27 +171,27 @@ For a formal source the quality column holds the evidence grade and what was rea
 
 | Key | Kind | Found via | Quality | Used in |
 |---|---|---|---|---|
-| Golding 2014 | formal | E6 | supported with caveat (qualitative systematic review, 30 articles; not verified: read in full, open access, was claimed but the publisher PDF is behind a bot check; the chapter 1 or 2 claim rests on a secondary slide deck) | review-pass2, requirements-pass2 |
+| Golding 2014 | formal | E6 | supported with caveat (qualitative systematic review, 30 articles; full text, open access; the chapter 1 or 2 claim is printed on p. 568 with no primary study cited) | review-pass2, requirements-pass2 |
 | Hodgson 2020 | formal | snowball (Mullins 2002) | convention, untested (abstract only) | review-pass2 |
 | Chetcuti 2022 | formal | snowball (Mullins 2002) | supported with caveat (abstract read) | review-pass2 |
-| Sharmini 2015 | formal | E11 | supported with caveat (abstract read in the audit; first found as a search summary) | review-pass2 |
-| Williams 2018 | formal | snowball (Mullins 2002) | measured (abstract read) | review-pass2 |
+| Sharmini 2015 | formal | E11 | supported with caveat (full text, 2026-10-29) | review-pass2 |
+| Williams 2018 | formal | snowball (Mullins 2002) | measured (full text; prints 2019, online 2018) | review-pass2 |
 | Bodnar 2018 | formal | F14 | measured (read in full, open access) | review-pass2 |
 | Brown 2023 | formal | E10 | measured (read, open access) | review-pass2 |
-| Reddy 2010 | formal | E10 | supported with caveat (review; abstract and introduction read in an open copy) | review-pass2 |
+| Reddy 2010 | formal | E10 | supported with caveat (review; full text) | review-pass2 |
 | Jansen 2010 | formal | F15 | measured, ratings (full text; prints in 2011) | review-pass2, requirements-pass2 |
 | Jansen 2013 | formal | F15 | measured, ratings (abstract read) | review-pass2 |
 | Koetsenruijter 2022 | formal | E7 | measured, weak: nonrandomized pilot (abstract read, Crossref copy) | review-pass2, requirements-pass2 |
-| Suchan 1989 | formal | snowball (Kieras 1978) | measured (abstract read; full text not reached) | review-pass2, requirements-pass2 |
+| Suchan 1989 | formal | snowball (Kieras 1978) | measured (full text; bundled styles, recall only) | review-pass2, requirements-pass2 |
 | Spyridakis 2000 | formal | snowball (Kieras 1978) | measured (abstract read) | review-pass2, requirements-pass2 |
 | Spyridakis 2002 | formal | snowball (Kieras 1978) | measured (abstract read) | review-pass2, requirements-pass2 |
 | Davey 1990 | formal | F17 | measured, children (abstract read) | review-pass2 |
 | Bridge 1984 | formal | snowball (Kieras 1978) | measured (abstract read) | review-pass2 |
 | Silyn-Roberts 2002 | formal | E12 | supported with caveat: stated preference, N = 744 (abstract read) | review-pass2, requirements-pass2 |
-| Kieras 1978 | formal | F19 | record only (a search summary of a related report; not read) | review-pass2 |
-| Kieras 1980 | formal | F17 | record only (not reached; paywall) | review-pass2 |
-| Carter 2008 | formal | F11 | metadata only; claims secondary through Golding 2014 | review-pass2 |
-| Holbrook 2008 | formal | backward (Golding 2014) | metadata only; claims secondary through Golding 2014 | review-pass2 |
+| Kieras 1978 | formal | F19 | supported with caveat (full text) | review-pass2 |
+| Kieras 1980 | formal | F17 | supported with caveat (full text) | review-pass2 |
+| Carter 2008 | formal | F11 | supported with caveat (full text; informal panels of 23 Auckland faculty, notes by the author) | review-pass2 |
+| Holbrook 2008 | formal | backward (Golding 2014) | supported with caveat (full text; 804 theses, 2121 reports) | review-pass2 |
 | Johnston 1997 | formal | backward (Golding 2014) | metadata only; claims secondary through Golding 2014 | review-pass2 |
 | Mullins 2002 | formal (pool) | first pass | upgraded: abstract read through OpenAlex, then full text read on 2026-10-29 | review-pass2 |
 | Kiley 2004 | formal (pool) | first pass | upgraded: full text read on 2026-10-29; prints 2004 in the journal, 2005 in the DOI and copyright | review-pass2 |

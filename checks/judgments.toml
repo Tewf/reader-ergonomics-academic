@@ -461,5 +461,5 @@ answer = "One mode, reference: the front page says what the repository holds and
 check = "logical-lines"
 path = "shapes/academic-report.md"
 question = "86 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "7fc39665e920"
+file = "8cb7d7038497"
 answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."

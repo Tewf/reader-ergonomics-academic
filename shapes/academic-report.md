@@ -214,7 +214,9 @@ to the next: an examiner reads it over several days (Mullins 2002).
 ## Worked example
 
 A technical report (TR) on a real choice made in this family. It has the parts a TR needs, numbered once the parts
-it leaves out are deleted. A complete master's thesis example awaits a thesis published under an open licence, CC BY or
+it leaves out are deleted.
+
+A complete master's thesis example awaits a thesis published under an open licence, CC BY or
 public domain, that can be reproduced in part. The reports review's sources hold none, so the thesis keeps the
 skeleton and its literature sub-skeleton above. The decision it records is reader-ergonomics-presentations'
 [decision 0007](https://github.com/Tewf/reader-ergonomics-presentations/blob/master/decisions/0007-diagrams-are-drawn-with-graphviz.md).

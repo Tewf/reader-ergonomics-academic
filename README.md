@@ -26,7 +26,9 @@ Four kinds of document, each with its own evidence and its own shape:
 
 ```text
 academic writing
- ├─ the report               course project, internship, master's thesis, technical report
+ ├─ the report
+ │    course project, internship, master's thesis,
+ │    technical report
  ├─ the research paper
  ├─ the mathematical article
  └─ the proof

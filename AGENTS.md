@@ -3,11 +3,11 @@
 For anyone changing this repository, person or language model. To write a report, a paper, an article or a proof,
 read [standard.md](standard.md) instead; this file is about the repository itself. It extends reader-ergonomics
 through the interface in that repository's
-[extending.md](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/extending.md), and relies on nothing else there.
+[extending.md](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/extending.md), and relies on nothing else there.
 
 ## Before writing
 
-1. Read reader-ergonomics' [standard.md](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/standard.md), then
+1. Read reader-ergonomics' [standard.md](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/standard.md), then
    this repository's [standard.md](standard.md). A principle that reader-ergonomics holds is linked, never restated.
 2. This repository adds shapes and no principles. A shape belongs here only when an academic genre changes a document:
    a convention of the genre, a reader such as an examiner or a referee, a format such as LaTeX.
@@ -18,7 +18,7 @@ through the interface in that repository's
 ## Rules for claims
 
 - The rules for claims are reader-ergonomics' own
-  ([its AGENTS.md](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/AGENTS.md#rules-for-claims)): a grade on every
+  ([its AGENTS.md](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/AGENTS.md#rules-for-claims)): a grade on every
   claim, `Author Year` in the text, one entry in [evidence/bibliography.md](evidence/bibliography.md), evidence against
   kept in `against.md`, "(secondary)" for a number read in a summary.
 - A key names one work across the family: before adding one, check it against the other repositories

@@ -8,12 +8,12 @@ Every source the two passes on reports included or set aside, each with its grad
 |---|---|---|
 | Listed by the strings (323 in all) | 150 (E 47 + F 103) | 173 (G) |
 | Included | 11 | 7 |
-| Read in full (or the part opened) | 1 (Nesi 2012, chapter 1) | 6 (NISO 2010, Pinelli 1982, TSE 2017, EOST 2026, INSPE 2021, Sheffield 2017) |
-| Read as abstract or record page | 4 (Gardner 2013, Mullins 2002, Lorch 1996, Pinelli 1984) | 0 |
-| Metadata verified, nothing else read | 6 | 1 (ISO 1986) |
+| Read in full (or the part opened) | 10 (Nesi 2012, chapter 1; and, on 2026-10-29, Gardner 2013, Mullins 2002, Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Lorch 1996, Pinelli 1997) | 6 (NISO 2010, Pinelli 1982, TSE 2017, EOST 2026, INSPE 2021, Sheffield 2017) |
+| Read as abstract or record page | 1 (Pinelli 1984) | 0 |
+| Metadata verified, nothing else read | 0 | 1 (ISO 1986) |
 
 - The 11 formal include Gardner 2013, Nesi 2012, Mullins 2002, Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Lorch 1996, Pinelli 1984 and Pinelli 1997.
-- The six with metadata only (Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Pinelli 1997) are used for what the record or a search summary states (secondary).
+- The six that had metadata only (Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Pinelli 1997) were read in full on 2026-10-29 (full text), like Gardner 2013, Mullins 2002 and Lorch 1996. Kiley 2004 prints 2004 in the journal and 2005 in the DOI and copyright; the key stays.
 - The 7 grey are NISO 2010, ISO 1986, TSE 2017, EOST 2026, INSPE 2021, Sheffield 2017 and Pinelli 1982.
 
 ### By string
@@ -68,17 +68,17 @@ Of 7 grey sources, 2 score below 10: TSE 2017 (9.5) and EOST 2026 (9). Both sour
 
 | Key | Kind | Found via | Quality | Used in |
 |---|---|---|---|---|
-| Gardner 2013 | formal | E1 | measured, descriptive (abstract read) | review, state-of-the-art |
+| Gardner 2013 | formal | E1 | measured, descriptive (full text) | review, state-of-the-art |
 | Nesi 2012 | formal | E1 | measured, descriptive (chapter 1 excerpt read) | review, state-of-the-art, baseline |
-| Mullins 2002 | formal | E2 | supported with caveat (abstract read) | review, position |
-| Kiley 2004 | formal | E2 | supported with caveat (record, secondary) | review |
-| Paltridge 2002 | formal | F1 | supported with caveat (abstract read) | review, against |
-| Bunton 2005 | formal | F2 | supported with caveat (secondary) | review |
-| Holbrook 2007 | formal | F3 | record only | review, academic-report shape |
-| Bourke 2013 | formal | F3 | record only | review |
-| Lorch 1996 | formal | F4 | measured (abstract read) | review, state-of-the-art, against |
+| Mullins 2002 | formal | E2 | supported with caveat (full text) | review, position |
+| Kiley 2004 | formal | E2 | supported with caveat (full text; prints 2004, but the copyright year and the DOI say 2005) | review |
+| Paltridge 2002 | formal | F1 | supported with caveat (full text) | review, against |
+| Bunton 2005 | formal | F2 | supported with caveat (full text) | review |
+| Holbrook 2007 | formal | F3 | supported with caveat (full text) | review, academic-report shape |
+| Bourke 2013 | formal | F3 | supported with caveat (full text) | review |
+| Lorch 1996 | formal | F4 | measured (full text) | review, state-of-the-art, against |
 | Pinelli 1984 | formal | G9 | measured, descriptive (record read; preferences only) | review, against |
-| Pinelli 1997 | formal | G10 | record only | listed, not used |
+| Pinelli 1997 | formal | G10 | measured, descriptive (full text); a 1996 replication of the 1981 survey, usable and citable | listed, not used |
 | NISO 2010 | grey tier 1 | G1 | 16.5: A4 M4 O3 D1 P1 N1.5 I1 T1 | review, baseline |
 | ISO 1986 | grey tier 1 | G2 | 11 on the catalogue record: A4 M0.5 O3 D1 P0 N0.5 I1 T1 | review |
 | Pinelli 1982 | grey tier 1 | G10 | 17.5: A3.5 M5.5 O3.5 D1 P1 N1.5 I0.5 T1 | review, state-of-the-art, against |
@@ -98,17 +98,17 @@ Rows to append to sources.md. Scores for grey sources use the same eight subtota
 | Listed by the strings (371 in all) | 266 (E 112 + F 154) | 105 (G) |
 | Citing papers screened by title (snowball) | 304 | 0 |
 | Included, new to the pool | 22 | 5 |
-| Pool sources upgraded (abstract now read) | 3 (Holbrook 2007, Bourke 2013, Mullins 2002) | 0 |
+| Pool sources upgraded (abstract now read; all three then read in full on 2026-10-29) | 3 (Holbrook 2007, Bourke 2013, Mullins 2002) | 0 |
 | Read in full or the relevant part | 4 (Golding 2014, Bodnar 2018, Brown 2023; Reddy 2010 as an open copy, abstract and introduction; not verified: the audit could not reproduce the Golding 2014 reading, whose publisher PDF is behind a bot check, nor locate the open copy of Reddy 2010) | 5 (Army 2020 section, UT 2024, ULB 2025, UGA 2026, BTS 2010) |
 | Read as abstract (Crossref, OpenAlex or Semantic Scholar copy of the publisher abstract) | 11 new (Hodgson 2020, Chetcuti 2022, Williams 2018, Jansen 2013, Koetsenruijter 2022, Suchan 1989, Spyridakis 2000, Spyridakis 2002, Davey 1990, Bridge 1984, Silyn-Roberts 2002), plus 3 pool sources upgraded | 0 |
-| Record or search summary only | 4 (Sharmini 2015, Kieras 1978, Kieras 1980, Jansen 2010) | 0 |
+| Record or search summary only | 3 (Sharmini 2015, Kieras 1978, Kieras 1980) | 0 |
 | Metadata only, cited through Golding 2014 | 3 (Carter 2008, Holbrook 2008, Johnston 1997) | 0 |
 
 - Of 5 grey, 1 scores below 10: BTS 2010 (9). It is an example of practice only, and the low end of the report-weight range (17%) rests on it, so the range without it is 60% to 75%.
 - New formal sources, 22 in all: Golding 2014, Hodgson 2020, Chetcuti 2022, Sharmini 2015, Williams 2018, Bodnar 2018, Brown 2023, Reddy 2010, Jansen 2010, Jansen 2013, Koetsenruijter 2022.
 - And: Suchan 1989, Spyridakis 2000, Spyridakis 2002, Davey 1990, Bridge 1984, Silyn-Roberts 2002, Kieras 1978, Kieras 1980, Carter 2008, Holbrook 2008, Johnston 1997.
 - New grey: Army 2020, UT 2024, ULB 2025, UGA 2026, BTS 2010.
-- Jansen 2010 is also held in the shared bibliography under the same key; the review there read it beyond the abstract.
+- Jansen 2010 is also held in the shared bibliography under the same key; the review there read it beyond the abstract. It was read in full on 2026-10-29; the paper prints in 2011.
 
 **By string**
 
@@ -179,7 +179,7 @@ For a formal source the quality column holds the evidence grade and what was rea
 | Bodnar 2018 | formal | F14 | measured (read in full, open access) | review-pass2 |
 | Brown 2023 | formal | E10 | measured (read, open access) | review-pass2 |
 | Reddy 2010 | formal | E10 | supported with caveat (review; abstract and introduction read in an open copy) | review-pass2 |
-| Jansen 2010 | formal | F15 | measured, ratings (abstract through a search summary; details from the shared reading-order review, not verified here) | review-pass2, requirements-pass2 |
+| Jansen 2010 | formal | F15 | measured, ratings (full text; prints in 2011) | review-pass2, requirements-pass2 |
 | Jansen 2013 | formal | F15 | measured, ratings (abstract read) | review-pass2 |
 | Koetsenruijter 2022 | formal | E7 | measured, weak: nonrandomized pilot (abstract read, Crossref copy) | review-pass2, requirements-pass2 |
 | Suchan 1989 | formal | snowball (Kieras 1978) | measured (abstract read; full text not reached) | review-pass2, requirements-pass2 |
@@ -193,10 +193,10 @@ For a formal source the quality column holds the evidence grade and what was rea
 | Carter 2008 | formal | F11 | metadata only; claims secondary through Golding 2014 | review-pass2 |
 | Holbrook 2008 | formal | backward (Golding 2014) | metadata only; claims secondary through Golding 2014 | review-pass2 |
 | Johnston 1997 | formal | backward (Golding 2014) | metadata only; claims secondary through Golding 2014 | review-pass2 |
-| Mullins 2002 | formal (pool) | first pass | upgraded: abstract read in full through OpenAlex; full text unverifiable | review-pass2 |
-| Kiley 2004 | formal (pool) | first pass | unchanged: record only; claims secondary through Golding 2014 | review-pass2 |
-| Holbrook 2007 | formal (pool) | first pass | upgraded: abstract read (501 candidates, 1310 reports) | review-pass2 |
-| Bourke 2013 | formal (pool) | first pass | upgraded: abstract read (353 and 74 examiners); not an editorial | review-pass2 |
+| Mullins 2002 | formal (pool) | first pass | upgraded: abstract read through OpenAlex, then full text read on 2026-10-29 | review-pass2 |
+| Kiley 2004 | formal (pool) | first pass | upgraded: full text read on 2026-10-29; prints 2004 in the journal, 2005 in the DOI and copyright | review-pass2 |
+| Holbrook 2007 | formal (pool) | first pass | upgraded: abstract read (501 candidates, 1310 reports), then full text read on 2026-10-29 | review-pass2 |
+| Bourke 2013 | formal (pool) | first pass | upgraded: abstract read (353 and 74 examiners), then full text read on 2026-10-29; not an editorial | review-pass2 |
 | Army 2020 | grey tier 1 | G20 | 14: A4 M3.5 O2 D1 P0.5 N1 I1 T1 | review-pass2, requirements-pass2 |
 | UT 2024 | grey tier 2 | G13 | 12: A3.5 M3 O2.5 D1 P0 N1 I0.5 T0.5 | review-pass2, requirements-pass2 |
 | ULB 2025 | grey tier 2 | G14 | 10.5: A3.5 M2 O2.5 D1 P0 N0.5 I0.5 T0.5 | review-pass2 |

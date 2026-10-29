@@ -220,7 +220,7 @@ Types chosen: a government regulation (US Army), university assessment forms (Tw
 ### 7. Limits of the pass
 
 - One reviewer; no second rater.
-- Full text of the four examiner papers asked for was not reached in this pass. Mullins 2002 and Kiley 2004: publisher closed, and the one copy found sits behind a university VPN login, not tried. Holbrook 2007 and Bourke 2013: publisher closed, and the Newcastle repository answered 403. Their abstracts were read through OpenAlex or Crossref. The review Golding 2014 reports their findings. It is not verified either: it was said to be read in full, but its publisher PDF is behind a bot check, and the audit read only its abstract and a slide deck.
+- Full text of the four examiner papers was not reached in this pass. Mullins 2002 and Kiley 2004: publisher closed, and the one copy found sits behind a university VPN login, not tried. Holbrook 2007 and Bourke 2013: publisher closed, and the Newcastle repository answered 403. Their abstracts were read through OpenAlex or Crossref. All four were read in full on 2026-10-29 through the university's access (full text). The review Golding 2014 reports their findings. It is not verified either: it was said to be read in full, but its publisher PDF is behind a bot check, and the audit read only its abstract and a slide deck.
 - Several pages returned 403, an access-denied notice or a bot check and were not read; no check was bypassed (sources-pass2.md, Excluded).
 - A claim that "no study was found" means no study in this pool of strings and engines.
 - No Grenoble M1 AI report guide was found (G16, as in the first pass).

@@ -10,15 +10,15 @@ Covered elsewhere and only linked: IMRaD, structured abstracts, CARS moves and r
 
 | Claim | Grade | Where |
 |---|---|---|
-| Assessed student writing in England falls into 13 genre families (2,858 texts); essays are 1,237 of them | measured, descriptive | review.md 1 |
+| Assessed student writing in England falls into 13 genre families (2,858 texts); essays are 1,237 of them | measured, descriptive | review.md 1 (published Table 4) |
 | The one technical-report standard read in full requires a summary, an introduction, methods, results and discussion, and conclusions | convention, untested | review.md 2 |
 | The same standard notes that a separate non-technical executive summary is often prepared when a print report exceeds 50 pages | convention, untested | review.md 2 |
 | The same standard says report organisation moved from content-based to user-based | convention, untested | review.md 2 |
 | 97% of 882 surveyed engineers and scientists read the conclusion of a technical report; 69% to 77% use the summary to decide whether to read | measured (self-report survey, 1982) | review.md 4 |
 | In free recall, headings raise recall of unfamiliar topics, not of familiar ones | measured | review.md 5 |
 | No controlled study of an executive summary, of conclusion-first order, or of length on report readers was located | open | state-of-the-art.md |
-| Experienced examiners were interviewed (30, five universities) on their criteria, expected standard and key judgement points | supported with caveat (abstract only) | review.md 3 |
+| Experienced examiners were interviewed (30, five universities) on their criteria, expected standard and key judgement points | supported with caveat (full text) | review.md 3 |
 | A French school grid weights substance 13 of 20 and form 7 of 20 for an internship report | convention, untested (example of practice) | review.md 6 |
 | A French engineering school makes the supervisor's reading of the report the gate to the defence | convention, untested (example of practice) | review.md 6 |
 | No survey of host companies' reading of internship reports was located | open | position.md |
-| Thesis structures fall into simple, complex, topic-based and compilation forms | supported with caveat (abstract read) | review.md 3 |
+| Thesis structures fall into simple, complex, topic-based and compilation forms | supported with caveat (full text) | review.md 3 |

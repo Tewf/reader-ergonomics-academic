@@ -16,10 +16,10 @@ This file says who holds the record on each sub-question: the most adopted pract
 
 | Sub-question | Holder | Method | Measured how |
 |---|---|---|---|
-| Genres of student writing | Gardner 2013, Nesi 2012 | corpus classification of 2,858 texts | counts by family and level |
+| Genres of student writing | Gardner 2013, Nesi 2012 | corpus classification of 2,858 texts | counts by family (Table 4) and by level and disciplinary group (tables under Figures 1 and 2) |
 | Which parts engineers read | Pinelli 1982 | survey, 378 internal and 504 external respondents | self-reported share reading each component, and ranked order |
-| How examiners judge | Mullins 2002 | 30 interviews | themes, no counts in the abstract |
-| Headings and recall | Lorch 1996 | two experiments | free recall and summaries |
+| How examiners judge | Mullins 2002 | 30 interviews | themes (full text), no counts of criteria |
+| Headings and recall | Lorch 1996 | two experiments (free recall, N = 80; summarization, N = 99) | free recall and summaries |
 | Structured abstract | Hartley 2004a | narrative review of 31 studies | information content, readability |
 
 ## Records kept apart
@@ -33,7 +33,7 @@ This file says who holds the record on each sub-question: the most adopted pract
 | Item | Status |
 |---|---|
 | Move analysis of a French internship report | pointers only (a 2009 study of student-teacher placement reports and a 2012 chapter on university writing, not verified: titles not given) |
-| Examiners' reading order | not located |
+| Examiners' reading order | reported by interview (Mullins 2002, full text); no test of its effect located |
 | Host companies' reading | not located |
 | ISO 7144 content | paywalled |
 | Informative against topic headings | not located |

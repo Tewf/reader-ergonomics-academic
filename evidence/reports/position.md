@@ -17,7 +17,7 @@ This file says what is known, what is not, and what this repository adds.
 | Does an executive summary raise a reader's accuracy or speed on a report? | no study located |
 | Does conclusion-first beat conclusion-last for reports with comprehension as the outcome? | no study located |
 | What a host company reads in an internship report, and what it wants from it | no study located |
-| In what order examiners read a thesis | no study located |
+| Whether a given reading order helps an examiner | no test located; the order examiners say they follow is reported by interview: most of the 30 open the abstract, introduction, conclusion and references first, then read in full, and form a first impression by the end of the second or third chapter (Mullins 2002, full text) |
 | Move structure of a French rapport de stage | pointers unverified |
 | Content of ISO 7144 | paywalled |
 

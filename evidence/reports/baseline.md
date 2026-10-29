@@ -17,7 +17,7 @@ Why this one:
 ## An example of practice, for French schools
 
 **The school grid itself**, run as the score: for an internship report, the TSE 2017 grid (form 7, substance 13 of 20). It scores 9.5 of 20, below the line of 10, so it is an example of practice only and not a baseline; NISO Z39.18 stays the baseline.
-For a thesis, Mullins 2002 reports the criteria that experienced examiners name (not verified: abstract only, which does not list the criteria).
+For a thesis, Mullins 2002 reports the criteria that experienced examiners name as themes, not a numbered list (full text).
 
 ## What to measure
 

@@ -26,7 +26,7 @@ This file gathers the evidence against the claims of this review, and the limits
 ## 5. Genre evidence is English, undergraduate and taught
 
 - Gardner 2013 and Nesi 2012 cover assessed writing in England; there is no research thesis in the corpus and no French text.
-- Paltridge 2002 was read at abstract level and Bunton 2005 through a search summary.
+- Paltridge 2002 (30 theses, one Australian university) and Bunton 2005 (45 theses, one Hong Kong university) were read in full text.
 
 ## 6. Grids are one teacher's rule
 
@@ -36,7 +36,7 @@ This file gathers the evidence against the claims of this review, and the limits
 
 ## 7. Conclusion-first may cost something
 
-- Two experiments on bad-news letters, then e-mails (Jansen and Janssen 2010, abstract only), found explanation-first perceived as more comprehensible (perceived, not tested); for a grader receiving a failed result, the effect is untested.
+- Two experiments on bad-news letters, then e-mails (Jansen and Janssen 2010, full text; prints in 2011), found explanation-first perceived as more comprehensible (perceived, not tested). For a grader receiving a failed result, the effect is untested.
 - A cross-cultural study of product texts found no difference in comprehension between inductive and deductive order (not verified: the study was not located again and is not named).
 
 ## 8. Reader preference is not learning

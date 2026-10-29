@@ -17,9 +17,9 @@ Sources from outside journals take a score instead of a grade, in [sources](sour
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
 | Gardner 2013 | seminal (corpus) | 2,858 assessed texts, undergraduate and taught postgraduate, England; 13 genre families built from the texts, not from teachers' views | measured, descriptive |
-| Nesi 2012 | survey (book) | the counts by level are in Gardner 2013 Table 4 (manuscript); the corpus has four levels; Nesi's own table number is not verified (book not reached) | measured, descriptive |
+| Nesi 2012 | survey (book) | the totals are in Gardner 2013 Table 4 and the counts by level in the tables under its Figures 1 and 2 (full text); the corpus has four levels; Nesi's own table number is not verified (book not reached) | measured, descriptive |
 
-Counts from Gardner 2013, Tables 3 and 4 (author's manuscript; counts depend on the corpus version; all levels):
+Counts from Gardner 2013, Table 4 (all levels) and the tables under its Figures 1 and 2 (by level and by disciplinary group); counts depend on the corpus version. Table 3 of the published paper holds essay prompts, not counts:
 
 | Family | Texts |
 |---|---|
@@ -39,7 +39,7 @@ Counts from Gardner 2013, Tables 3 and 4 (author's manuscript; counts depend on 
 
 - The corpus holds no research master's thesis and no French text; its upper level is taught master's writing.
 - This review's mapping of the four report kinds onto the families is a proposal, not the book's. Project report: Methodology Recount, Design Specification or Research Report. Internship report: Narrative Recount or Case Study. Technical report: Research Report or Design Specification. Thesis: none.
-- The chapters that define each family's stages were not read, so no move list is given for any family.
+- Table 2 of Gardner 2013 (pp. 37 to 40) gives each family a purpose, a brief generic structure and example genres. Examples: Methodology Recount has Introduction, Methods, Results, Discussion. Design Specification has purpose, design development and testing. Research Report has aim or question, investigation, links to other research. Narrative Recount recounts events with optional comments. Case Study describes a case with recommendations. The chapters of the book that define each family's stages were not read, so no move list from the book is given.
 - A study of a transnational engineering programme is said to have found Narrative Recount, Design Specification and Exercise in all four of its disciplines. It is not verified: no such study was found when searched for, and only a search summary mentions it.
 
 ## 2. Standards (R2)
@@ -57,14 +57,14 @@ Counts from Gardner 2013, Tables 3 and 4 (author's manuscript; counts depend on 
 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
-| Paltridge 2002 | seminal (published advice against practice) | thesis structures; the abstract names four main kinds of thesis (traditional simple, traditional complex, topic-based, compilation of research articles) in master's and doctoral theses at one university | supported with caveat (abstract read) |
-| Bunton 2005 | corpus study | conclusion chapters of PhD theses; the record gives about 45 theses, most restating purpose and consolidating the research space | supported with caveat (secondary) |
-| Mullins 2002 | interview study | 30 experienced examiners (at least five theses in five years) at five universities; the abstract names criteria, expected standard, key judgement points, the examiner's role and outside influences | supported with caveat (abstract only) |
-| Kiley 2004 | follow-up | inexperienced examiners, with a set of reports; the record gives about 100 reports; they lean on institutional criteria and are unsure of the bounds of a very good or poor thesis | supported with caveat (secondary) |
-| Holbrook 2007 | corpus study | examiner comment on the literature review in PhD theses; the abstract was not read | record only |
-| Bourke 2013 | survey | 353 PhD and 74 research-masters examiners (427), 12 indicators; the importance ranking is nearly the same at both levels (abstract only) | supported with caveat (abstract only) |
+| Paltridge 2002 | seminal (published advice against practice) | thesis structures; the abstract names four main kinds of thesis (traditional simple, traditional complex, topic-based, compilation of research articles) in 30 master's and doctoral theses at one Australian university, against eight advice books | supported with caveat (full text) |
+| Bunton 2005 | corpus study | conclusion chapters of 45 PhD theses at one Hong Kong university, 44 with a concluding chapter; of these, 36 are thesis-oriented and move through introductory restatement, consolidation of the research space (all 36), practical applications or implications, recommendations for future research and a rare concluding restatement, and 8 are field-oriented with a different structure | supported with caveat (full text) |
+| Mullins 2002 | interview study | 30 experienced examiners (at least five theses in five years) at five universities; criteria, expected standard, key judgement points, the examiner's role and outside influences. The criteria are themes, not a fixed list: scholarship and originality, a coherent argument, adequate quantity, self-criticism and freedom from sloppiness. Most examiners open with the abstract, introduction, conclusion and references, then read in full, and form a first impression usually by the end of the second or third chapter, often at the literature review | supported with caveat (full text) |
+| Kiley 2004 | follow-up | interviews with 26 inexperienced examiners and supervisors; the roughly 100 examiner reports belong to a separate study by Kiley (2004) cited there; they read as experienced examiners do (abstract, introduction, conclusion, references first), lean on institutional criteria and are unsure of the bounds of a very good or poor thesis. The paper prints 2004 (volume 41(2)); its copyright and DOI say 2005 | supported with caveat (full text) |
+| Holbrook 2007 | corpus study | examiner comment on the literature review in PhD theses; 501 candidates, 1310 reports (1307 in the quality analysis), five Australian universities; on average about one tenth of the text of a report is devoted to the literature review | supported with caveat (full text) |
+| Bourke 2013 | survey | 353 PhD and 74 research-masters examiners (427), 12 indicators; the importance ranking is nearly the same at both levels | supported with caveat (full text) |
 
-- No study located reports in what order examiners read a thesis (F8); blog advice says abstract and reference list first, unsupported.
+- Mullins 2002 (full text) reports by interview the order examiners follow: most of the 30 open the abstract, introduction, conclusion and references first, then read in full. Blog advice says abstract and reference list first, unsupported. No test of the order's effect was located (F8).
 
 ## 4. Who reads a report, and how (R3)
 
@@ -83,10 +83,10 @@ Counts from Gardner 2013, Tables 3 and 4 (author's manuscript; counts depend on 
 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
-| Lorch 1996 | two experiments | in free recall (experiment 1), headings raised recall of topics the reader knew little about, not of familiar ones; in summaries (experiment 2) they mattered most for briefly covered topics (secondary) | measured |
+| Lorch 1996 | two experiments | in free recall (Experiment 1, N = 80; familiarity set by norming ratings of 13 students), headings raised the number of unfamiliar topics recalled but not familiar ones, through topic access and not through recall of detail within a topic; in summarization (Experiment 2, N = 99) headings raised the number of topics included for familiar and unfamiliar topics alike, and mattered most for briefly discussed topics (full text) | measured |
 | Hartley 2004a | narrative review, 31 studies | structured abstracts are judged more informative and are typically longer; see the academic papers review | supported with caveat |
 | executive summary | none found | no controlled study of an executive summary was located (E3) | open |
-| conclusion first | none found | two experiments on bad-news letters, then e-mails (Jansen and Janssen 2010, abstract only), report that readers perceive explanation-first as more comprehensible; perceived, not tested, comprehension; no test on reports (E5) | open |
+| conclusion first | none found | two experiments on bad-news letters, then e-mails (Jansen and Janssen 2010, full text; prints in 2011), report that readers perceive explanation-first as more comprehensible; perceived, not tested, comprehension (tested comprehension did not differ: 72% against 71% correct, Experiment 2 only); no test on reports (E5) | open |
 | length | none found | school rules treat excess length as a weakness; no study links length to outcome (F9) | open |
 
 ## 6. Practice: French schools (R2, R3)
@@ -126,10 +126,10 @@ Held elsewhere and linked, not reviewed again:
 |---|---|---|
 | Golding 2014 | examiners form an initial judgement within the first one or two chapters, sometimes while skimming the abstract, contents, introduction and conclusion (secondary: slide deck; full text not read; a synthesis across the 30 articles, and no primary study of timing was seen); the "treat" and "endurance test" phrases attributed to Carter 2008 are not verified (Carter 2008 is the opinion of 23 Auckland faculty) | supported with caveat |
 | Golding 2014 | the first impression has inertia: after a good start examiners read relaxed and overlook faults, after a poor start they read critically (not verified: not in the abstract or the slide deck) | supported with caveat |
-| Golding 2014 | no study in the 30 gives a reading order; the skim of abstract, contents, introduction and conclusion is reported as "sometimes" (the negative about the 30 articles is not verified: it needs the reference list and full text) | open |
-| Golding 2014 | examiners need 2 to 4 full days, spread across 2 to 3 weeks (Carter 2008 and Mullins 2002 as reported, secondary), and read in chunks; they value signposts and summaries because Chapter 1 may be forgotten by Chapter 5 (not verified: not in the abstracts of Golding, Carter or Mullins, nor in the slide deck; the attribution to two sources is unchecked) | supported with caveat |
-| Mullins 2002 | 30 experienced examiners at five universities, interviewed on criteria, expected performance and critical judgement points; the abstract lists no criteria and the full text was not reached | supported with caveat (abstract only) |
-| Kiley 2004 | examiner practice is broadly consistent despite the examiner's experience (as reported by Golding 2014, secondary) | supported with caveat (secondary) |
+| Golding 2014 | no study in the 30 gives a reading order; the skim of abstract, contents, introduction and conclusion is reported as "sometimes" (the negative about the 30 articles is not verified: it needs the reference list and full text; Mullins 2002 does give a reading order, in the Mullins row below) | open |
+| Golding 2014 | examiners need 2 to 4 full days, spread across 2 to 3 weeks (Carter 2008 as reported, secondary; Mullins 2002, full text, says three or four days full time over two to three weeks), and read in chunks; they value signposts and summaries because Chapter 1 may be forgotten by Chapter 5 (not verified: not in the abstracts of Golding or Carter, nor in the slide deck; the signposts remark is Johnston 1997 as quoted by Mullins, not Mullins's own finding) | supported with caveat |
+| Mullins 2002 | 30 experienced examiners at five universities, interviewed on criteria, expected performance and critical judgement points; most open with the abstract, introduction, conclusion and references, then read in full; a first impression usually forms by the end of the second or third chapter, often at the literature review, and examiners decide early whether the thesis is likely to be hard work; it takes three or four days full time over two to three weeks | supported with caveat (full text) |
+| Kiley 2004 | inexperienced examiners follow a similar reading process to experienced ones (abstract, introduction, conclusion, references first) but differ in their use of criteria, in the bounds of good and poor work and in reference to their own student experience; Golding 2014 reports practice as broadly consistent (secondary) | supported with caveat (full text; Golding 2014's reading secondary) |
 
 **9. What criteria examiners apply**
 
@@ -138,8 +138,8 @@ Held elsewhere and linked, not reviewed again:
 | Golding 2014 | examiners favour a coherent argument, critical engagement with the literature, a justified approach carried out as announced, interpreted findings, and a publishable contribution | supported with caveat |
 | Golding 2014 | presentation errors annoy and distract examiners ("lower trust in the research" and "fault-hunting": not verified, not in the abstract or the slide deck) | supported with caveat |
 | Golding 2014 | consistent recommendations for 96% of 804 theses (not verified; not in the Holbrook 2008 abstract, which reports consistency of a report with its own recommendation and of recommendations with the committee decision, with no percentage); less than 1% of examiners recommend a fail (slide deck summarising Golding, secondary; the source named there has no row in references.md and is not traced) | supported with caveat (secondary) |
-| Holbrook 2007 | 501 candidates, 1310 reports, five Australian universities: about one tenth of a report is on the literature; four indicators (working understanding, critical appraisal, connection to findings, disciplinary perspective); a barely passable thesis may show less, but critical appraisal is pressed | supported with caveat (descriptive content analysis of reports; abstract read) |
-| Bourke 2013 | 353 PhD and 74 research master's examiners rated 12 indicators in five areas (contribution, literature review, approach and methodology, analyses and results, presentation); the order of importance was essentially the same at both levels; the 12 indicators were strongly related to the holistic quality judgement, mainly for the PhD. It is a survey, not an editorial | measured, descriptive (abstract read) |
+| Holbrook 2007 | 501 candidates, 1310 reports, five Australian universities: about one tenth of the text of a report is on the literature; four indicators (working understanding, critical appraisal, connection to findings, disciplinary perspective); a barely passable thesis may show less, but critical appraisal is pressed | supported with caveat (descriptive content analysis of reports; full text) |
+| Bourke 2013 | 353 PhD and 74 research master's examiners rated 12 indicators in five areas (contribution, literature review, approach and methodology, analyses and results, presentation); the order of importance was essentially the same at both levels; the 12 indicators were strongly related to the holistic quality judgement, mainly for the PhD. It is a survey, not an editorial | measured, descriptive (full text for the indicators and their order; abstract read for the link to the holistic judgement) |
 | Chetcuti 2022 | examiner reports at one university (four faculties, 2017-2018): explicit regulation criteria plus implicit personal ones; they look for a contribution to knowledge, critical and analytical work, and no typographical or grammatical errors; expectations differ by faculty | supported with caveat (abstract read) |
 | Sharmini 2015 | survey of 62 supervisors who had examined publication-based theses; 86% were highly influenced by top-ranked and international peer-reviewed journals | supported with caveat (abstract read) |
 | Hodgson 2020 | synthesises the literature on examiner expectations into a framework and a tool for supervision; its criteria were not reached | convention, untested (abstract only) |
@@ -182,7 +182,7 @@ Held elsewhere and linked, not reviewed again:
 
 | Source | Claim | Grade |
 |---|---|---|
-| Jansen 2010 | two experiments on Dutch bad-news letters and e-mails: readers rated the explanation-first version more comprehensible and agreeable and its writer more competent and empathic, and were more inclined to comply (abstract, secondary). The shared review reports N = 450 and 574 and no difference when comprehension was tested (not verified: not in the abstract, paywalled). It holds for bad news; it is not a test of a summary or of reports | measured (ratings) |
+| Jansen 2010 | two experiments on Dutch bad-news letters and e-mails: readers rated the explanation-first version more comprehensible and agreeable and its writer more competent and empathic, and were more inclined to comply (full text; Experiment 1 N = 450, Experiment 2 N = 574; the paper prints in 2011). Tested comprehension did not differ: 72% against 71% correct, Experiment 2 only (Table 5, p. 56). It holds for bad news; it is not a test of a summary or of reports | measured (ratings) |
 | Jansen 2013 | e-mail against voice mail, direct against indirect structure: the indirect order (explanation, then bad news) was valued more, but only in e-mails | measured (ratings; abstract read) |
 | Spyridakis 2000 | Japanese readers recalled more from expository text with its thesis at the end than at the start; preference unclear | measured (abstract read) |
 | Spyridakis 2002 | American readers performed equally with either order; Japanese readers again recalled more from the thesis-last text | measured (abstract read) |

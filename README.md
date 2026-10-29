@@ -24,7 +24,7 @@ says which one wins, and why.
 
 Four kinds of document, each with its own evidence and its own shape:
 
-![Academic writing here takes four shapes: the report (course project, internship, master's thesis, technical report), the research paper, the mathematical article and the proof.](figures/scope.svg)
+![Academic writing here takes four shapes: the report (course project, internship, master's thesis, technical report), the research paper, the mathematical article and the proof.](readme-scope.svg)
 
 ## Contents
 

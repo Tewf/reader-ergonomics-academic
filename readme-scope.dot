@@ -1,4 +1,4 @@
-// The kinds of academic writing this repository gives a shape to: the README's scope figure.
+// The kinds of academic writing this repository gives a shape to: the figure of README.md.
 digraph scope {
   graph [rankdir=TB, nodesep=0.4, ranksep=0.5, bgcolor="white", pad=0.2, fontname="Inter"];
   node  [shape=box, style="rounded,filled", fontname="Inter", fontsize=13, margin="0.2,0.1", penwidth=1.5, fontcolor="#1F2328"];

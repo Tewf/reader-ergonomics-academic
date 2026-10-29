@@ -19,7 +19,13 @@
       "Included as new",
       11,
       12
-    ],
+    ]
+  ],
+  "total": [
+    "In the review",
+    150
+  ],
+  "added": [
     [
       "Carried from the earlier pass",
       101,
@@ -30,9 +36,5 @@
       3,
       0
     ]
-  ],
-  "total": [
-    "In the review",
-    150
   ]
 }

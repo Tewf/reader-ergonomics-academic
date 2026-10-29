@@ -33,12 +33,12 @@ No part of this shape has been tested against IMRaD on reader outcomes; [positio
 
 | Part | Principle |
 |---|---|
-| Title that states the finding; structured abstract | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/document/overview-first.md) |
-| Contributions and a map of the sections, closing the introduction | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/document/overview-first.md), [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/page/signal-the-structure.md) |
-| Terms and measures defined in Methods before Results use them | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/document/define-before-use.md) |
-| Results: one subsection per claim, its headline sentence first | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/page/signal-the-structure.md), [given before new](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/sentence/given-before-new.md) |
-| A figure whose caption stands alone, placed with the text that cites it | [draw relations](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/page/draw-relations.md), [figure next to its text](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/page/figure-next-to-its-text.md) |
-| Headings on at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.4.1/principles/document/shallow-outline.md) |
+| Title that states the finding; structured abstract | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/overview-first.md) |
+| Contributions and a map of the sections, closing the introduction | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/overview-first.md), [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/page/signal-the-structure.md) |
+| Terms and measures defined in Methods before Results use them | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/define-before-use.md) |
+| Results: one subsection per claim, its headline sentence first | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/page/signal-the-structure.md), [given before new](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/sentence/given-before-new.md) |
+| A figure whose caption stands alone, placed with the text that cites it | [draw relations](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/page/draw-relations.md), [figure next to its text](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/page/figure-next-to-its-text.md) |
+| Headings on at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/shallow-outline.md) |
 
 ## Skeleton
 

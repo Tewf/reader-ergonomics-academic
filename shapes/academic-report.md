@@ -60,28 +60,28 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Host organisation | one page of context, the rest in an appendix | TSE 2017 (example); UT 2024 | convention, untested |
 | Mission and objectives | the objective and its success test before the method; for an internship, the learning objectives too | TSE 2017 (example); UT 2024 | convention, untested |
 | Literature and background | for a thesis, a chapter that opens with its answer and ends each section on what it implies for the question | Holbrook 2007; the first impression often forms at the literature review (Mullins 2002) | supported with caveat |
-| Method | the approach, why this one, what it cannot show, each step named by what it achieves | NISO 2010; Golding 2014 | supported with caveat |
+| Method | the approach, why this one, what it cannot show, each step named by what it achieves | NISO 2010; examiners ask for a justified approach with its limits (Golding 2014); the step names come from the standard's worked examples | supported with caveat |
 | Results | each figure beside the text that explains it | NISO 2010 | convention for reports; the figure placement is measured in reader-ergonomics |
 | Discussion | the findings interpreted and tied to the literature, with no claim beyond the data | Golding 2014; NISO 2010 | supported with caveat |
 | Reflection | for an internship, what was learnt against the stated objectives | UT 2024; UGA 2026 | convention, untested |
-| Conclusion | repeats the answer and stands alone, with nothing new | NISO 2010; Pinelli 1982 (self-report survey); Golding 2014 | supported with caveat: no controlled test of conclusion first |
+| Conclusion | repeats the answer and stands alone, with nothing new | NISO 2010 asks that it be read alone; readers say they read it (Pinelli 1982, self-report survey); examiners open it first (Mullins 2002) | supported with caveat: no controlled test of conclusion first |
 | Recommendations | only when the report proposes action; in a thesis, the purpose restated and consolidated | NISO 2010; Bunton 2005 | convention, untested |
 | Contributions | who did and wrote what, in a report by a team | the school's or the course's rule | convention, untested |
 | Use of AI tools | whether and how AI tools were used, in the words the school asks for; for a journal, the research paper shape's declaration | the school's or the course's rule | convention, untested |
 | Headings | chapter labels stay conventional; headings below them state the claim | Lorch 1996 (free recall, unfamiliar topics) | measured in that setting; untested for reports |
-| Language and presentation | form corrected by the checks, not tuned past them | Golding 2014; graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
-| Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); Golding 2014 | convention, untested |
+| Language and presentation | form corrected by the checks, not tuned past them | presentation errors make examiners read more critically (Golding 2014); graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
+| Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); examiners spend three or four days on a thesis, spread over two to three weeks (Mullins 2002) | convention, untested |
 
-Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Golding 2014, a review of 30 studies of thesis examination, has so far been read through its abstract and a
-secondary account; the claim it alone supports, that the first impression lasts, is marked secondary. The reading
-order and the timing come from Mullins 2002, read in full: interviews with 30 experienced examiners.
+Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). The reading order and the timing of examiners come from Mullins 2002, read in full: interviews with 30 experienced
+examiners. Golding 2014, a review of 30 studies of thesis examination, also read in full, adds that the first impression
+changes only slowly. It cites no study for that statement, so it is marked as the review's own.
 
 ## Where academic convention and the standard disagree
 
 | Conflict | What wins | Why |
 |---|---|---|
 | A story told in time order against the result first | the abstract, the summary and the conclusion carry the result first and stand alone; the body may follow time when time is the object, as in an internship | readers and examiners look at the summary and the conclusion first (Pinelli 1982, Mullins 2002); tests of the order of a whole text are mixed (Spyridakis 2000, Spyridakis 2002, Jansen 2010) |
-| No findings in the introduction against an early verdict | in a thesis, the introduction ends with the contribution in one sentence; the result itself stays in the abstract | examiners form a first impression early, usually by the end of chapter 2 or 3 and often at the literature review (Mullins 2002), and it is reported to last (Golding 2014, secondary) |
+| No findings in the introduction against an early verdict | in a thesis, the introduction ends with the contribution in one sentence; the result itself stays in the abstract | examiners form a first impression early, usually by the end of chapter 2 or 3 and often at the literature review (Mullins 2002), and it changes only slowly, a review's statement with no study cited (Golding 2014) |
 | A long literature chapter against using each idea where it is needed | a chapter for the thesis, which examiners expect; folded into the introduction for project and technical reports; none for an internship | Holbrook 2007; the internship forms grade no literature (UT 2024) |
 | Thanks at the front against the answer first | acknowledgements at the back | NISO 2010 makes them optional |
 | Topic labels against sentence headings | labels for chapters, claims below them | Lorch 1996 |
@@ -190,4 +190,4 @@ Author, school and degree, course or host organisation, supervisor, date. The sc
 ````
 
 In a thesis, open each chapter with two lines recalling where the argument stands, and end it with one line leading
-to the next: a jury reads it over several sittings (Golding 2014).
+to the next: an examiner reads it over several days (Mullins 2002).

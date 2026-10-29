@@ -375,52 +375,10 @@ answer = "One role: the shape of an academic report (`# Shape: academic report`)
 
 [[answer]]
 check = "co-change"
-path = ".github/workflows/checks.yml"
-question = "changed together with AGENTS.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "3ed8a5f99d49"
-answer = "Keep them apart: .github/workflows/checks.yml has its own role (`Clone the family beside this repository`) and AGENTS.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
-path = "AGENTS.md"
-question = "changed together with evidence/README.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "db63165ef2ff"
-answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and evidence/README.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
-path = "AGENTS.md"
-question = "changed together with shapes/README.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "db63165ef2ff"
-answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/README.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
-path = "AGENTS.md"
-question = "changed together with shapes/academic-report.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "db63165ef2ff"
-answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/academic-report.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
-path = "AGENTS.md"
-question = "changed together with shapes/mathematical-article.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "db63165ef2ff"
-answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/mathematical-article.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
 path = "AGENTS.md"
 question = "changed together with shapes/proof.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "db63165ef2ff"
 answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/proof.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
-
-[[answer]]
-check = "co-change"
-path = "AGENTS.md"
-question = "changed together with shapes/research-paper.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "db63165ef2ff"
-answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/research-paper.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
 
 [[answer]]
 check = "co-change"
@@ -435,13 +393,6 @@ path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "921b9612018a"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/sources.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
-
-[[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with shapes/README.md in 11 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "921b9612018a"
-answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and shapes/README.md has another role. They change together only when a release of reader-ergonomics is pinned, since both link it: a version string, not shared content."
 
 [[answer]]
 check = "document-mode"
@@ -463,3 +414,94 @@ path = "shapes/research-paper.md"
 question = "reads about equally as how-to and reference: one mode per document?"
 file = "f30513fbef5b"
 answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with AGENTS.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: .github/workflows/checks.yml has its own role (`Clone the family beside this repository`) and AGENTS.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "AGENTS.md"
+question = "changed together with evidence/README.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db63165ef2ff"
+answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and evidence/README.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "AGENTS.md"
+question = "changed together with shapes/README.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db63165ef2ff"
+answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/README.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "AGENTS.md"
+question = "changed together with shapes/academic-report.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db63165ef2ff"
+answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/academic-report.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "AGENTS.md"
+question = "changed together with shapes/mathematical-article.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db63165ef2ff"
+answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/mathematical-article.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "AGENTS.md"
+question = "changed together with shapes/research-paper.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db63165ef2ff"
+answer = "Keep them apart: AGENTS.md has its own role (`# Contributing to this repository`) and shapes/research-paper.md another. They change together only when a release of reader-ergonomics is pinned, since each names that release in its links: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with shapes/README.md in 12 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "921b9612018a"
+answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and shapes/README.md has another role. They change together only when a release of reader-ergonomics is pinned, since both link it: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with AGENTS.md in 5 commits (83% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and AGENTS.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with evidence/README.md in 9 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and evidence/README.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with shapes/README.md in 9 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and shapes/README.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with shapes/academic-report.md in 9 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and shapes/academic-report.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with shapes/mathematical-article.md in 9 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and shapes/mathematical-article.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."
+
+[[answer]]
+check = "co-change"
+path = ".github/workflows/checks.yml"
+question = "changed together with shapes/research-paper.md in 9 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3ed8a5f99d49"
+answer = "Keep them apart: the workflow runs the checks (`Clone the family beside this repository`) and shapes/research-paper.md is text. Both name the release of reader-ergonomics the repository pins, so each pin raise edits both, as standard-pin and standard-links require: a version string, not shared content."

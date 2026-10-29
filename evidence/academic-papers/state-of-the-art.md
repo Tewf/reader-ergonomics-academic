@@ -18,7 +18,7 @@ A **trend** is a description of practice, with no comparison of formats.
 | Does a structured abstract hold more information? | Taddio 1994 | 300 abstracts before and after the switch, 33 criteria | quality 0.57 vs 0.74 | upper bound |
 | Same, outside medicine | Budgen 2008 | randomised paired judgement, 64 judges | completeness +6.65 on an 18-item questionnaire, clarity +2.98 on 1-10 | upper bound |
 | Does it speed up search? | Hartley 1996 | simplified abstracts, timed true/false questions | faster and more accurate; a second study with a printed database found the same | upper bound |
-| Same, with real database abstracts | studies 15 and 17 in Hartley 2004a | timed search on MEDLINE abstracts | no speed advantage | limit |
+| Same, with real database abstracts | studies 15 and 17 in Hartley 2004 | timed search on MEDLINE abstracts | no speed advantage | limit |
 | Does searching by labelled field help? | Booth 1997 | simulated database, ten searches | structured fields gave higher precision with the same or lower recall in three of five questions per database; one question per database found nothing (p. 165); Table 4 shows higher precision in two of five | limit |
 | Is it easier to read? | Hartley 1997 | eight studies: formulas, sentence reordering, reader ratings | formula scores higher only when authors rewrote the abstract; readers rated structured ones easier | limit |
 | Is it more accurate? | Pitkin 1999; Hartley 2000 | abstract data checked against the body | 18% to 68% of medical abstracts deficient; no format difference in psychology | limit |
@@ -41,7 +41,7 @@ The two records are defined in the [method](../README.md#method).
 | Is a reporting checklist required of every submission in ML? | NeurIPS (since 2019), ACL venues (since 2020) | venue rules | mandatory at submission; NeurIPS 2026 has 16 questions | adoption |
 | How many papers come with code in ML? | Pineau 2021 | 2019 NeurIPS submissions | about 40% at submission, 74.4% at camera-ready | adoption |
 | How many NLP submissions link code? | Magnusson 2023 | 10,405 checklist responses | 45.9% | adoption |
-| How many models carry a card? | Liang 2024 | 74,970 Hugging Face repositories | 44.2% by one count in the preprint, 90.5% of downloads | adoption |
+| How many models carry a card? | Liang 2024b | 74,970 Hugging Face repositories | 44.2% by one count in the preprint, 90.5% of downloads | adoption |
 | Are artifacts common where evaluation exists? | Winter 2022 | decade of SE and PL conferences | about 90% of eligible 2020 PLDI articles | adoption |
 | How many publishers give AI guidance? | Ganjavi 2024 | top 100 publishers and journals, 2023 | 24% and 87% | adoption |
 | How many statements say "on request"? | Gabelica 2022 | 3,416 BMC statements | 42% | adoption |
@@ -66,7 +66,7 @@ The two records are defined in the [method](../README.md#method).
 | Does a statement predict real availability? | Danchev 2021 | 487 trials, declared against actual | 68.6% declared, 0.6% public | limit |
 | Does sharing on request work? | Stodden 2018 | 204 papers, request and re-run | 44% obtained, 26% reproduced | limit |
 | Does a datasheet change what an engineer notices? | Boyd 2021 | think-aloud, 23 participants | more ethical issues, earlier | upper bound (small) |
-| Does a model card raise use? | Liang 2024 | difference in differences, 42 models | +29.0% in one batch | upper bound (one batch) |
+| Does a model card raise use? | Liang 2024b | difference in differences, 42 models | +29.0% in one batch | upper bound (one batch) |
 | Does a plain summary beat a text summary? | Buljan 2018 | three randomised trials | no knowledge difference | limit |
 | Which summary type raises perceived understanding? | Bredbenner 2019 | randomised, 538 participants | video and plain language ahead | upper bound |
 | Is a significance statement simpler? | Markowitz 2024 | 34,584 PNAS papers | d near 0.3 on word simplicity | trend |

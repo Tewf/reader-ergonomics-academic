@@ -46,7 +46,7 @@ Eight strings and four named lookups, run on a web search tool; each result list
 | E2 | systematic review effectiveness of reporting guidelines endorsement completeness of reporting meta-research | Stevens 2014 |
 | E3 | systematic review graphical abstract visual abstract effect on dissemination and comprehension | Krukowski 2023 (narrative) |
 | E4 | scoping review plain language summaries of research articles effectiveness | Stoll 2022, Gainey 2022 |
-| E5 | systematic review structured abstracts readability information content | nothing beyond Hartley 2004a |
+| E5 | systematic review structured abstracts readability information content | nothing beyond Hartley 2004 |
 | E6 | machine learning reproducibility checklists survey review | Magnusson 2023 (held), Coakley 2026 |
 | E7 | scoping review journal policies generative AI use authors disclosure | Bhavsar 2025 |
 | E8 | systematic review of scientific writing guidance interventions | Galipeau 2015 |
@@ -59,8 +59,8 @@ Eight strings and four named lookups, run on a web search tool; each result list
 The formal pool was built by a narrative search plus backward and forward snowballing, not by screening the counts below.
 The counts only record how large each term's literature is.
 
-- **Backward** from Sollaci 2004, Hartley 2004a, Turner 2012, Pineau 2021, Liang 2025.
-- **Forward** from Sollaci 2004 (Lin 2012, Moskovitz 2024), Pineau 2021 (Magnusson 2023, Coakley 2026), Hartley 2004a (Hartley 2014).
+- **Backward** from Sollaci 2004, Hartley 2004, Turner 2012, Pineau 2021, Liang 2025.
+- **Forward** from Sollaci 2004 (Lin 2012, Moskovitz 2024), Pineau 2021 (Magnusson 2023, Coakley 2026), Hartley 2004 (Hartley 2014).
 - **Count method:** OpenAlex, `https://api.openalex.org/works?filter=title_and_abstract.search:"<term>"&per_page=1`, field `meta.count`, one run per term.
 - **Status:** the free daily budget of the API was exhausted on 2026-10-28 (error "Rate limit exceeded"), so the 18 terms were
   counted on 2026-10-29 at 00:05 UTC, each as a quoted phrase.

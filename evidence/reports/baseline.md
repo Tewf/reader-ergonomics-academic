@@ -23,7 +23,7 @@ For a thesis, Mullins 2002 reports the criteria that experienced examiners name 
 
 | Outcome | Definition | Instrument used before | Source |
 |---|---|---|---|
-| Time to find the answer | seconds from question to correct answer | timed questions (not verified: format known only as summarised in Hartley 2004a; the 1996 abstract gives only background) | linked from the academic papers review (Hartley 1996) |
+| Time to find the answer | seconds from question to correct answer | timed questions (not verified: format known only as summarised in Hartley 2004; the 1996 abstract gives only background) | linked from the academic papers review (Hartley 1996) |
 | Accuracy of the answer | share of questions correct | same | same |
 | Screening decision | whether a reader would read on after the first page | a survey of components used to decide | Pinelli 1982 |
 | Recall | free recall of topics, scored against the main ideas | free recall task | Lorch 1996 |

@@ -130,7 +130,7 @@ Numbering continues the first pass: E6 and up, F10 and up, G13 and up.
 - No identity was sent to any service: no email in a request, header, User-Agent or query; no Unpaywall; no key; no sign-in; no bot check solved.
 - Engine for strings: a web search tool, US-only, standard mode, about 10 results per call.
 - Metadata and abstracts: Crossref and OpenAlex single-work lookups by DOI, and the Semantic Scholar graph API for citing papers, all anonymous and one call at a time. The OpenAlex list endpoint refused (free budget used up), so no database hit count exists, as in the first pass.
-- Held and not searched again: everything in the first-pass pool; Britt 2003 and Garner 2013 (sister review, linked); the reading-order review (Jansen 2010, Nielsen 2006, Nildam 1998, Sternadori 2008, Pinelli 1982, Hartley 2004a), linked.
+- Held and not searched again: everything in the first-pass pool; Britt 2003 and Garner 2013 (sister review, linked); the reading-order review (Jansen 2010, Nielsen 2006, Nildam 1998, Sternadori 2008, Pinelli 1982, Hartley 2004), linked.
 
 ### The two questions of this pass
 

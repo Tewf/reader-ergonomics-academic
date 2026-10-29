@@ -126,7 +126,7 @@ Each is marked in review.md and in the file that leans on it as an example of pr
 | Hartley 1999 | formal | narrative search and snowballing | supported with caveat | review |
 | Hartley 2000 | formal | narrative search and snowballing | measured | state-of-the-art, against, baseline |
 | Hartley 2003 | formal | narrative search and snowballing | measured | review, position |
-| Hartley 2004a | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against, baseline |
+| Hartley 2004 | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against, baseline |
 | Hartley 2014 | formal | narrative search and snowballing | supported with caveat | review, against, baseline |
 | Haynes 1990 | formal | narrative search and snowballing | supported with caveat | review |
 | Hermann 2020 | formal | narrative search and snowballing | supported with caveat | review, against |
@@ -146,7 +146,7 @@ Each is marked in review.md and in the file that leans on it as an example of pr
 | Kidwell 2016 | formal | narrative search and snowballing | measured | review, state-of-the-art, position |
 | Kim 2022 | formal | narrative search and snowballing | supported with caveat | review, position |
 | Kobak 2025 | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against, baseline |
-| Liang 2024 | formal | narrative search and snowballing | measured, descriptive | review, state-of-the-art, position, against |
+| Liang 2024b | formal | narrative search and snowballing | measured, descriptive | review, state-of-the-art, position, against |
 | Liang 2025 | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against |
 | Lin 2012 | formal | narrative search and snowballing | measured | review, state-of-the-art, position, against |
 | Magnusson 2023 | formal | narrative search and snowballing | measured, descriptive | review, state-of-the-art, position, against |

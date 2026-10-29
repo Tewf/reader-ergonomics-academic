@@ -22,9 +22,9 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 
 ## 3. Structured abstracts: benefits mixed or field-dependent
 
-- Length: structured abstracts run 21% to 35% longer, so part of each gain may come from more words (Hartley 2004a). Grade: measured.
-- Recall: the advantage disappeared once length and readability were equated (Hartley 2004a, study 18). Grade: measured.
-- Search speed: an advantage with simplified abstracts, none with real MEDLINE abstracts (Hartley 2004a). Grade: measured.
+- Length: structured abstracts run 21% to 35% longer, so part of each gain may come from more words (Hartley 2004). Grade: measured.
+- Recall: the advantage disappeared once length and readability were equated (Hartley 2004, study 18). Grade: measured.
+- Search speed: an advantage with simplified abstracts, none with real MEDLINE abstracts (Hartley 2004). Grade: measured.
 - Retrieval by labelled field raised precision and cut recall (Booth 1997, full text). The authors conclude higher precision with the same or lower recall in three of five questions per database, and one question per database retrieved nothing (p. 165); their Table 4 shows higher precision in only two of five (B1, B2). Grade: measured.
 - Readability: no formula difference when journals switched format; higher scores only when authors rewrote (Hartley 1997). Grade: measured.
 - Accuracy: no better than traditional abstracts; psychology abstracts held few errors, unlike medicine, which the author ties to the discipline (Hartley 2000). Grade: measured.
@@ -71,9 +71,9 @@ This file lists the evidence against the standard paper shape, by theme, each wi
 
 ## 9. Documentation cards
 
-- Environmental impact is filled in 2.0% of model cards and limitations 17.4% (Liang 2024). Grade: measured, descriptive.
-- The 29.0% download gain appeared in one of two batches (42 models in all); the other batch was null (Liang 2024). Grade: supported with caveat.
-- Two authors of Liang 2024 work at the hub it studies, and the preprint gives 44.2% and 42.8% for the share of repositories with cards in different places. Grade: supported with caveat.
+- Environmental impact is filled in 2.0% of model cards and limitations 17.4% (Liang 2024b). Grade: measured, descriptive.
+- The 29.0% download gain appeared in one of two batches (42 models in all); the other batch was null (Liang 2024b). Grade: supported with caveat.
+- Two authors of Liang 2024b work at the hub it studies, and the preprint gives 44.2% and 42.8% for the share of repositories with cards in different places. Grade: supported with caveat.
 - The datasheet test has 23 participants and one dataset (Boyd 2021). Grade: supported with caveat.
 
 ## 10. Plain-language formats

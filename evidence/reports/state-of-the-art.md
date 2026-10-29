@@ -20,7 +20,7 @@ This file says who holds the record on each sub-question: the most adopted pract
 | Which parts engineers read | Pinelli 1982 | survey, 378 internal and 504 external respondents | self-reported share reading each component, and ranked order |
 | How examiners judge | Mullins 2002 | 30 interviews | themes (full text), no counts of criteria |
 | Headings and recall | Lorch 1996 | two experiments (free recall, N = 80; summarization, N = 99) | free recall and summaries |
-| Structured abstract | Hartley 2004a | narrative review of 31 studies | information content, readability |
+| Structured abstract | Hartley 2004 | narrative review of 31 studies | information content, readability |
 
 ## Records kept apart
 

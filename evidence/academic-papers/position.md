@@ -20,7 +20,7 @@ This file states what the evidence settles, what it leaves open, and what this r
 
 ## Not known
 
-- Whether IMRaD lets a reader find or understand a result faster than another order. Hartley 2004a reported that no study had compared complete articles in either format, and this review found none since. That is a statement about this search, not a claim that no such study exists.
+- Whether IMRaD lets a reader find or understand a result faster than another order. Hartley 2004 reported that no study had compared complete articles in either format, and this review found none since. That is a statement about this search, not a claim that no such study exists.
 - Whether highlights help readers: we found genre analyses (Yang 2016) and publisher guidance, no reader study.
 - Whether graphical abstracts improve understanding: the studies found measure attention or citations (Oska 2020, Pferschy-Wenzig 2016, Kim 2022).
 - Whether the CARS or hourglass order improves comprehension: move studies describe expert practice (Swales 2004).
@@ -37,7 +37,7 @@ This file states what the evidence settles, what it leaves open, and what this r
 - Language-model rules (Nature 2023, ICMJE 2023, ACL 2023, ICML 2023) were published in 2023; the first population-level estimates are from 2024 (Liang 2025, Kobak 2025).
 - Checklists were mandatory at NeurIPS from 2019 and at ACL venues from 2020; the first analysis of a venue-wide checklist is from 2023 (Magnusson 2023).
 - STAR Methods, significance statements and digests are standard formats; the tests found compare summary formats, not the journal's own.
-- Model cards are the default documentation on a major model hub (Liang 2024); the controlled evidence is one think-aloud study and a small intervention.
+- Model cards are the default documentation on a major model hub (Liang 2024b); the controlled evidence is one think-aloud study and a small intervention.
 - ICLR and ICML enforce their language-model rules with detectors, hidden prompts and desk rejection (ICLR 2025, ICML 2026b); this search found no study of false flags beyond the organisers' own figure.
 - arXiv has required peer review for computer science review and position papers since 2025-10, because of moderator load; this search found no study of the effect (arXiv 2025).
 

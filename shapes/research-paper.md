@@ -14,7 +14,7 @@ The shape of an empirical research article: IMRaD with a [structured abstract](.
 | Part | What it does | Evidence | Grade |
 |---|---|---|---|
 | Title | states the finding or the question, since it is read first | Keshav 2007 | convention, untested |
-| Structured abstract | Background, Methods, Results with numbers, Conclusions | Taddio 1994, Budgen 2008, Hartley 2004a | measured (information content) |
+| Structured abstract | Background, Methods, Results with numbers, Conclusions | Taddio 1994, Budgen 2008, Hartley 2004 | measured (information content) |
 | Highlights, graphical abstract | optional extras some journals require | Elsevier highlights, Oska 2020 | convention, untested (attention only) |
 | Introduction | territory, niche, this paper, then contributions and a map of the sections | Swales 1990, Hill 1982 | supported with caveat (describes practice) |
 | Methods: plan and deviations | if the study was preregistered, the protocol and each departure from it with its reason; if not, that it is exploratory | Chambers 2013, Kerr 1998, Scheel 2021 | measured (for the format) |

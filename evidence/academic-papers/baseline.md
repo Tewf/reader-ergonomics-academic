@@ -8,7 +8,7 @@ This file names the baseline a proposed paper shape is compared against, and how
 
 Why this one:
 
-- It is the control condition in the structured-abstract studies cited here (Hartley 2004a, Taddio 1994, Budgen 2008).
+- It is the control condition in the structured-abstract studies cited here (Hartley 2004, Taddio 1994, Budgen 2008).
 - It is what ICMJE asks of original research (ICMJE 2026), and what the leading medical journals print (Sollaci 2004).
 - Readers and reviewers already know where to look in it, so any new shape must beat it, not merely differ from it.
 - Its checklist part rests on CONSORT evidence; for other guidelines endorsement showed no significant gain on nearly every item (Stevens 2014).
@@ -26,7 +26,7 @@ Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 20
 | Time to find a result | seconds from question to correct answer | timed true/false questions on screen | Hartley 1996 |
 | Retrieval accuracy | share of questions answered correctly | same | Hartley 1996 |
 | Comprehension | score on questions about the claim, the method and one limitation, graded blind | written questions | no prior instrument found for full articles |
-| Recall | delayed free recall scored against the main ideas | recall test | Hartley 2004a, study 18 |
+| Recall | delayed free recall scored against the main ideas | recall test | Hartley 2004, study 18 |
 | Information content of the abstract | items present over items applicable, from 0 to 1 | 33-criterion or 29-item checklist; CONSORT for abstracts | Taddio 1994; Sharma 2006; Hopewell 2008 |
 | Fidelity | abstract data present in and consistent with the body | audit against the body | Pitkin 1999 |
 | Completeness of reporting | share of guideline items reported | CONSORT or PRISMA items | Turner 2012 |
@@ -43,7 +43,7 @@ Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 20
 ## How to compare
 
 - Write the same study in both shapes, by someone other than the experimenter, to avoid the rewriting bias described in Hartley 2014.
-- Hold length constant or report it, since length alone produced advantages in Hartley 2004a.
+- Hold length constant or report it, since length alone produced advantages in Hartley 2004.
 - Use a within-subject crossover with counterbalanced order, as in Budgen 2008 and Oska 2020.
 - Recruit novices and experienced researchers separately, since they read different parts (Hubbard 2017).
 - Cover at least two fields, since effects differed by discipline (Hartley 2000, Moskovitz 2024).

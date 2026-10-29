@@ -10,7 +10,7 @@ Searched first, as Garousi 2019 asks (protocol.md 3). Each covers one part of th
 
 | Work | Kind | What it covered | How this review differs | Grade |
 |---|---|---|---|---|
-| Hartley 2004a | narrative survey, 31 studies | structured abstracts | adds practice and the other front matter (strand 4) | measured |
+| Hartley 2004 | narrative survey, 31 studies | structured abstracts | adds practice and the other front matter (strand 4) | measured |
 | Turner 2012 | Cochrane review, 50 evaluations | endorsement of CONSORT and completeness | read with Stevens 2014 as the limit of that result | measured |
 | Stevens 2014 | systematic review | 101 guidelines other than CONSORT; 15,249 records retrieved, 26 evaluations of nine of them; only the PRISMA summed score significant (SMD 0.53, 99% CI 0.02 to 1.03, endorsing against non-endorsing journals); insufficient evidence | adds venue checklists in machine learning, which it does not cover | measured |
 | Blanco 2019 | scoping review | 109 references, 31 interventions to raise adherence to reporting guidelines, 11 evaluated | studies what authors and journals do with the article, not training or tools | measured, descriptive |
@@ -66,7 +66,7 @@ It also did not find one that spans front matter, checklists, availability state
 |---|---|---|---|
 | Ad Hoc Working Group 1987 | seminal proposal | structured abstracts for clinical articles, with fixed labelled parts | convention, untested |
 | Haynes 1990 | forward | revisits the proposal after journals adopted it, and refines the headings | supported with caveat |
-| Hartley 2004a | survey (31 studies) | structured abstracts are longer (+21%; +35% when independently published), usually more informative, sometimes easier to read and search | measured |
+| Hartley 2004 | survey (31 studies) | structured abstracts are longer (+21%; +35% when independently published), usually more informative, sometimes easier to read and search | measured |
 | Hartley 2014 | survey update | spread beyond medicine; early studies biased by rewritten abstracts and student judges | supported with caveat |
 | Taddio 1994 | before and after | 300 abstracts, 33 criteria: quality 0.57 unstructured vs 0.74 structured | measured |
 | Sharma 2006 | controlled comparison | 600 dental abstracts, 29-item checklist: scores rose only in journals that switched | measured |
@@ -172,8 +172,8 @@ The IEEEtran journal sample holds an Introduction, a Conclusion and appendices; 
 | Mitchell 2019 | seminal (model cards) | short documents on intended use and measured performance across groups, shipped with a trained model | convention, untested |
 | Gebru 2021 | seminal (datasheets) | a question set for dataset creators, modelled on electronics datasheets | convention, untested |
 | Boyd 2021 | think-aloud experiment | 23 engineers reviewed a flawed dataset, 11 with a datasheet; those with it raised ethical issues earlier and more often | supported with caveat |
-| Liang 2024 | corpus (32,111 Hugging Face model cards) | models with cards carry 90.5% of download traffic; filled-out rates: training 74.3%, limitations 17.4%, evaluation 15.4%, environmental impact 2.0% | measured, descriptive |
-| Liang 2024 | intervention on 42 popular models | adding a detailed card raised weekly downloads by 29.0% (95% CI 10.6% to 47.5%) in one batch; the other batch showed no clear effect | supported with caveat |
+| Liang 2024b | corpus (32,111 Hugging Face model cards) | models with cards carry 90.5% of download traffic; filled-out rates: training 74.3%, limitations 17.4%, evaluation 15.4%, environmental impact 2.0% | measured, descriptive |
+| Liang 2024b | intervention on 42 popular models | adding a detailed card raised weekly downloads by 29.0% (95% CI 10.6% to 47.5%) in one batch; the other batch showed no clear effect | supported with caveat |
 
 ## 12. Structured methods and plain-language summaries
 

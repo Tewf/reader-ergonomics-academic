@@ -10,7 +10,7 @@ Sources from outside journals take a score instead of a grade, in [sources](sour
 |---|---|---|
 | none located on student reports | E1 to E5 returned no systematic review, scoping review or MLR of report structure, report reading or internship-report writing | the gap is stated in position.md |
 | Nesi 2012 | a corpus survey of student genres, not a review of reports | used as the nearest map (strand 1) |
-| Hartley 2004a | structured abstracts, narrative survey of 31 studies | linked from the [academic papers](../academic-papers/review.md) review |
+| Hartley 2004 | structured abstracts, narrative survey of 31 studies | linked from the [academic papers](../academic-papers/review.md) review |
 
 ## 1. Genres of student writing (R1)
 
@@ -84,7 +84,7 @@ Counts from Gardner 2013, Table 4 (all levels) and the tables under its Figures 
 | Work | Kind | Finding | Grade |
 |---|---|---|---|
 | Lorch 1996 | two experiments | in free recall (Experiment 1, N = 80; familiarity set by norming ratings of 13 students), headings raised the number of unfamiliar topics recalled but not familiar ones, through topic access and not through recall of detail within a topic; in summarization (Experiment 2, N = 99) headings raised the number of topics included for familiar and unfamiliar topics alike, and mattered most for briefly discussed topics (full text) | measured |
-| Hartley 2004a | narrative review, 31 studies | structured abstracts are judged more informative and are typically longer; see the academic papers review | supported with caveat |
+| Hartley 2004 | narrative review, 31 studies | structured abstracts are judged more informative and are typically longer; see the academic papers review | supported with caveat |
 | executive summary | none found | no controlled study of an executive summary was located (E3) | open |
 | conclusion first | none found | two experiments on bad-news letters, then e-mails (Jansen and Janssen 2010, full text; prints in 2011), report that readers perceive explanation-first as more comprehensible; perceived, not tested, comprehension (tested comprehension did not differ: 72% against 71% correct, Experiment 2 only); no test on reports (E5) | open |
 | length | none found | school rules treat excess length as a weakness; no study links length to outcome (F9) | open |
@@ -108,7 +108,7 @@ A number in a strand is marked "(secondary)" when it was read in an abstract, a 
 Held elsewhere and linked, not reviewed again:
 
 - Britt 2003 (claim first, one-sentence arguments) and Garner 2013: sister review reader-ergonomics-presentations.
-- Jansen 2010 details, Nielsen 2006, Nildam 1998, Sternadori 2008, Hartley 2004a: review of reading order in the shared repository.
+- Jansen 2010 details, Nielsen 2006, Nildam 1998, Sternadori 2008, Hartley 2004: review of reading order in the shared repository.
 - Pinelli 1982, Pinelli 1984, Sheffield 2017, NISO 2010: first-pass review.md.
 
 ### P2a. Examiners and graders

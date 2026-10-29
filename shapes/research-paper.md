@@ -125,6 +125,10 @@ Figure 1. A caption that says what the figure shows and what to conclude, readab
 
 > Name the reporting guideline followed (for example CONSORT or PRISMA) and attach the completed checklist.
 
+## Use of language models
+
+> Whether and how a language model was used, and for what, worded to the venue's rule; "none" is an answer.
+
 ## Declarations
 
 > Funding, conflicts of interest, author contributions, acknowledgements.

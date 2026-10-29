@@ -255,13 +255,6 @@ file = "9e9988b74d2e"
 answer = "Keep them apart: evidence/academic-papers/protocol.md has its own role (`# Protocol`) and evidence/mathematical-writing/protocol.md another. They changed together in passes that touched every file at once, the release-link raises and the sentence pass of 2026-10-29, not through shared content."
 
 [[answer]]
-check = "logical-lines"
-path = "shapes/academic-report.md"
-question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "5503158e6d6f"
-answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
-
-[[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
@@ -423,36 +416,50 @@ file = "10b3a52fcb44"
 answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
 
 [[answer]]
-check = "document-mode"
-path = "shapes/research-paper.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "ed73227167a5"
-answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+check = "section-cohesion"
+path = "README.md"
+question = "section 'Check it' is far from every other section (0.24): a second role?"
+file = "af8b5b76f2da"
+answer = "Keep it: a front page ends on how to check the repository (`## Check it`), as every repository of the family does; the section is the reader's last step, not a second role."
+
+[[answer]]
+check = "logical-lines"
+path = "shapes/academic-report.md"
+question = "84 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "275037de740e"
+answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
 
 [[answer]]
 check = "co-change"
 path = "evidence/academic-papers/baseline.md"
-question = "changed together with evidence/mathematical-writing/against.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+question = "changed together with evidence/mathematical-writing/against.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "4f02be334045"
 answer = "Keep them apart: evidence/academic-papers/baseline.md is a step of its own topic (`# Baseline`) and evidence/mathematical-writing/against.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/academic-papers/review.md"
-question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+question = "changed together with evidence/mathematical-writing/review.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "cca73c88dfbb"
 answer = "Keep them apart: evidence/academic-papers/review.md is a step of its own topic (`# Review`) and evidence/mathematical-writing/review.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/academic-papers/review.md"
-question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "cca73c88dfbb"
 answer = "Keep them apart: evidence/academic-papers/review.md is a step of its own topic (`# Review`) and evidence/mathematical-writing/state-of-the-art.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
 
 [[answer]]
-check = "section-cohesion"
-path = "README.md"
-question = "section 'Check it' is far from every other section (0.24): a second role?"
-file = "af8b5b76f2da"
-answer = "Keep it: a front page ends on how to check the repository (`## Check it`), as every repository of the family does; the section is the reader's last step, not a second role."
+check = "document-mode"
+path = "shapes/research-paper.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "e18d09e588a8"
+answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = "evidence/mathematical-writing/frame.md"
+question = "changed together with shapes/proof.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "986450752e16"
+answer = "Keep them apart: the frame names the problem of the mathematical-writing review (`# Frame: the problem and the field's names for it`), and shapes/proof.md is the shape that review supports. They changed together when a citation key or a rule's wording was corrected in both; the shape links the review."

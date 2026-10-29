@@ -11,9 +11,9 @@ et les vérifications y vivent et ne sont pas répétés ici. Ce dépôt n'ajout
 preuves et les formes de leurs documents. Quand une convention académique et un principe du standard divergent, la
 forme dit lequel l'emporte, et pourquoi.
 
-> **État :** en cours. Deux revues multivocales sont écrites dans [evidence/](evidence/), et leurs chiffres ont été
-> audités le 2026-10-28 ; une troisième, sur les rapports, est écrite et auditée. Les formes d'un article, d'un article
-> mathématique et d'une preuve existent ; la forme d'un rapport est une première version. C'est une lecture informelle
+> **État :** en cours. Trois revues multivocales sont écrites et auditées dans [evidence/](evidence/) : les articles
+> de recherche et l'écriture mathématique, auditées le 2026-10-28, et les rapports. Chacune des quatre formes a un
+> squelette, une version LaTeX et un exemple rédigé ; la forme d'un rapport est une première version. C'est une lecture informelle
 > de la recherche et de la pratique publiées : pas un standard officiel, pas une étude relue par des pairs, pas un
 > résultat nouveau, et pas une prétention à l'état de l'art.
 >
@@ -58,10 +58,10 @@ digraph scope {
 |---|---|---|
 | [standard.md](standard.md) | la fiche : comment utiliser ce standard, et quelle forme pour quel document | écrit |
 | [AGENTS.md](AGENTS.md) | comment modifier ce dépôt, pour une personne ou un modèle de langage | écrit |
-| [evidence/](evidence/) | deux revues : les articles de recherche, l'écriture mathématique | écrites, auditées |
+| [evidence/](evidence/) | trois revues : les articles de recherche, l'écriture mathématique, et les rapports (ligne suivante) | écrites, auditées |
 | [evidence/reports/](evidence/reports/) | le rapport comme genre : ses normes, ses lecteurs et ses examinateurs, et les conflits entre la convention académique et le standard | écrite, auditée ; une seconde passe sur les examinateurs en cours d'intégration |
-| [shapes/](shapes/) | les squelettes d'un article de recherche, d'un article mathématique et d'une preuve | écrits |
-| [shapes/academic-report](shapes/academic-report.md) | un gabarit pour les quatre sortes de rapport, titres en français et en anglais | première version ; testé une fois, pour la structure, sur un rapport de projet de cours |
+| [shapes/](shapes/) | les squelettes d'un article de recherche, d'un article mathématique et d'une preuve, chacun avec un exemple rédigé | écrits |
+| [shapes/academic-report](shapes/academic-report.md) | un gabarit pour les quatre sortes de rapport, titres en français et en anglais | première version, avec un exemple rédigé de rapport technique ; sa structure a été essayée une fois sur un rapport de projet de cours privé, non publié ici |
 
 Les présentations sont nées ici et ont rejoint un dépôt à elles,
 [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations), le 2026-10-29 : les deux revues partageaient 2 travaux sur 370.

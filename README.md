@@ -11,9 +11,9 @@ live there and are not repeated here. This repository adds only what is particul
 and the shapes of their documents. Where an academic convention and a principle of the standard disagree, the shape
 says which one wins, and why.
 
-> **Status:** work in progress. Two multivocal reviews are written in [evidence/](evidence/), and their numbers were
-> audited on 2026-10-28; a third, on reports, is written and audited. The shapes of a paper, an article and a proof exist;
-> the shape of a report is a first draft. It is an informal reading of published research and practice: not an
+> **Status:** work in progress. Three multivocal reviews are written and audited in [evidence/](evidence/): research
+> papers and mathematical writing, audited on 2026-10-28, and reports. Each of the four shapes has a skeleton, a LaTeX
+> version and a worked example; the report shape is a first draft. It is an informal reading of published research and practice: not an
 > official standard, not a peer-reviewed study, not a new result, and not a claim to the state of the art.
 >
 > **How it is made:** with Claude, an AI assistant by Anthropic, under the maintainer's direction, the way
@@ -56,10 +56,10 @@ digraph scope {
 |---|---|---|
 | [standard.md](standard.md) | the card: how to use this standard, and which shape for which document | written |
 | [AGENTS.md](AGENTS.md) | how to change this repository, for a person or a language model | written |
-| [evidence/](evidence/) | two reviews: research papers, mathematical writing | written, audited |
+| [evidence/](evidence/) | three reviews: research papers, mathematical writing, and reports (next row) | written, audited |
 | [evidence/reports/](evidence/reports/) | the report as a genre: its standards, its readers and examiners, and where academic convention and the standard conflict | written, audited; a second pass on examiners being merged |
-| [shapes/](shapes/) | the skeletons of a research paper, a mathematical article and a proof | written |
-| [shapes/academic-report](shapes/academic-report.md) | one template for the four kinds of report, headings in French and English | first draft; tested once, for structure, on a course project report |
+| [shapes/](shapes/) | the skeletons of a research paper, a mathematical article and a proof, each with a worked example | written |
+| [shapes/academic-report](shapes/academic-report.md) | one template for the four kinds of report, headings in French and English | first draft, with a worked example of a technical report; its structure was tried once on a private course project report, not published here |
 
 Presentations began here and moved to a repository of their own,
 [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations), on 2026-10-29: the two reviews shared 2 of 370 works.

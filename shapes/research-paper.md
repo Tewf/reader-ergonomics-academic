@@ -5,7 +5,7 @@ The shape of an empirical research article: IMRaD with a [structured abstract](.
 ## When to use it
 
 - An empirical study (experiment, observational study, computational evaluation) reported to a journal, a conference or a preprint server.
-- Not for a proof-centred mathematical article: a companion shape covers that.
+- Not for a proof-centred mathematical article: [mathematical-article.md](mathematical-article.md) covers that.
 - Not for a review, an essay or a humanities article, whose structure follows the argument rather than the study.
 - Inside a publisher class (elsarticle, llncs, IEEEtran, acmart), keep the class for layout and metadata and take the section order from here; the class does not supply one.
 

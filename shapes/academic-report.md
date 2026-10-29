@@ -54,12 +54,12 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Part | What it does | Evidence | Grade |
 |---|---|---|---|
 | Title page | names the report by its finding, then the school's items: school, supervisor, host, jury, date | NISO 2010; EOST 2026 (example) | convention, untested |
-| Abstract | question, method, result and limit, in about 200 words, in both languages when the school asks | NISO 2010; examiners skim it early (Golding 2014) | convention; supported with caveat for the early reading |
+| Abstract | question, method, result and limit, in about 200 words, in both languages when the school asks | NISO 2010; most examiners open the abstract, introduction and conclusion first (Mullins 2002) | convention; supported with caveat for the early reading |
 | Executive summary | the answer and what to do, for a reader who reads nothing else | NISO 2010; a preference test (Silyn-Roberts 2002); a null pilot of a methods summary (Koetsenruijter 2022) | supported with caveat: no controlled test on reports |
-| Introduction | the question, its scope and the plan; in a thesis, the contribution in one sentence | NISO 2010; examiners are reported to decide by the end of chapter 1 or 2 (Golding 2014, secondary) | supported with caveat |
+| Introduction | the question, its scope and the plan; in a thesis, the contribution in one sentence | NISO 2010; examiners form a first impression early, usually by the end of chapter 2 or 3 (Mullins 2002) | supported with caveat: interviews with 30 examiners |
 | Host organisation | one page of context, the rest in an appendix | TSE 2017 (example); UT 2024 | convention, untested |
 | Mission and objectives | the objective and its success test before the method; for an internship, the learning objectives too | TSE 2017 (example); UT 2024 | convention, untested |
-| Literature and background | for a thesis, a chapter that opens with its answer and ends each section on what it implies for the question | Holbrook 2007; Golding 2014 | supported with caveat |
+| Literature and background | for a thesis, a chapter that opens with its answer and ends each section on what it implies for the question | Holbrook 2007; the first impression often forms at the literature review (Mullins 2002) | supported with caveat |
 | Method | the approach, why this one, what it cannot show, each step named by what it achieves | NISO 2010; Golding 2014 | supported with caveat |
 | Results | each figure beside the text that explains it | NISO 2010 | convention for reports; the figure placement is measured in reader-ergonomics |
 | Discussion | the findings interpreted and tied to the literature, with no claim beyond the data | Golding 2014; NISO 2010 | supported with caveat |
@@ -72,16 +72,16 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Language and presentation | form corrected by the checks, not tuned past them | Golding 2014; graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
 | Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); Golding 2014 | convention, untested |
 
-Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Golding 2014 is a review of 30
-studies of thesis examination. So far it has been read through its abstract and a secondary account; the claims marked
-secondary wait for its full text.
+Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Golding 2014, a review of 30 studies of thesis examination, has so far been read through its abstract and a
+secondary account; the claim it alone supports, that the first impression lasts, is marked secondary. The reading
+order and the timing come from Mullins 2002, read in full: interviews with 30 experienced examiners.
 
 ## Where academic convention and the standard disagree
 
 | Conflict | What wins | Why |
 |---|---|---|
-| A story told in time order against the result first | the abstract, the summary and the conclusion carry the result first and stand alone; the body may follow time when time is the object, as in an internship | readers and examiners look at the summary and the conclusion first (Pinelli 1982, Golding 2014); tests of the order of a whole text are mixed (Spyridakis 2000, Spyridakis 2002, Jansen 2010) |
-| No findings in the introduction against an early verdict | in a thesis, the introduction ends with the contribution in one sentence; the result itself stays in the abstract | examiners are reported to decide early, and the first impression to last (Golding 2014, secondary) |
+| A story told in time order against the result first | the abstract, the summary and the conclusion carry the result first and stand alone; the body may follow time when time is the object, as in an internship | readers and examiners look at the summary and the conclusion first (Pinelli 1982, Mullins 2002); tests of the order of a whole text are mixed (Spyridakis 2000, Spyridakis 2002, Jansen 2010) |
+| No findings in the introduction against an early verdict | in a thesis, the introduction ends with the contribution in one sentence; the result itself stays in the abstract | examiners form a first impression early, usually by the end of chapter 2 or 3 and often at the literature review (Mullins 2002), and it is reported to last (Golding 2014, secondary) |
 | A long literature chapter against using each idea where it is needed | a chapter for the thesis, which examiners expect; folded into the introduction for project and technical reports; none for an internship | Holbrook 2007; the internship forms grade no literature (UT 2024) |
 | Thanks at the front against the answer first | acknowledgements at the back | NISO 2010 makes them optional |
 | Topic labels against sentence headings | labels for chapters, claims below them | Lorch 1996 |

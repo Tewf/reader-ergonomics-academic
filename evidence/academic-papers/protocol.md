@@ -62,29 +62,29 @@ The counts only record how large each term's literature is.
 - **Backward** from Sollaci 2004, Hartley 2004a, Turner 2012, Pineau 2021, Liang 2025.
 - **Forward** from Sollaci 2004 (Lin 2012, Moskovitz 2024), Pineau 2021 (Magnusson 2023, Coakley 2026), Hartley 2004a (Hartley 2014).
 - **Count method:** OpenAlex, `https://api.openalex.org/works?filter=title_and_abstract.search:"<term>"&per_page=1`, field `meta.count`, one run per term.
-- **Status:** the free daily budget of the API was exhausted on 2026-10-28 for the whole run (error "Rate limit exceeded"), so no count was obtained.
-  A reader repeats the 18 terms below; the counts are left empty rather than guessed.
+- **Status:** the free daily budget of the API was exhausted on 2026-10-28 (error "Rate limit exceeded"), so the 18 terms were
+  counted on 2026-10-29 at 00:05 UTC, each as a quoted phrase.
 
 | Term (frame.md) | OpenAlex count |
 |---|---|
-| IMRaD | not obtained |
-| create a research space | not obtained |
-| structured abstract | not obtained |
-| reporting guideline | not obtained |
-| scholarly reading | not obtained |
-| registered reports | not obtained |
-| executable paper | not obtained |
-| abstract readability | not obtained |
-| reproducibility checklist | not obtained |
-| artifact evaluation | not obtained |
-| model cards | not obtained |
-| plain language summary | not obtained |
-| data availability statement | not obtained |
-| foundation model transparency | not obtained |
-| excess vocabulary | not obtained |
-| generative AI policy | not obtained |
-| graphical abstract | not obtained |
-| datasheets for datasets | not obtained |
+| IMRaD | 1 893 |
+| create a research space | 213 |
+| structured abstract | 3 524 |
+| reporting guideline | 2 455 |
+| scholarly reading | 410 |
+| registered reports | 10 183 |
+| executable paper | 58 |
+| abstract readability | 52 |
+| reproducibility checklist | 180 |
+| artifact evaluation | 1 096 |
+| model cards | 532 |
+| plain language summary | 21 145 |
+| data availability statement | 4 226 |
+| foundation model transparency | 15 |
+| excess vocabulary | 15 |
+| generative AI policy | 119 |
+| graphical abstract | 64 463 |
+| datasheets for datasets | 65 |
 
 ## 5. Grey search
 

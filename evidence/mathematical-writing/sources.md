@@ -62,7 +62,7 @@ Columns A to T are the eight groups of criteria defined in the [method](../READM
 
 Gillman 1987 is listed by Knuth 1989 as a manual and was not read: not scored, not used as support.
 
-Sources at exactly 10 (Tao 2026a, Tao 2026b, Ramdas 2026, Cohn 2026) are included at the threshold; a different reviewer could score them below.
+Sources at exactly 10 are included at the threshold (Tao 2026a, Tao 2026b, Ramdas 2026, Cohn 2026); a different reviewer could score them below.
 
 ## Formal sources
 

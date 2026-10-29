@@ -1,6 +1,6 @@
 # Shape: structured proof
 
-The shape of one [structured proof](../evidence/mathematical-writing/frame.md), with each [warrant](../evidence/mathematical-writing/frame.md) named. It has a one-line sketch first, then numbered steps in Lamport's hierarchical style, each with its own justification, at most three levels deep, with the results it uses named at the top.
+The shape of one [structured proof](../evidence/mathematical-writing/frame.md), with each [warrant](../evidence/mathematical-writing/frame.md) named. It has a one-line sketch first, with the results it uses named at the top. Then come numbered steps in Lamport's hierarchical style, each with its own justification, at most three levels deep.
 
 ## When to use it
 
@@ -95,7 +95,7 @@ $c - 4$
 
 ## When a conventional paragraph proof is better
 
-Keep a paragraph, still with a first sentence that gives the idea and each warrant named, when:
+Still with a first sentence that gives the idea and each warrant named, keep a paragraph when:
 
 - the proof is under about ten lines, the size below which Lamport 2012 himself writes prose;
 - it is one idea or one calculation, where numbering adds length and no structure;

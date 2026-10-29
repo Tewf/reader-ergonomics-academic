@@ -4,7 +4,7 @@ This file states the problem in one sentence and lists what mathematics and its 
 
 ## The problem in one sentence
 
-How should a mathematical research article, and each proof inside it, be laid out so that a reader finds the result, judges whether it holds, and sees why it holds, at the least reading cost?
+How should one lay out a mathematical research article, and each proof inside it, so that a reader finds the result, judges whether it holds, and sees why it holds, at the least reading cost?
 
 ## Five sub-questions
 
@@ -30,7 +30,7 @@ The problem is shared by five fields, and each one names it differently.
 
 ## Method: a multivocal literature review
 
-This review is a **multivocal literature review (MLR)** (defined in the [evidence README](../README.md)): it reads the formal literature and the **grey literature** (sources outside journals and academic presses) together (Garousi 2019). Grey sources are sorted into **tiers** by outlet control.
+This review is a **multivocal literature review (MLR)** (Garousi 2019; defined in the [evidence README](../README.md)): it reads together the formal literature and the **grey literature** (sources outside journals and academic presses). Grey sources are sorted into **tiers** by outlet control.
 
 | Tier | Outlet control | Examples here |
 |---|---|---|

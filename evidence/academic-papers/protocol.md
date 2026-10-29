@@ -1,6 +1,6 @@
 # Protocol
 
-This file records how the pool of sources was built, so the search can be repeated; the pool itself is in [sources](sources.md).
+This file records how the pool of sources was built. With it the search can be repeated; the pool itself is in [sources](sources.md).
 
 ## Method and its source
 
@@ -121,7 +121,7 @@ The counts only record how large each term's literature is.
 | G16 | `ACM Artifact Review and Badging version 1.1 Artifacts Available Evaluated Reusable Results Reproduced` |
 | G17 | `PLOS author summary guidelines non-technical summary requirement` |
 
-G5, G9, G11 and G12 came from open items in the earlier review (MDAR, the AI-company publishing preprint, the AACR RRID study); G4 and G15 from the missing TOP and CONSORT-AI.
+The earlier review's open items gave G5, G9, G11 and G12 (MDAR, the AI-company publishing preprint, the AACR RRID study); the missing TOP and CONSORT-AI gave G4 and G15.
 
 ## 6. Stopping rule (Garousi Guideline 8), fixed before searching
 

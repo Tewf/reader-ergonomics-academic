@@ -72,8 +72,8 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Language and presentation | form corrected by the checks, not tuned past them | Golding 2014; graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
 | Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); Golding 2014 | convention, untested |
 
-Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Golding 2014, a review of 30
-studies of thesis examination, has so far been read through its abstract and a secondary account; the claims marked
+Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Golding 2014 is a review of 30
+studies of thesis examination. So far it has been read through its abstract and a secondary account; the claims marked
 secondary wait for its full text.
 
 ## Where academic convention and the standard disagree

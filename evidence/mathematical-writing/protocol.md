@@ -2,7 +2,7 @@
 
 This file records how the formal and grey sources of this review were searched, selected and scored, after Garousi 2019.
 
-The method is a lighter multivocal literature review (see the [evidence README](../README.md)): the formal pool was built before the protocol existed, and the grey search was run to the protocol. Dates of every search: 2026-10-28.
+The method is a lighter multivocal literature review (see the [evidence README](../README.md)). The formal pool was built before the protocol existed, and the grey search was run to the protocol. Dates of every search: 2026-10-28.
 
 ## 1. Why grey literature (Garousi 2019, Table 4)
 
@@ -16,7 +16,7 @@ The method is a lighter multivocal literature review (see the [evidence README](
 | 6 | Would a synthesis help both communities? | Yes |
 | 7 | Is there a large volume of practitioner sources? | No: a few dozen guides, which repeat one another |
 
-Five yes answers include grey literature. Garousi 2019 notes that bounded academic topics have little practitioner literature, which the last answer confirms, so the grey search is small.
+Five yes answers include grey literature. Garousi 2019 notes that bounded academic topics have little practitioner literature. The last answer confirms this, so the grey search is small.
 
 ## 2. Questions
 
@@ -37,7 +37,7 @@ Four searches, run first, on the web; results are placed in review.md strand 0.
 
 The formal pool was built by a narrative search plus snowballing, not by screening the counts below. Backward and forward snowballing started from Leron 1983, Mejia-Ramos 2012 and Lamport 1995, through the works citing them.
 
-OpenAlex was the planned counter (`title_and_abstract.search`). It refused every request on the day (the free daily budget was spent), so no OpenAlex count exists. The same strings were run once through the Semantic Scholar bulk search (`/graph/v1/paper/search/bulk`, field `total`):
+OpenAlex was the planned counter (`title_and_abstract.search`). It refused every request on the day (the free daily budget was spent). So no OpenAlex count exists, and the same strings were run once through the Semantic Scholar bulk search (`/graph/v1/paper/search/bulk`, field `total`):
 
 | String | Total |
 |---|---|
@@ -83,7 +83,7 @@ Excluded:
 
 ## 6. Stopping rule (Guideline 8)
 
-Effort bounded: the top 10 results per string, nine web strings and four API queries fixed in advance, one level of snowball. Saturation was observed, not used as the rule: the last two included sources (Stanford 2023, EMS 2026) added no concept not already met, while Mathlib 2026 and Ilmavirta 2015 had each added one.
+Effort bounded: the top 10 results per string, nine web strings and four API queries fixed in advance, one level of snowball. Saturation was observed, not used as the rule: the last two included sources (Stanford 2023, EMS 2026) added no concept not already met. By contrast, Mathlib 2026 and Ilmavirta 2015 had each added one.
 
 ## 7. Selection
 

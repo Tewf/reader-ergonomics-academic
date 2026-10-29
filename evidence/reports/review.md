@@ -1,9 +1,8 @@
 # Review
 
-Existing reviews first, then the seminal work by strand; strand 6 is practice.
-Grades: measured, supported with caveat, convention (untested), not supported.
-Sources from outside journals are scored in [sources](sources.md); a source below 10 of 20 is marked as an example of practice only.
-What the academic-papers review already holds (IMRaD, structured abstracts, CARS, reporting guidelines) is linked, not repeated.
+Existing reviews first, then the seminal work by strand; strand 6 is practice; the academic-papers review already holds IMRaD, structured abstracts, CARS and reporting guidelines, which are linked, not repeated.
+Each strand's findings are graded: measured, supported with caveat, convention (untested), not supported.
+Sources from outside journals take a score instead of a grade, in [sources](sources.md); a source below 10 of 20 is marked as an example of practice only.
 
 ## 0. Existing reviews
 
@@ -104,8 +103,8 @@ Counts from Gardner 2013, Tables 3 and 4 (author's manuscript; counts depend on 
 
 ## Second pass (2026-10-29): examiners, and summary first
 
-Synthesis for the two questions the first pass left thin. Grades: measured, supported with caveat, convention (untested), not supported. Strand numbers continue review.md (7 and 8).
-"(secondary)" marks a number read in an abstract, a record, a search summary, or in another paper's report of it.
+Synthesis for the two questions the first pass left thin; its strand numbers continue review.md (7 and 8). Its strands are graded: measured, supported with caveat, convention (untested), not supported.
+A number in a strand is marked "(secondary)" when it was read in an abstract, a record, a search summary, or in another paper's report of it.
 Held elsewhere and linked, not reviewed again:
 
 - Britt 2003 (claim first, three experiments on short arguments) and Garner 2013: sister review reader-ergonomics-presentations.

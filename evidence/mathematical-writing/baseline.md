@@ -15,7 +15,7 @@ This file names the baseline article and proof a new shape is compared against, 
 | Proofs | linear prose inside `\begin{proof}...\end{proof}`, warrants often implicit | Inglis & Alcock 2012 |
 | Ending | no fixed form: often QED, sometimes remarks or open questions | Kuteeva & McGrath 2015 |
 
-The baseline is what a referee at an AMS journal expects, so any change must beat it, not merely differ from it.
+Any change must beat the baseline, not merely differ from it; the baseline is what a referee at an AMS journal expects.
 
 ## What is compared
 

@@ -64,7 +64,7 @@ Pages read: 12 in all; Gardner 2013 is counted once.
 
 For a formal source the last column of quality holds the evidence grade. For a grey source it holds the score out of 20 and its eight subtotals, whose letters are defined in the [evidence README](../README.md).
 
-Of 7 grey sources, 2 score below 10: TSE 2017 (9.5) and EOST 2026 (9). Both are examples of practice only; no claim leans on them. Sheffield 2017 scores exactly 10 and is opinion. ISO 1986 is scored on its catalogue record; its text was not read.
+Of 7 grey sources, 2 score below 10: TSE 2017 (9.5) and EOST 2026 (9). Both sources are examples of practice only; no claim leans on them. Another source, Sheffield 2017, scores exactly 10 and is opinion. A further source, ISO 1986, is scored on its catalogue record; its text was not read.
 
 | Key | Kind | Found via | Quality | Used in |
 |---|---|---|---|---|

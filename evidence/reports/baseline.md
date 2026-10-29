@@ -4,7 +4,7 @@ This file names the baseline a report template is compared against, and how the 
 
 ## The named baseline
 
-**The report components of ANSI/NISO Z39.18-2005 (R2010)** are the control template. They begin with a title section, an abstract of about 200 words, contents and a summary; a separate executive summary is often prepared when a print report passes 50 pages. Then come an introduction without findings, methods, results and discussion, and conclusions written to be read alone. Recommendations follow if the report proposes action, then references and appendices.
+**The report components of ANSI/NISO Z39.18-2005 (R2010)** are the control template. They begin with a title section, an abstract of about 200 words, contents and a summary; a separate executive summary is often prepared when a print report passes 50 pages. After the summary come an introduction without findings, methods, results and discussion, and conclusions written to be read alone. Recommendations follow the conclusions if the report proposes action, then references and appendices.
 
 Why this one:
 
@@ -17,7 +17,7 @@ Why this one:
 ## An example of practice, for French schools
 
 **The school grid itself**, run as the score: for an internship report, the TSE 2017 grid (form 7, substance 13 of 20). It scores 9.5 of 20, below the line of 10, so it is an example of practice only and not a baseline; NISO Z39.18 stays the baseline.
-For a thesis, the criteria named by experienced examiners in Mullins 2002 (not verified: abstract only, which does not list the criteria).
+For a thesis, Mullins 2002 reports the criteria that experienced examiners name (not verified: abstract only, which does not list the criteria).
 
 ## What to measure
 

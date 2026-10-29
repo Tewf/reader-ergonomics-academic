@@ -58,7 +58,7 @@ Snowballing was one step: the Crossref lookup of works named in an abstract or a
 
 ## 5. Grey search
 
-Types chosen: standards bodies (NISO, ISO), French school and university guides and grids, a government research report, a university transcript of practitioner interviews.
+Types chosen were standards bodies (NISO, ISO), French school and university guides and grids, a government research report and a university transcript of practitioner interviews.
 
 | Id | String |
 |---|---|

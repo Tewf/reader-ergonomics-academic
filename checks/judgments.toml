@@ -284,49 +284,49 @@ answer = "One mode, understanding why, with look-up tables: it reports what the 
 
 [[answer]]
 check = "co-change"
+path = "evidence/academic-papers/flow.svg"
+question = "changed together with evidence/mathematical-writing/flow.svg in 3 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "76a02943084f"
+answer = "Keep them apart: each draws its own topic's pool of sources (`Included as new`). They change together when the shared flow script changes, as when its outline colours and its added rows were fixed: a tool, not shared content."
+
+[[answer]]
+check = "logical-lines"
+path = "shapes/academic-report.md"
+question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "3c9f59936794"
+answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
+
+[[answer]]
+check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "148af1c2e15e"
+file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/review.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "148af1c2e15e"
+file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/sources.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "148af1c2e15e"
+file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/state-of-the-art.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with shapes/README.md in 6 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "148af1c2e15e"
+file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
 
 [[answer]]
 check = "document-mode"
 path = "shapes/research-paper.md"
 question = "reads about equally as how-to and reference: one mode per document?"
-file = "2aee07b2e77f"
+file = "818edcffaa50"
 answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
-
-[[answer]]
-check = "logical-lines"
-path = "shapes/academic-report.md"
-question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "153d29803b3f"
-answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
-
-[[answer]]
-check = "co-change"
-path = "evidence/academic-papers/flow.svg"
-question = "changed together with evidence/mathematical-writing/flow.svg in 3 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "76a02943084f"
-answer = "Keep them apart: each draws its own topic's pool of sources (`Included as new`). They change together when the shared flow script changes, as when its outline colours and its added rows were fixed: a tool, not shared content."

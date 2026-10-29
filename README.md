@@ -26,6 +26,30 @@ Four kinds of document, each with its own evidence and its own shape:
 
 ![Academic writing here takes four shapes: the report (course project, internship, master's thesis, technical report), the research paper, the mathematical article and the proof.](readme-scope.svg)
 
+<details>
+<summary>Graphviz source</summary>
+
+```dot
+// The kinds of academic writing this repository gives a shape to: the figure of README.md.
+digraph scope {
+  graph [rankdir=TB, nodesep=0.4, ranksep=0.5, bgcolor="white", pad=0.2, fontname="Inter"];
+  node  [shape=box, style="rounded,filled", fontname="Inter", fontsize=13, margin="0.2,0.1", penwidth=1.5, fontcolor="#1F2328"];
+  edge  [fontname="Inter", fontsize=11, color="#3D434B", fontcolor="#55575F", penwidth=1.3, arrowsize=0.8];
+  AW [label=<<b>academic writing</b>>, fillcolor="#FFFFFF", color="#3D434B"];
+  RP [label=<<b>the report</b><br/><font point-size="11" color="#55575F">course project, internship,</font><br/><font point-size="11" color="#55575F">master's thesis, technical report</font>>, fillcolor="#E6F2EA", color="#2E7D4F"];
+  PA [label=<<b>the research paper</b>>, fillcolor="#E6F2EA", color="#2E7D4F"];
+  MA [label=<<b>the mathematical article</b>>, fillcolor="#E6F2EA", color="#2E7D4F"];
+  PF [label=<<b>the proof</b>>, fillcolor="#E6F2EA", color="#2E7D4F"];
+  AW -> RP;
+  AW -> PA;
+  AW -> MA;
+  AW -> PF;
+  {rank=same; RP; PA; MA; PF}
+}
+```
+
+</details>
+
 ## Contents
 
 | Part | Holds | State |

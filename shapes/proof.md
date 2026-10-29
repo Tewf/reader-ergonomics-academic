@@ -34,10 +34,10 @@ The LaTeX version is [proof.tex](proof.tex).
 
 | Part | Principle |
 |---|---|
-| Sketch first, where a reader may stop | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/overview-first.md) |
-| Numbered steps, at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/shallow-outline.md) |
-| Every warrant named; the Uses line | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/define-before-use.md), [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/document/short-reference-distance.md) |
-| A Q.E.D. step closing each level | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.7.0/principles/page/signal-the-structure.md) |
+| Sketch first, where a reader may stop | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/principles/document/overview-first.md) |
+| Numbered steps, at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/principles/document/shallow-outline.md) |
+| Every warrant named; the Uses line | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/principles/document/define-before-use.md), [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/principles/document/short-reference-distance.md) |
+| A Q.E.D. step closing each level | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.9.0/principles/page/signal-the-structure.md) |
 
 ## The skeleton
 

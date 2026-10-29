@@ -34,10 +34,10 @@ The LaTeX version is [proof.tex](proof.tex).
 
 | Part | Principle |
 |---|---|
-| Sketch first, where a reader may stop | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/principles/document/overview-first.md) |
-| Numbered steps, at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/principles/document/shallow-outline.md) |
-| Every warrant named; the Uses line | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/principles/document/define-before-use.md), [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/principles/document/short-reference-distance.md) |
-| A Q.E.D. step closing each level | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.13.0/principles/page/signal-the-structure.md) |
+| Sketch first, where a reader may stop | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/principles/document/overview-first.md) |
+| Numbered steps, at most three levels | [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/principles/document/shallow-outline.md) |
+| Every warrant named; the Uses line | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/principles/document/define-before-use.md), [short reference distance](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/principles/document/short-reference-distance.md) |
+| A Q.E.D. step closing each level | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/principles/page/signal-the-structure.md) |
 
 ## The skeleton
 
@@ -71,11 +71,15 @@ Uses: Definition 2.1, Lemma 3.2.
 
 ## A calculation as the lowest level
 
-$a + 1$
-$\quad \leq \quad$ { hypothesis 1 }
-$b^2 - 3$
-$\quad = \quad$ { definition of $c$ }
-$c - 4$
+Each line is an expression, and between two lines stand the relation and its hint:
+
+```text
+  a + 1
+≤     { hypothesis 1 }
+  b² − 3
+=     { definition of c }
+  c − 4
+```
 
 ## Worked example
 

@@ -54,6 +54,7 @@ digraph scope {
 
 | Part | Holds | State |
 |---|---|---|
+| [standard.md](standard.md) | the card: how to use this standard, and which shape for which document | written |
 | [evidence/](evidence/) | two reviews: research papers, mathematical writing | written, audited |
 | [evidence/reports/](evidence/reports/) | the report as a genre: its standards, its readers and examiners, and where academic convention and the standard conflict | written, audited; a second pass on examiners being merged |
 | [shapes/](shapes/) | the skeletons of a research paper, a mathematical article and a proof | written |

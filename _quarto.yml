@@ -19,6 +19,8 @@ website:
   page-navigation: true
   navbar:
     left:
+      - text: Standard
+        href: standard.md
       - text: Evidence
         href: evidence/index.qmd
       - text: Shapes

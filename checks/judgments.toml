@@ -318,15 +318,15 @@ file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/state-of-the-art.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with shapes/README.md in 6 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "6d519ca0b90c"
-answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
-
-[[answer]]
 check = "document-mode"
 path = "shapes/research-paper.md"
 question = "reads about equally as how-to and reference: one mode per document?"
 file = "818edcffaa50"
 answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with shapes/README.md in 7 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6d519ca0b90c"
+answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."

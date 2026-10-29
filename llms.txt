@@ -6,7 +6,7 @@ Each page's markdown source is served at the same path with a .md extension.
 
 ## Standard
 
-- [Standard](https://tewf.github.io/reader-ergonomics-academic/standard.md): the one-page card to follow, with every principle and its grade
+- [Standard](https://tewf.github.io/reader-ergonomics-academic/standard.md): the one-page card to follow, how to use this standard and its shapes
 - [Contributing](https://tewf.github.io/reader-ergonomics-academic/AGENTS.md): rules for changing this repository
 
 ## Optional

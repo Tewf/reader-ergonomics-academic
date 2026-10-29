@@ -276,20 +276,6 @@ file = "8e2daf35349b"
 answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
 
 [[answer]]
-check = "document-mode"
-path = "AGENTS.md"
-question = "reads about equally as reference and how-to: one mode per document?"
-file = "f31b71951243"
-answer = "One mode, how-to: the steps for changing the repository (`## Before writing`, `## Before handing back`). The rules it lists are steps of that task, and the reference they come from is linked, not repeated."
-
-[[answer]]
-check = "document-mode"
-path = "shapes/research-paper.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "6a36f5d97fe7"
-answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
-
-[[answer]]
 check = "logical-lines"
 path = "evidence/mathematical-writing/protocol.md"
 question = "96 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
@@ -304,43 +290,71 @@ file = "8cf36e9b4b97"
 answer = "One role: the scored pool of both passes, as it opens: `Every source the two passes on reports included or set aside`. It stays whole."
 
 [[answer]]
+check = "section-cohesion"
+path = "evidence/reports/against.md"
+question = "section '6. Grids are one teacher's rule' is far from every other section (0.24): a second role?"
+file = "fae3f3e039a9"
+answer = "No second role: it is evidence against, like sections 1 to 8, saying why the French grading grids are weak support (`Weights of 7 and 13 out of 20 are choices`)."
+
+[[answer]]
 check = "logical-lines"
 path = "shapes/academic-report.md"
 question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "9237edcaecde"
+file = "aaf42f4e3341"
 answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "6e9ed3adbab1"
+file = "db9a891ca2ae"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/review.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "6e9ed3adbab1"
+file = "db9a891ca2ae"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/sources.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "6e9ed3adbab1"
+file = "db9a891ca2ae"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/state-of-the-art.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
 
 [[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with shapes/README.md in 8 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "6e9ed3adbab1"
+file = "db9a891ca2ae"
 answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
 
 [[answer]]
-check = "section-cohesion"
-path = "evidence/reports/against.md"
-question = "section '6. Grids are one teacher's rule' is far from every other section (0.24): a second role?"
-file = "fae3f3e039a9"
-answer = "No second role: it is evidence against, like sections 1 to 8, saying why the French grading grids are weak support (`Weights of 7 and 13 out of 20 are choices`)."
+check = "document-mode"
+path = "AGENTS.md"
+question = "reads about equally as reference and how-to: one mode per document?"
+file = "6e0304cbaa93"
+answer = "One mode, how-to: the steps for changing the repository (`## Before writing`, `## Before handing back`). The rules it lists are steps of that task, and the reference they come from is linked, not repeated."
+
+[[answer]]
+check = "document-mode"
+path = "shapes/research-paper.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "5bef17493d41"
+answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "db9a891ca2ae"
+answer = "Keep them apart: evidence/README.md has its own role (`One literature review per topic`) and evidence/mathematical-writing/protocol.md another. They changed together in passes that touched every file at once, the release-link raises and the sentence pass of 2026-10-29, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/protocol.md"
+question = "changed together with evidence/mathematical-writing/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "9e9988b74d2e"
+answer = "Keep them apart: evidence/academic-papers/protocol.md has its own role (`# Protocol`) and evidence/mathematical-writing/protocol.md another. They changed together in passes that touched every file at once, the release-link raises and the sentence pass of 2026-10-29, not through shared content."

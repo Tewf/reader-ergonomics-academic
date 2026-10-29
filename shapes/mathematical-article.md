@@ -130,7 +130,7 @@ Sketch: one sentence that names the new difficulty and how it is overcome.
 - ⟨1⟩1. Reduction to the special case. *Proof:* by Lemma 3.2.
 - ⟨1⟩2. Q.E.D. *Proof:* by ⟨1⟩1. $\square$
 
-The full proof shape, with deeper levels and when to keep a paragraph, is in `../proof/template.md`.
+The full proof shape, with deeper levels and when to keep a paragraph, is in [proof.md](proof.md).
 
 ## Acknowledgements
 

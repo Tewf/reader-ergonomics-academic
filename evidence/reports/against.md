@@ -45,6 +45,5 @@ This file gathers the evidence against the claims of this review, and the limits
 
 ## 9. Method limits
 
-- Many pages were closed to the reader (403, bot check, paywall); nothing was bypassed.
-- Counts of database hits were not obtained.
-- The effort bound was exceeded; saturation, not the bound, stopped the search.
+The limits of the search itself (closed pages, no hit counts, the stopping rules) are in the
+[protocol](protocol.md); they are limits of how the review was made, not evidence against the shape.

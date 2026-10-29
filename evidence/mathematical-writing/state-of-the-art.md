@@ -9,9 +9,9 @@ Two kinds of result are kept apart.
 
 | | Holder | Method | Measured how |
 |---|---|---|---|
-| Upper bound | Kuteeva & McGrath 2015 | Move analysis of 22 pure-mathematics articles from 5 authors, with interviews | counts of headings and moves per article |
+| Upper bound | Kuteeva 2015 | Move analysis of 22 pure-mathematics articles from 5 authors, with interviews | counts of headings and moves per article |
 | Upper bound | Graves 2013 | Macrostructure analysis of 30 pure and applied articles | presence or absence of IMRD sections |
-| Lower bound | Kuteeva & McGrath 2015 | The same corpus | no single prototype: notation, background and endings vary widely |
+| Lower bound | Kuteeva 2015 | The same corpus | no single prototype: notation, background and endings vary widely |
 
 Caveat: both corpora are small, and the 22 articles come from only five authors in four fields.
 
@@ -19,7 +19,7 @@ Caveat: both corpora are small, and the 22 articles come from only five authors 
 
 | | Holder | Method | Measured how |
 |---|---|---|---|
-| Upper bound (descriptive) | Kuteeva & McGrath 2015 | Corpus count | 21 of 22 openings announce the principal findings |
+| Upper bound (descriptive) | Kuteeva 2015 | Corpus count | 21 of 22 openings announce the principal findings |
 | Upper bound (advice) | Halmos 1970, Krantz 2017, Tao 2026a, Tao 2026b, Ramdas 2026 | Expert advice | none; the guides agree |
 | Lower bound (advice) | Ilmavirta 2015 | Q/A thread | none; one answer postpones proofs in long papers and holds that circularity is easy to check |
 | Lower bound | none found | | no experiment varies the position of the main theorem and measures readers |
@@ -29,7 +29,7 @@ Caveat: both corpora are small, and the 22 articles come from only five authors 
 | | Holder | Method | Measured how |
 |---|---|---|---|
 | Upper bound (format) | Lamport 2012 | 20 years of practice with numbered hierarchical proofs, plus a machine-checked appendix | anecdotes of errors found; no reader test |
-| Upper bound (format) | Dijkstra 2000, Gries & Schneider 1993 | Calculational proofs with a hint per step | none; design argument |
+| Upper bound (format) | Dijkstra 2000, Gries 1993 | Calculational proofs with a hint per step | none; design argument |
 | Lower bound | Lamport 1995 | Report of reactions | skeptical checkers liked the format, skimmers did not |
 | Lower bound | Lamport 2012 | Report of one referee | the long structured proofs were found tedious |
 
@@ -65,7 +65,7 @@ No study found tests Lamport's numbered format, as distinct from Leron's, on rea
 | Seven-dimension test | Mejia-Ramos 2012 | a score per local and holistic dimension |
 | Validated multiple-choice tests | Mejia-Ramos 2017 | short reliable tests for named proofs |
 | Comparative judgement of summaries | Davies 2020 | a reliable holistic score without a rubric |
-| Eye tracking | Inglis & Alcock 2012 | dwell time on formulae versus words; look-backs between lines |
+| Eye tracking | Inglis 2012 | dwell time on formulae versus words; look-backs between lines |
 | Delayed post-test | Roy 2017b | retention after two weeks, where e-Proofs lost |
 
 ## Most adopted versus best evidence

@@ -228,7 +228,7 @@ Each is marked in review.md and in the file that leans on it as an example of pr
 | JATS | grey tier 1 | narrative search | A4 M3 O2 D1 P0.5 N1 I1 T1 = 13.5/20; scored from the entry in review.md | review, frame |
 | Elsevier GA 2026 | grey tier 2 (added) | G1 | A3.5 M2.5 O1 D0 P0 N0.5 I1 T0.5 = 9/20 (below 10: example of practice only); undated | review, against |
 | Elsevier KRT 2026 | grey tier 2 (added) | G13 | A3.5 M2.5 O0.5 D0 P0.5 N1 I1 T0.5 = 9.5/20 (below 10: example of practice only); undated; claims without data | review, position, against |
-| Taylor & Francis 2024 | grey tier 1 (added) | G2 | A3.5 M3 O1 D1 P0.5 N1 I0.5 T1 = 11.5/20 | review, position, baseline |
+| Taylor 2024 (Taylor & Francis) | grey tier 1 (added) | G2 | A3.5 M3 O1 D1 P0.5 N1 I0.5 T1 = 11.5/20 | review, position, baseline |
 | PLOS 2026 | grey tier 2 (added) | G17 | A3.5 M3 O1.5 D0 P0 N0.5 I1 T0.5 = 10/20; undated | review, position, baseline |
 | ICLR 2025 | grey tier 2 (added) | G7 | A3.5 M3.5 O1.5 D1 P1 N1 I1 T0.5 = 13/20 | review, position |
 | ICML 2026a | grey tier 2 (added) | G8 | A3.5 M3 O1.5 D0 P0.5 N1 I1 T0.5 = 11/20; undated | review |

@@ -23,10 +23,10 @@ The problem is shared by five fields, and each one names it differently.
 | Field | Names for the problem | Key source |
 |---|---|---|
 | Style guides by mathematicians | **mathematical writing**, **mathematical exposition** | Halmos 1970, Knuth 1989, Krantz 2017, Higham 2020 |
-| Applied linguistics | **genre analysis**, **move analysis**, the **CARS model** (Create a Research Space), **macrostructure**, **IMRD** versus **Introduction-Results** | Swales 2004, Graves 2013, Kuteeva & McGrath 2015 |
+| Applied linguistics | **genre analysis**, **move analysis**, the **CARS model** (Create a Research Space), **macrostructure**, **IMRD** versus **Introduction-Results** | Swales 2004, Graves 2013, Kuteeva 2015 |
 | Philosophy of mathematical practice | the **definition-theorem-proof (DTP) model**, **explanatory proof** | Thurston 1994, Steiner 1978, Hanna 1990 |
-| Mathematics education | **proof comprehension**, **proof reading**, **proof validation**, **proof presentation**, **modular reading**, **self-explanation**, **e-Proofs**, **generic proof** | Mejia-Ramos 2012, Selden & Selden 2003, Weber & Mejia-Ramos 2011, Hodds 2014, Roy 2017b, Leron & Zaslavsky 2013 |
-| Computer science and formal methods | **structured proof**, **hierarchical proof**, **calculational proof**, **structured derivation**, **declarative proof**, **blueprint**, **dependency graph** | Lamport 1995, Dijkstra & Scholten 1990, Back 2010, Wenzel 1999, leanblueprint |
+| Mathematics education | **proof comprehension**, **proof reading**, **proof validation**, **proof presentation**, **modular reading**, **self-explanation**, **e-Proofs**, **generic proof** | Mejia-Ramos 2012, Selden 2003, Weber 2011, Hodds 2014, Roy 2017b, Leron 2013 |
+| Computer science and formal methods | **structured proof**, **hierarchical proof**, **calculational proof**, **structured derivation**, **declarative proof**, **blueprint**, **dependency graph** | Lamport 1995, Dijkstra 1990, Back 2010, Wenzel 1999, leanblueprint |
 
 ## Method: a multivocal literature review
 
@@ -58,7 +58,7 @@ The method is in protocol.md and the scored pool in sources.md.
 - **Structured proof**: a proof split into levels, each step numbered and given its own justification (Leron 1983 for communication, Lamport 1995 for rigor).
 - **Calculational proof**: a chain of expressions joined by relations, each link carrying a hint in braces (Dijkstra 2000).
 - **Proof comprehension**: what a reader can answer about a proof after reading it, along local and holistic dimensions (Mejia-Ramos 2012).
-- **Warrant**: the reason that licenses one line of a proof to follow from earlier ones; often left implicit (Inglis & Alcock 2012).
+- **Warrant**: the reason that licenses one line of a proof to follow from earlier ones; often left implicit (Inglis 2012).
 - **Blueprint**: a human-readable proof outline whose statements declare which earlier statements they use, so a dependency graph can be drawn (leanblueprint, Massot 2026).
 
 ## Our words against the field's words

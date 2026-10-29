@@ -18,15 +18,15 @@ The shape of a proof-centred mathematics article on the AMS `amsart` class: the 
 | Abstract before `\maketitle` | short, no citations; under 1920 characters for arXiv | AMS 2017, arXiv 2026 | convention, enforced |
 | MSC 2020 code, keywords | at least one primary code; keywords optional | AMS 2017, MSC2020 | convention, enforced |
 | Introduction, plain first paragraph | the result in words before any definition | Krantz 2017 | convention, untested |
-| Main results in section 1 | self-contained one-sentence theorem, stated before its proof | Kuteeva & McGrath 2015 (21 of 22 openings), Halmos 1970, Tao 2026a | measured, descriptive; convention for the effect |
+| Main results in section 1 | self-contained one-sentence theorem, stated before its proof | Kuteeva 2015 (21 of 22 openings), Halmos 1970, Tao 2026a | measured, descriptive; convention for the effect |
 | Relation to previous work | what is new, and an example showing a hypothesis is needed | Tao 2026a | convention, untested |
 | Idea of the proof | the milestones and how they combine | Krantz 2017, Tao 2026b | convention, untested |
 | Organisation paragraph | one sentence per section | Krantz 2017 | convention, untested |
-| Preliminaries and notation | notation fixed once so statements stand alone | Kuteeva & McGrath 2015 (17 of 22 have such a section), Knuth 1989 | measured, descriptive |
+| Preliminaries and notation | notation fixed once so statements stand alone | Kuteeva 2015 (17 of 22 have such a section), Knuth 1989 | measured, descriptive |
 | Results before proofs | milestones stated, then the main theorem derived from them | Krantz 2017, Tao 2026b | convention, untested |
 | Uses line in each proof | the results a proof depends on, so the dependency tree is explicit | Massot 2026, Tao 2026b, Tao 2023 | convention, untested for human readers |
-| Proofs: sketch, then numbered steps | holistic summary first, then explicit warrants | Fuller 2014, Inglis & Alcock 2012, Lamport 2012 | measured, one study; see [proof](proof.md) |
-| Ending | optional remarks or open questions; the field has no fixed ending | Kuteeva & McGrath 2015 (11 of 22 have no conclusion) | measured, descriptive |
+| Proofs: sketch, then numbered steps | holistic summary first, then explicit warrants | Fuller 2014, Inglis 2012, Lamport 2012 | measured, one study; see [proof](proof.md) |
+| Ending | optional remarks or open questions; the field has no fixed ending | Kuteeva 2015 (11 of 22 have no conclusion) | measured, descriptive |
 
 Each key (Author Year) is listed in [references](../evidence/bibliography.md).
 No part of this shape has been tested against the conventional article on reader outcomes; [baseline](../evidence/mathematical-writing/baseline.md) says how it would be.

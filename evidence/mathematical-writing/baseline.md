@@ -10,10 +10,10 @@ This file names the baseline article and proof a new shape is compared against, 
 |---|---|---|
 | Class | `amsart`, current AMS article class, theorem styles plain, definition, remark | AMS 2017, amscls |
 | Top matter | title, author, abstract before `\maketitle`, primary MSC 2020 code, optional keywords; EMS 2026 and LMS 2021 also require a self-contained abstract | AMS 2017, EMS 2026, LMS 2021, MSC2020 |
-| Opening | introduction that announces the principal findings | Kuteeva & McGrath 2015 |
-| Middle | optional background or notation section, then sections of definitions, lemmas, theorems and proofs | Kuteeva & McGrath 2015 |
-| Proofs | linear prose inside `\begin{proof}...\end{proof}`, warrants often implicit | Inglis & Alcock 2012 |
-| Ending | no fixed form: often QED, sometimes remarks or open questions | Kuteeva & McGrath 2015 |
+| Opening | introduction that announces the principal findings | Kuteeva 2015 |
+| Middle | optional background or notation section, then sections of definitions, lemmas, theorems and proofs | Kuteeva 2015 |
+| Proofs | linear prose inside `\begin{proof}...\end{proof}`, warrants often implicit | Inglis 2012 |
+| Ending | no fixed form: often QED, sometimes remarks or open questions | Kuteeva 2015 |
 
 Any change must beat the baseline, not merely differ from it; the baseline is what a referee at an AMS journal expects.
 
@@ -38,7 +38,7 @@ Arm C sets the bar: d = 0.95 is the largest gain among the studies found here, a
 5. **Summary quality**: ask for a short summary and score it by comparative judgement (Davies 2020).
 6. **Retention**: repeat the test after two weeks without warning, since Roy 2017b's loss appeared only then.
 7. **Time**: record reading time and time to answer; a longer read that buys nothing is a cost.
-8. **Eye tracking, where available**: dwell time on formulae versus words, and look-backs between consecutive lines (Inglis & Alcock 2012).
+8. **Eye tracking, where available**: dwell time on formulae versus words, and look-backs between consecutive lines (Inglis 2012).
 9. **Article level**: time to locate the main theorem, and accuracy in restating it after reading only the abstract and introduction; this measure is proposed here and untested.
 
 ## Sample size

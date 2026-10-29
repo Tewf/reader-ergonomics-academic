@@ -55,4 +55,4 @@ Why: it is what an author at these venues actually submits (NeurIPS 2026, ACL 20
 
 - Highlights, graphical abstracts and the CARS order have no reader study against this baseline; they stay convention, untested.
 - Model cards, datasheets, STAR Methods, significance statements and release blog posts have no reader study against either baseline; they stay convention, untested.
-- Plain-language summary formats (Taylor & Francis 2024, PLOS 2026) have publisher rules and no comparison against the abstract on knowledge (Stoll 2022, Buljan 2018).
+- Plain-language summary formats (Taylor 2024 (Taylor & Francis), PLOS 2026) have publisher rules and no comparison against the abstract on knowledge (Stoll 2022, Buljan 2018).

@@ -51,13 +51,13 @@ Student preference is therefore not evidence that a format works.
 |---|---|---|
 | What a proof is for | Leron 1983: communication; Lamport 1995: rigor; Lamport 2012: separate the two goals | convention, untested |
 | Whether a given proof is valid | 109 mathematicians split on one calculus proof; applied mathematicians accepted it more often | measured (Inglis 2013b) |
-| Whether experts skim first | Inglis & Alcock 2012 found no initial skim; Weber & Mejia-Ramos 2013 reanalysed and found skimming; Inglis & Alcock 2013a replied | contested |
+| Whether experts skim first | Inglis 2012 found no initial skim; Weber 2013 reanalysed and found skimming; Inglis 2013a replied | contested |
 | Whether series of lemmas help | Halmos's advisers contradicted each other | convention, untested |
-| Where notation goes | Introduction, separate section, or along the way; no standard place in 22 articles | measured, descriptive (Kuteeva & McGrath 2015) |
-| How an article ends | 11 of 22 have no conclusion; some end with QED, some with open questions | measured, descriptive (Kuteeva & McGrath 2015) |
+| Where notation goes | Introduction, separate section, or along the way; no standard place in 22 articles | measured, descriptive (Kuteeva 2015) |
+| How an article ends | 11 of 22 have no conclusion; some end with QED, some with open questions | measured, descriptive (Kuteeva 2015) |
 | Postponing proofs | An answer on Ilmavirta 2015 puts precise statements in the introduction; another postpones proofs in long papers and says circularity is easy to check | convention, untested |
 | Labelled steps in prose | MathOverflow 2021 (example only): unlabelled induction is normal in papers; Lamport 1995 numbers every step | convention, untested |
-| Labelling speculation | Jaffe & Quinn 1993 proposed it; Thurston 1994 answered that it misdescribes how mathematics progresses | convention, untested |
+| Labelling speculation | Jaffe 1993 proposed it; Thurston 1994 answered that it misdescribes how mathematics progresses | convention, untested |
 
 ## 6. Limits of the evidence itself
 
@@ -65,6 +65,6 @@ Student preference is therefore not evidence that a format works.
 - Samples are small: Roy 2017b had 49 students (21 and 28); Fuller 2014's size was not read.
 - Fuller 2014 has no replication that we found.
 - The self-explanation studies (Hodds 2014) come from one team, though across lab and classroom.
-- The genre corpora (Graves 2013, Kuteeva & McGrath 2015) are 30 and 22 articles.
+- The genre corpora (Graves 2013, Kuteeva 2015) are 30 and 22 articles.
 - The grey sources are mostly single mathematicians' opinions; four of 23 scored below 10 of 20 (sources.md), and none reports data.
 - Krantz 2017 says his article scheme may not fit papers that fill a whole journal issue, such as the Feit-Thompson or Wiles papers.

@@ -71,10 +71,10 @@ Teledahl 2024 reports the same first standard (define assumptions and variables)
 | Source | Finding | Grade |
 |---|---|---|
 | Graves 2013 | 30 pure and applied articles follow Introduction-Results, with no Methods or Discussion section | measured, descriptive |
-| Kuteeva & McGrath 2015 | 22 pure articles plus author interviews: three compulsory stages, Openings, Proofs, Endings, and an optional post-introduction | measured, descriptive |
-| Kuteeva & McGrath 2015 | All but one of the 22 announce the principal findings in the opening | measured, descriptive |
-| Kuteeva & McGrath 2015 | 17 of 22 have a separate background or notation section; 11 of 22 have no conclusion | measured, descriptive |
-| Kuteeva & McGrath 2015 | Some form of Move 2 (niche) appears in 10 of 22 introductions: 4 raise a question, 6 state a gap (sum of two counts) | measured, descriptive |
+| Kuteeva 2015 | 22 pure articles plus author interviews: three compulsory stages, Openings, Proofs, Endings, and an optional post-introduction | measured, descriptive |
+| Kuteeva 2015 | All but one of the 22 announce the principal findings in the opening | measured, descriptive |
+| Kuteeva 2015 | 17 of 22 have a separate background or notation section; 11 of 22 have no conclusion | measured, descriptive |
+| Kuteeva 2015 | Some form of Move 2 (niche) appears in 10 of 22 introductions: 4 raise a question, 6 state a gap (sum of two counts) | measured, descriptive |
 | Graves 2014 | Introductions establish presumptions such as definitions before results (secondary) | supported with caveat |
 | AMS 2017 | AMS journals require an abstract without citations; the AMS proceedings checklist suggests at most about 150 words for short papers and 300 for long ones | convention; no citations enforced by the publisher, length only suggested |
 | AMS 2017 | At least one primary MSC code is required; keywords are optional; theorem styles are plain, definition, remark | convention, enforced by the publisher |
@@ -90,11 +90,11 @@ The societies and publishers regulate form (abstract, theorem styles, length) an
 |---|---|---|
 | Thurston 1994 | Names the DTP model and argues it omits where questions come from and how understanding is passed on | supported with caveat |
 | Thurston 1994 | An idea told one-on-one in minutes becomes an hour's talk and a 15 to 20 page paper; channels narrow at each step | supported with caveat |
-| Jaffe & Quinn 1993 | The paper Thurston answered: speculation should be labelled apart from proved results | convention, untested |
+| Jaffe 1993 | The paper Thurston answered: speculation should be labelled apart from proved results | convention, untested |
 | Weber 2004 | Case study of one professor teaching real analysis in DTP lectures (secondary) | supported with caveat |
 | Dreyfus 1999 | Students rarely meet the kinds of knowledge that proving needs, including what counts as an explanation (secondary) | supported with caveat |
 | Hanna 1990 | Separates proofs that only prove from proofs that also explain | convention, untested |
-| Lew & Mejia-Ramos 2019 | Students did not know language conventions that mathematicians took for granted, such as how objects are introduced | measured, qualitative |
+| Lew 2019 | Students did not know language conventions that mathematicians took for granted, such as how objects are introduced | measured, qualitative |
 
 ## 4. Structured and calculational proofs
 
@@ -105,8 +105,8 @@ The societies and publishers regulate form (abstract, theorem styles, length) an
 | Lamport 1995 | Rewriting conventional proofs in this form found serious errors in almost all of one co-authored paper's proofs | supported with caveat (anecdote) |
 | Lamport 2012 | Readability and rigor are separate goals; about 4 to 10 steps per level reads best; step names past level 4 are hard to read | convention, untested |
 | Lamport 2012 | A proof sketch may sit before any level, so a reader can stop at the sketch | convention, untested |
-| Dijkstra & Scholten 1990 | The calculational format: expression, relation, hint in braces, expression | convention, untested |
-| Gries & Schneider 1993 | A textbook built on calculational proofs for discrete mathematics | convention, untested |
+| Dijkstra 1990 | The calculational format: expression, relation, hint in braces, expression | convention, untested |
+| Gries 1993 | A textbook built on calculational proofs for discrete mathematics | convention, untested |
 | van Gasteren 1990 | A thesis on the shape of mathematical arguments from the same calculational school; not read for this review | not graded |
 | Back 2010 | Structured derivations unify forward, backward and calculational styles, for secondary and university teaching | convention, untested (its evaluations not read) |
 | Herbst 2002 | History of the school two-column proof: it fixed a format for proof and cost students' part in finding ideas | supported with caveat |
@@ -117,11 +117,11 @@ The societies and publishers regulate form (abstract, theorem styles, length) an
 |---|---|---|
 | Mejia-Ramos 2012 | Seven-dimension model: terms, logical status, justifications, high-level idea, modular structure, transfer, examples | supported with caveat (model, built from interviews and surveys) |
 | Mejia-Ramos 2017 | Method to build short, reliable multiple-choice comprehension tests per proof | measured |
-| Inglis & Alcock 2012 | Eye tracking, 18 students and 12 mathematicians (secondary count): students dwell on formulae; experts look back between consecutive lines about three times as often | measured |
-| Weber & Mejia-Ramos 2013, Inglis & Alcock 2013a | Dispute over whether mathematicians skim a proof first | contested |
+| Inglis 2012 | Eye tracking, 18 students and 12 mathematicians (secondary count): students dwell on formulae; experts look back between consecutive lines about three times as often | measured |
+| Weber 2013, Inglis 2013a | Dispute over whether mathematicians skim a proof first | contested |
 | Weber 2008 | 8 mathematicians validating proofs use formal, informal and example-based reasoning | measured, qualitative |
-| Weber & Mejia-Ramos 2011 | 9 mathematicians read by authority, line by line, or by modules | measured, qualitative |
-| Mejia-Ramos & Weber 2014 | Survey of 118 mathematicians on why and how they read proofs (secondary count) | measured, survey |
+| Weber 2011 | 9 mathematicians read by authority, line by line, or by modules | measured, qualitative |
+| Mejia-Ramos 2014 | Survey of 118 mathematicians on why and how they read proofs (secondary count) | measured, survey |
 | Inglis 2013b | 109 mathematicians disagreed on whether one calculus proof was valid | measured |
 | Fuller 2014 | Structured versus linear proof: structured readers better at picking a summary, somewhat worse on justifications, transfer and examples, mostly not significant | measured, one study |
 | Roy 2017b | e-Proof (N = 21) versus textbook proof (N = 28): equal at once, e-Proof group retained less after two weeks; time by group F(1,47) = 5.659, p = .021 | measured |

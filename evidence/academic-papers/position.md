@@ -51,7 +51,7 @@ This file states what the evidence settles, what it leaves open, and what this r
 - Each existing review covers one part: the CONSORT effect (Turner 2012), other guidelines (Stevens 2014), adherence interventions (Blanco 2019), summaries (Stoll 2022), policies (Bhavsar 2025), graphical abstracts (Krukowski 2023).
 - This review sets those parts side by side and adds what venues and publishers require, which the formal reviews mostly leave out.
 - It agrees with Stevens 2014 that endorsement evidence is thin outside CONSORT; it adds that venue checklists in machine learning have only self-reports and one corpus that finds gains before them (Coakley 2026).
-- It differs from Stoll 2022 on scope: that review asks what makes a summary good, this one also records which summaries a publisher requires (Taylor & Francis 2024, PLOS 2026).
+- It differs from Stoll 2022 on scope: that review asks what makes a summary good, this one also records which summaries a publisher requires (Taylor 2024 (Taylor & Francis), PLOS 2026).
 - It found no existing review of IMRaD, highlights or the whole front matter; that is a statement about this search.
 
 ## What this repository adds

@@ -18,20 +18,6 @@ answer = "One role: the record of how this topic's pool of sources was searched 
 
 [[answer]]
 check = "logical-lines"
-path = "evidence/academic-papers/review.md"
-question = "174 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "0a962c926081"
-answer = "One role: the reading log of this topic's literature, strand by strand, opening with `Existing reviews first, then the seminal work`. It stays whole."
-
-[[answer]]
-check = "logical-lines"
-path = "evidence/mathematical-writing/review.md"
-question = "102 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "6ca0e8b1192c"
-answer = "One role: the reading log of this topic's literature, titled `surveys, seminal works, forward citations`, one numbered strand after another. It stays whole."
-
-[[answer]]
-check = "logical-lines"
 path = "evidence/reports/protocol.md"
 question = "147 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
 file = "6baac318747f"
@@ -50,13 +36,6 @@ path = "evidence/academic-papers/against.md"
 question = "a long text with no figure, table or diagram: is a relation, set, quantity or process described only in words?"
 file = "81353f92754f"
 answer = "No: each bullet under headings such as `IMRaD hides the real process` is one claim with its source and grade, so there is no relation among items to draw; the claim-by-grade overview is already the table in README.md."
-
-[[answer]]
-check = "figures-present"
-path = "evidence/academic-papers/position.md"
-question = "a long text with no figure, table or diagram: is a relation, set, quantity or process described only in words?"
-file = "b5666d2313f2"
-answer = "Partly yes: the section `Where practice runs ahead of the evidence` pairs a rule's date with the first study's date in words (`Checklists were mandatory at NeurIPS from 2019`), which a small table of rule, year and first study would show at a glance; the Known and Not known lists are one claim per bullet and need no figure."
 
 [[answer]]
 check = "co-change"
@@ -206,23 +185,9 @@ file = "0aa304c2ff41"
 answer = "Keep them apart and let each stand: evidence/README.md indexes the topics and shapes/README.md indexes the shapes, two roles. They changed together because both carry the pinned link to the standard's v1.1.1 release (c0bb01c, c366dac) and both gained a row when the report was added (1c91862)."
 
 [[answer]]
-check = "logical-lines"
-path = "evidence/academic-papers/sources.md"
-question = "216 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "2678dd46199c"
-answer = "One role: the flow and the scored table of this topic's pool, as its opening says: `one scored row per source`. It stays whole."
-
-[[answer]]
 check = "paraphrase"
 path = "evidence/academic-papers/sources.md"
 question = "says nearly what evidence/reports/sources.md (line 170) says, similarity 0.92: one fact in two places?"
-file = "2678dd46199c"
-answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
-
-[[answer]]
-check = "paraphrase"
-path = "evidence/academic-papers/sources.md"
-question = "says nearly what evidence/reports/sources.md (line 65) says, similarity 0.91: one fact in two places?"
 file = "2678dd46199c"
 answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
 
@@ -248,13 +213,6 @@ file = "b37db90381bf"
 answer = "One mode, lookup: tables of who holds the record per sub-question, as it opens: `who holds the record on each sub-question`; the `Measured how` column describes a record and gives no procedure. It stays."
 
 [[answer]]
-check = "co-change"
-path = "evidence/academic-papers/sources.md"
-question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "2678dd46199c"
-answer = "Keep them apart: each is the source list of its own topic (`This file lists every source in the pool of this review`), in its own topic folder. They change together when one fix touches every topic at once (an audit, the citation keys, the figure outlines), which is not shared content."
-
-[[answer]]
 check = "document-mode"
 path = "evidence/reports/review.md"
 question = "reads about equally as how-to and reference: one mode per document?"
@@ -267,13 +225,6 @@ path = "evidence/academic-papers/flow.svg"
 question = "changed together with evidence/mathematical-writing/flow.svg in 3 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "76a02943084f"
 answer = "Keep them apart: each draws its own topic's pool of sources (`Included as new`). They change together when the shared flow script changes, as when its outline colours and its added rows were fixed: a tool, not shared content."
-
-[[answer]]
-check = "document-mode"
-path = "README.fr.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "8e2daf35349b"
-answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
 
 [[answer]]
 check = "logical-lines"
@@ -353,13 +304,6 @@ file = "e41f704f06c5"
 answer = "One mode, how-to: the steps for changing the repository (`## Before writing`, `## Before handing back`). The rules it lists are steps of that task, and the reference they come from is linked, not repeated."
 
 [[answer]]
-check = "document-mode"
-path = "shapes/research-paper.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "4d4a50f73818"
-answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
-
-[[answer]]
 check = "co-change"
 path = ".github/workflows/checks.yml"
 question = "changed together with AGENTS.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
@@ -421,3 +365,94 @@ path = "evidence/README.md"
 question = "changed together with shapes/proof.md in 12 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "e7c207e1a6b5"
 answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and shapes/proof.md has another role. They change together only when a release of reader-ergonomics is pinned, since both link it: a version string, not shared content."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/review.md"
+question = "174 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "cca73c88dfbb"
+answer = "One role: the reading log of this topic's literature, strand by strand, opening with `Existing reviews first, then the seminal work`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/sources.md"
+question = "216 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "3b491b191b55"
+answer = "One role: the flow and the scored table of this topic's pool, as its opening says: `one scored row per source`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/mathematical-writing/review.md"
+question = "102 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "09ca7e2e1942"
+answer = "One role: the reading log of this topic's literature, titled `surveys, seminal works, forward citations`, one numbered strand after another. It stays whole."
+
+[[answer]]
+check = "figures-present"
+path = "evidence/academic-papers/position.md"
+question = "a long text with no figure, table or diagram: is a relation, set, quantity or process described only in words?"
+file = "0d65b7c6b31f"
+answer = "Partly yes: the section `Where practice runs ahead of the evidence` pairs a rule's date with the first study's date in words (`Checklists were mandatory at NeurIPS from 2019`), which a small table of rule, year and first study would show at a glance; the Known and Not known lists are one claim per bullet and need no figure."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/sources.md"
+question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "3b491b191b55"
+answer = "Keep them apart: each is the source list of its own topic (`This file lists every source in the pool of this review`), in its own topic folder. They change together when one fix touches every topic at once (an audit, the citation keys, the figure outlines), which is not shared content."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 170) says, similarity 0.92: one fact in two places?"
+file = "3b491b191b55"
+answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 65) says, similarity 0.91: one fact in two places?"
+file = "3b491b191b55"
+answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
+
+[[answer]]
+check = "document-mode"
+path = "README.fr.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "10b3a52fcb44"
+answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
+
+[[answer]]
+check = "document-mode"
+path = "shapes/research-paper.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "ed73227167a5"
+answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/baseline.md"
+question = "changed together with evidence/mathematical-writing/against.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "4f02be334045"
+answer = "Keep them apart: evidence/academic-papers/baseline.md is a step of its own topic (`# Baseline`) and evidence/mathematical-writing/against.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/review.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "cca73c88dfbb"
+answer = "Keep them apart: evidence/academic-papers/review.md is a step of its own topic (`# Review`) and evidence/mathematical-writing/review.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/review.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "cca73c88dfbb"
+answer = "Keep them apart: evidence/academic-papers/review.md is a step of its own topic (`# Review`) and evidence/mathematical-writing/state-of-the-art.md a step of another. They changed together in passes over every topic at once, the citation keys and the sentence pass of 2026-10-29, not through shared content."
+
+[[answer]]
+check = "section-cohesion"
+path = "README.md"
+question = "section 'Check it' is far from every other section (0.24): a second role?"
+file = "af8b5b76f2da"
+answer = "Keep it: a front page ends on how to check the repository (`## Check it`), as every repository of the family does; the section is the reader's last step, not a second role."

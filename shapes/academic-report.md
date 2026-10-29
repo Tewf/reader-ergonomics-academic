@@ -103,7 +103,7 @@ slowly. It cites no study for that statement, so the statement is marked as the 
 ## Skeleton
 
 Copy this into a new file, or start from the LaTeX version, [academic-report.tex](academic-report.tex). Each part says
-which kinds need it; delete the parts your kind leaves out.
+which kinds need it; delete the parts your kind leaves out, then number those left; LaTeX numbers its sections itself.
 
 ````markdown
 # Title that states the finding
@@ -123,45 +123,63 @@ Author, school and degree, course or host organisation, supervisor, date. The sc
 
 > MT and TR; PR and IR past 20 pages.
 
-## 1. Introduction
+## Introduction
 
 > All kinds. The question, its scope and the plan of the report. MT: end with the contribution in one sentence.
 > PR and TR: the background the question needs, briefly, here rather than in a chapter.
 
-## 2. Contexte · Host organisation
+## Contexte · Host organisation
 
 > IR only. One page: what the organisation does, and where the internship sat in it. The rest goes to an appendix.
 
-## 3. Mission et objectifs · Mission and objectives
+## Mission et objectifs · Mission and objectives
 
 > PR and IR. The objective and the test that says it is met; IR: the learning objectives too.
 
-## 4. État de l'art · Literature and background
+## État de l'art · Literature and background
 
-> MT only, as a chapter. Open with a one-paragraph answer; end each section on what it implies for the question.
+> MT only, as a chapter; PR and TR keep it short, in the introduction. Examiners often form their first impression
+> here, and give about a tenth of their report to it (Mullins 2002; Holbrook 2007, both of doctoral theses). Open with a
+> one-paragraph answer: what is known, what is missing, and where this thesis stands.
 
-## 5. Méthode · Method
+### Champ et recherche · Scope and search
+
+> What the chapter covers and leaves out, and how the sources were found: databases, terms, dates.
+
+### Thèmes · Themes
+
+> One section per theme, not per source, each ending on what it implies for the question.
+
+### Le manque · The gap
+
+> What no source settles, stated as a claim this thesis can test.
+
+### Position · Position
+
+> Where this thesis stands, and the method the gap calls for; it leads into the method chapter.
+
+## Méthode · Method
 
 > All kinds. The approach, why this one, and what it cannot show. One step per subsection, named by what it achieves,
 > the figure of the process first.
 
-## 6. Résultats · Results
+## Résultats · Results
 
 > All kinds. One subsection per result, its headline sentence first, the figure beside the text that explains it.
 
-## 7. Discussion
+## Discussion
 
 > All kinds. What the results mean, how they compare with the literature, and their limits; no claim beyond the data.
 
-## 8. Retour réflexif · Reflection
+## Retour réflexif · Reflection
 
-> IR only. What was learnt, against the learning objectives stated in section 3.
+> IR only. What was learnt, against the learning objectives stated under Mission and objectives.
 
-## 9. Conclusion
+## Conclusion
 
 > All kinds. The answer again, standing alone: a reader who opens the report here understands it. Nothing new.
 
-## 10. Recommandations et perspectives · Recommendations and perspectives
+## Recommandations et perspectives · Recommendations and perspectives
 
 > IR, MT and TR, only when the report proposes action. MT: the purpose restated and the contribution consolidated.
 

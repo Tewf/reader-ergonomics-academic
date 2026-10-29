@@ -1,0 +1,100 @@
+% Academic report shape: one skeleton for four kinds, every heading in French and English.
+% Same parts and order as academic-report.md; the comment above each part says which kinds need it.
+% Kinds: PR project report, IR internship report, MT master's thesis, TR technical report.
+% Delete the parts your kind leaves out. Standard article class; compiles with pdflatex (run it twice).
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[french,english]{babel}
+
+% A heading in both languages: \bi{French}{English}.
+\newcommand{\bi}[2]{#1 \textperiodcentered{} #2}
+
+% Title page, all kinds: the finding, then the school's items. State the school's length limit here if it sets one.
+\title{Title that states the finding}
+\author{Author\\ \small School and degree, course or host organisation\\ \small Supervisor: name}
+\date{Date}
+
+\begin{document}
+\maketitle
+
+% All kinds but PR, where it is optional: question, method, result and limit, about 200 words.
+% The same text in French and English when the school asks, with at most five keywords.
+\section*{\bi{Résumé}{Abstract}}
+The question, the method, the result and its limit.
+
+\noindent\textbf{Mots-clés · Keywords:} at most five terms.
+
+% MT and TR; optional for PR and IR: the answer and what to do, in one page.
+\section*{\bi{Synthèse}{Executive summary}}
+The answer and what to do, for a reader who reads nothing else.
+
+% MT and TR; PR and IR past 20 pages.
+\renewcommand{\contentsname}{\bi{Sommaire}{Contents}}
+\tableofcontents
+
+% All kinds: the question, its scope and the plan. MT: end with the contribution in one sentence.
+% PR and TR: the background the question needs, briefly, here rather than in a chapter.
+\section{Introduction}
+The question, its scope and the plan of the report.
+
+% IR only: one page; the rest goes to an appendix.
+\section{\bi{Contexte}{Host organisation}}
+What the organisation does, and where the internship sat in it.
+
+% PR and IR: the objective and the test that says it is met; IR: the learning objectives too.
+\section{\bi{Mission et objectifs}{Mission and objectives}}
+The objective, and how to tell it is met.
+
+% MT only, as a chapter: open with a one-paragraph answer; end each section on what it implies for the question.
+\section{\bi{État de l'art}{Literature and background}}
+The answer first, then the works it rests on.
+
+% All kinds: the approach, why this one, what it cannot show; one step per subsection, named by what it achieves.
+\section{\bi{Méthode}{Method}}
+\subsection{First step, named by what it achieves}
+The figure of the process first, then how and why.
+
+% All kinds: one subsection per result, its headline sentence first, the figure beside its text.
+\section{\bi{Résultats}{Results}}
+\subsection{First result, stated as a sentence}
+The headline sentence, the number, then the figure.
+
+% All kinds: what the results mean, how they compare, their limits; no claim beyond the data.
+\section{Discussion}
+What the results mean, and their limits.
+
+% IR only: what was learnt, against the learning objectives of the mission section.
+\section{\bi{Retour réflexif}{Reflection}}
+What was learnt, objective by objective.
+
+% All kinds: the answer again, standing alone. Nothing new.
+\section{Conclusion}
+The answer, so that a reader who opens the report here understands it.
+
+% IR, MT and TR, only when the report proposes action.
+\section{\bi{Recommandations et perspectives}{Recommendations and perspectives}}
+What to do next, and why.
+
+% Optional, IR and MT, at the back so that the answer comes first.
+\section*{\bi{Remerciements}{Acknowledgements}}
+Thanks.
+
+% MT and TR: every term defined at first use, and listed here.
+\section*{\bi{Glossaire}{Glossary}}
+\begin{description}
+  \item[Term] Its definition, as at its first use.
+\end{description}
+
+% All kinds, in the school's style; every entry with a DOI or a stable URL.
+\renewcommand{\refname}{\bi{Bibliographie}{References}}
+\begin{thebibliography}{9}
+  \bibitem{placeholder} Author (Year). Title. Venue. DOI.
+\end{thebibliography}
+
+% Detail a reader can skip: the host organisation's longer presentation, raw data, code listings.
+\appendix
+\section{\bi{Annexes}{Appendices}}
+Supporting material.
+
+\end{document}

@@ -12,8 +12,8 @@ and the shapes of their documents. Where an academic convention and a principle 
 says which one wins, and why.
 
 > **Status:** work in progress. Two multivocal reviews are written in [evidence/](evidence/), and their numbers were
-> audited on 2026-10-28; a third, on reports, is being written. The shapes of a paper, an article and a proof exist;
-> the shape of a report is not started. It is an informal reading of published research and practice: not an
+> audited on 2026-10-28; a third, on reports, is written and audited. The shapes of a paper, an article and a proof exist;
+> the shape of a report is a first draft. It is an informal reading of published research and practice: not an
 > official standard, not a peer-reviewed study, not a new result, and not a claim to the state of the art.
 >
 > **How it is made:** with Claude, an AI assistant by Anthropic, under the maintainer's direction, the way
@@ -37,9 +37,9 @@ academic writing
 | Part | Holds | State |
 |---|---|---|
 | [evidence/](evidence/) | two reviews: research papers, mathematical writing | written, audited |
-| evidence on reports | the genre, its standards, its readers, and where academic convention and the standard conflict | being written |
+| [evidence/reports/](evidence/reports/) | the report as a genre: its standards, its readers and examiners, and where academic convention and the standard conflict | written, audited; a second pass on examiners being merged |
 | [shapes/](shapes/) | the skeletons of a research paper, a mathematical article and a proof | written |
-| shape of a report | one template for the four kinds of report | not started |
+| [shapes/academic-report](shapes/academic-report.md) | one template for the four kinds of report, headings in French and English | first draft; not yet tested on a real report |
 
 Presentations began here and moved to a repository of their own,
 [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations), on 2026-10-29: the two reviews shared 2 of 370 works.

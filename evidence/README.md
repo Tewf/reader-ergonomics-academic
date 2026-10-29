@@ -8,6 +8,7 @@ case against, baseline. Every work cited is listed once in the [bibliography](bi
 |---|---|
 | [academic-papers](academic-papers/) | how a research article is ordered, what the evidence says about that order, and what templates enforce |
 | [mathematical-writing](mathematical-writing/) | how a mathematical article and each proof in it should be laid out for the reader |
+| [reports](reports/) | how a course project report, an internship report, a master's thesis and a technical report are ordered, who reads and grades them, and where academic convention and the standard conflict |
 
 ## Method
 
@@ -25,7 +26,7 @@ A grey source is scored on Garousi's 20 criteria, in eight groups. The `sources.
 (1), T outlet tier (1). Below 10 of 20 it may illustrate what practice does, but it never supports a claim.
 
 Each review keeps two records apart: **most adopted**, a practice record, and **best evidence**, a research record.
-Practice counts as evidence only where a study measured its effect. The formal search of these two topics was
+Practice counts as evidence only where a study measured its effect. The formal search of the papers and mathematical-writing topics was
 narrative, with snowballing; their protocol files record its terms and counts after the fact, and say so. The grey
 search was run to the protocol.
 
@@ -48,6 +49,11 @@ The presentations review, audited the same day, moved to its own repository,
 [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations), on 2026-10-29.
 
 On 2026-10-28, seventeen claims the audits could not verify were checked against the full texts. The university's access gave the texts. The result: 9 correct, 6 imprecise, 1 wrong and 1 still unverifiable, and the files were corrected to match. Some of those claims were on presentations, and moved with that review.
+
+The reports review was written in two passes and audited after each, on 2026-10-29. The first pass: 135 lines, 97
+correct, 22 imprecise, 14 unverifiable and 2 wrong. The second, on examiners and on putting the summary first: 101
+lines, 62 correct, 21 imprecise, 15 unverifiable and 3 wrong. Its paywalled sources are being read in full through
+the university's access.
 
 Every wrong, imprecise or unverifiable line was corrected, narrowed to what the source supports, or marked "(secondary)" or
 "not checked", here and in the shapes that repeat it. Claims without a number have not been audited this way, so such a

@@ -25,13 +25,6 @@ answer = "One role: the reading log of this topic's literature, strand by strand
 
 [[answer]]
 check = "logical-lines"
-path = "evidence/mathematical-writing/protocol.md"
-question = "91 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "45cf96d2e421"
-answer = "One role: the record of how this topic's formal and grey sources were searched, selected and scored, as it opens: `how the formal and grey sources of this review were searched`. It stays whole."
-
-[[answer]]
-check = "logical-lines"
 path = "evidence/mathematical-writing/review.md"
 question = "102 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
 file = "6ca0e8b1192c"
@@ -50,13 +43,6 @@ path = "evidence/reports/review.md"
 question = "152 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
 file = "80490bd8726c"
 answer = "One role: the reading log of the reports literature, strand by strand, opening with `Existing reviews first, then the seminal work by strand`; the second pass adds strands, not a new role. It stays whole."
-
-[[answer]]
-check = "logical-lines"
-path = "evidence/reports/sources.md"
-question = "180 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "17185d8178e0"
-answer = "One role: the scored pool of both passes, as it opens: `Every source the two passes on reports included or set aside`. It stays whole."
 
 [[answer]]
 check = "figures-present"
@@ -178,13 +164,6 @@ file = "e83aa8d61200"
 answer = "One mode, lookup: the vocabulary of the field, as it opens: `lists what the fields that study reports call its parts`; the `Sub-questions` table and the two-line `Method` pointer are reference too, with no steps to follow. It stays."
 
 [[answer]]
-check = "section-cohesion"
-path = "evidence/reports/against.md"
-question = "section '6. Grids are one teacher's rule' is far from every other section (0.24): a second role?"
-file = "9cf11ede7220"
-answer = "No second role: it is evidence against, like sections 1 to 8, saying why the French grading grids are weak support (`Weights of 7 and 13 out of 20 are choices`)."
-
-[[answer]]
 check = "co-change"
 path = "evidence/README.md"
 question = "changed together with evidence/academic-papers/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
@@ -297,41 +276,6 @@ file = "8e2daf35349b"
 answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
 
 [[answer]]
-check = "logical-lines"
-path = "shapes/academic-report.md"
-question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "84ebce588ba3"
-answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
-
-[[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "9c382d5d9015"
-answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/review.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
-
-[[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "9c382d5d9015"
-answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/sources.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
-
-[[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "9c382d5d9015"
-answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/state-of-the-art.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
-
-[[answer]]
-check = "co-change"
-path = "evidence/README.md"
-question = "changed together with shapes/README.md in 7 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
-file = "9c382d5d9015"
-answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
-
-[[answer]]
 check = "document-mode"
 path = "AGENTS.md"
 question = "reads about equally as reference and how-to: one mode per document?"
@@ -344,3 +288,59 @@ path = "shapes/research-paper.md"
 question = "reads about equally as how-to and reference: one mode per document?"
 file = "6a36f5d97fe7"
 answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/mathematical-writing/protocol.md"
+question = "96 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "6ea3bc017704"
+answer = "One role: the record of how this topic's formal and grey sources were searched, selected and scored, as it opens: `how the formal and grey sources of this review were searched`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/reports/sources.md"
+question = "180 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "8cf36e9b4b97"
+answer = "One role: the scored pool of both passes, as it opens: `Every source the two passes on reports included or set aside`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "shapes/academic-report.md"
+question = "83 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "9237edcaecde"
+answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6e9ed3adbab1"
+answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/review.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6e9ed3adbab1"
+answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/sources.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6e9ed3adbab1"
+answer = "Keep them apart: evidence/README.md is the index of topics and the shared method (`One literature review per topic`), and evidence/mathematical-writing/state-of-the-art.md is one step of one topic. They changed together in audits and release-link raises that touched every topic, not through shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with shapes/README.md in 8 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6e9ed3adbab1"
+answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
+
+[[answer]]
+check = "section-cohesion"
+path = "evidence/reports/against.md"
+question = "section '6. Grids are one teacher's rule' is far from every other section (0.24): a second role?"
+file = "fae3f3e039a9"
+answer = "No second role: it is evidence against, like sections 1 to 8, saying why the French grading grids are weak support (`Weights of 7 and 13 out of 20 are choices`)."

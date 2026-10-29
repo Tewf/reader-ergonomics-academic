@@ -203,4 +203,12 @@ For a formal source the quality column holds the evidence grade and what was rea
 | UGA 2026 | grey tier 2 | G16 | 10: A3.5 M2 O2.5 D0.5 P0 N0.5 I0.5 T0.5 (fiche last updated 2024-09-06, catalogue generated 2026-10-29; the D subtotal 0.5 is to be rechecked now the date is known; Master STAPS, not the M1 AI course) | review-pass2 |
 | BTS 2010 | grey tier 2 (example of practice only) | G14 | 9: A3 M2 O2.5 D0 P0 N0.5 I0.5 T0.5 (BTS is not master level) | review-pass2 |
 
-Score arithmetic checked: Army 4+3.5+2+1+0.5+1+1+1 = 14; UT 3.5+3+2.5+1+0+1+0.5+0.5 = 12; ULB 3.5+2+2.5+1+0+0.5+0.5+0.5 = 10.5; UGA 3.5+2+2.5+0.5+0+0.5+0.5+0.5 = 10; BTS 3+2+2.5+0+0+0.5+0.5+0.5 = 9. No subtotal exceeds its maximum.
+Score arithmetic, checked; no subtotal exceeds its maximum:
+
+| Source | A + M + O + D + P + N + I + T | Total |
+|---|---|---|
+| Army | 4 + 3.5 + 2 + 1 + 0.5 + 1 + 1 + 1 | 14 |
+| UT | 3.5 + 3 + 2.5 + 1 + 0 + 1 + 0.5 + 0.5 | 12 |
+| ULB | 3.5 + 2 + 2.5 + 1 + 0 + 0.5 + 0.5 + 0.5 | 10.5 |
+| UGA | 3.5 + 2 + 2.5 + 0.5 + 0 + 0.5 + 0.5 + 0.5 | 10 |
+| BTS | 3 + 2 + 2.5 + 0 + 0 + 0.5 + 0.5 + 0.5 | 9 |

@@ -20,7 +20,13 @@ Five yes answers include grey literature. Garousi 2019 notes that bounded academ
 
 ## 2. Questions
 
-Q1 to Q5 of frame.md: section order, place of the main results, layout of one proof, effect of layout on comprehension, explicit dependencies between lemmas.
+Q1 to Q5 of [frame.md](frame.md):
+
+- Q1: section order;
+- Q2: place of the main results;
+- Q3: layout of one proof;
+- Q4: effect of layout on comprehension;
+- Q5: explicit dependencies between lemmas.
 
 ## 3. Existing reviews (Garousi Guideline 2)
 

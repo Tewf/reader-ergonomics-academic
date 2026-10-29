@@ -20,9 +20,20 @@ which reads together research and **grey literature** (standards, company practi
 | `protocol.md` | why grey literature is included, the questions, every search string with its date and count, the stopping rule, the selection criteria |
 | `sources.md` | every included source, how it was found, and its quality: the evidence grade for research, a score out of 20 for grey literature |
 
-A grey source is scored on Garousi's 20 criteria, in eight groups. The `sources.md` tables abbreviate these score groups: A authority
-(of 4), M methodology (6), O objectivity (4), D date (1), P position among related sources (1), N novelty (2), I impact
-(1), T outlet tier (1). A source whose score is below 10 of 20 may illustrate what practice does, but it never supports a claim.
+A grey source is scored on Garousi's 20 criteria, in eight groups, which the `sources.md` tables name by a letter:
+
+| Letter | Group | Points |
+|---|---|---|
+| A | authority | 4 |
+| M | methodology | 6 |
+| O | objectivity | 4 |
+| D | date | 1 |
+| P | position among related sources | 1 |
+| N | novelty | 2 |
+| I | impact | 1 |
+| T | outlet tier | 1 |
+
+A source whose score is below 10 of 20 may illustrate what practice does, but it never supports a claim.
 
 Each review keeps two records apart: **most adopted**, a practice record, and **best evidence**, a research record.
 Practice counts as evidence only where a study measured its effect. The formal search of the papers and mathematical-writing topics was

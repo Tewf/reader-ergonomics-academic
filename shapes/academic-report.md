@@ -72,9 +72,10 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Language and presentation | form corrected by the checks, not tuned past them | presentation errors make examiners read more critically (Golding 2014); graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
 | Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); examiners spend three or four days on a thesis, spread over two to three weeks (Mullins 2002) | convention, untested |
 
-Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). The reading order and the timing of examiners come from Mullins 2002, read in full: interviews with 30 experienced
-examiners. Golding 2014, a review of 30 studies of thesis examination, also read in full, adds that the first impression
-changes only slowly. It cites no study for that statement, so it is marked as the review's own.
+Each key (Author Year) is listed in the [bibliography](../evidence/bibliography.md). Of those keys, Mullins 2002, read in
+full, gives the reading order and the timing of examiners, from interviews with 30 experienced examiners. Golding 2014,
+read in full too, reviews 30 studies of thesis examination and adds that an examiner's first impression changes only
+slowly. It cites no study for that statement, so the statement is marked as the review's own.
 
 ## Where academic convention and the standard disagree
 

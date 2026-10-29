@@ -45,5 +45,5 @@ This file gathers the evidence against the claims of this review, and the limits
 
 ## 9. Method limits
 
-The limits of the search itself (closed pages, no hit counts, the stopping rules) are in the
-[protocol](protocol.md); they are limits of how the review was made, not evidence against the shape.
+The [protocol](protocol.md) lists the limits of the search itself: closed pages, no hit counts, the stopping rules.
+They are limits of how the review was made, not evidence against the shape.

@@ -10,6 +10,7 @@ This file lists every source in the pool of this review: the search flow, what w
 | Screened | not recorded | not recorded |
 | Included as new | 11 | 12 |
 | Carried from the earlier pass | 101 | 23 |
+| Cited without being read | 3 | 0 |
 | In the review | 115 | 35 |
 
 - Formal:
@@ -26,7 +27,7 @@ In the review: the academic papers source rows of each kind, counted by script.
 
 The figure draws the stages of the table for academic papers.
 
-![83 formal and 182 grey results were returned. 11 formal sources and 12 grey sources were added, and 101 formal and 23 grey were carried, for 115 formal and 35 grey sources in the review, 150 in all.](flow.svg)
+![83 formal and 182 grey results were returned. 11 formal sources and 12 grey sources were added, 101 formal and 23 grey were carried, and 3 formal were cited without being read, for 115 formal and 35 grey sources in the review, 150 in all.](flow.svg)
 
 ### By string
 

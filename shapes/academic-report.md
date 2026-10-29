@@ -3,7 +3,7 @@
 The shape of a report written for a course, an internship, a master's degree or a lab. It is one skeleton for four
 kinds, each part marked with the kinds that need it, and every heading is in French and in English.
 
-Its body is the [report shape of reader-ergonomics](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/shapes/report.md), a solved
+Its body is the [report shape of reader-ergonomics](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/shapes/report.md), a solved
 problem written up step by step. This shape puts that body inside the frame an institution asks for: a title page, an
 abstract, the context, the references. The evidence is the [reports review](../evidence/reports/), and its baseline is
 the technical-report standard NISO 2010.
@@ -92,13 +92,13 @@ slowly. It cites no study for that statement, so the statement is marked as the 
 
 | Part | Principle |
 |---|---|
-| Abstract, summary, a conclusion that stands alone | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/document/overview-first.md) |
-| Method and results as steps named by what they achieve | [worked examples with subgoals](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/document/worked-examples-with-subgoals.md) |
-| Objectives and terms defined before the method uses them; a glossary | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/document/define-before-use.md) |
-| A figure for each process and relation, beside its text | [draw relations](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/page/draw-relations.md), [figure next to its text](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/page/figure-next-to-its-text.md) |
-| Results kept apart from discussion | [one mode per document](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/document/one-mode-per-document.md) |
-| Headings that state the claim, on at most three levels | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/page/signal-the-structure.md), [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/document/shallow-outline.md) |
-| Detail moved to appendices | [size is a prompt](https://github.com/Tewf/reader-ergonomics/blob/v1.11.0/principles/collection/size-is-a-prompt.md) |
+| Abstract, summary, a conclusion that stands alone | [overview first](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/document/overview-first.md) |
+| Method and results as steps named by what they achieve | [worked examples with subgoals](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/document/worked-examples-with-subgoals.md) |
+| Objectives and terms defined before the method uses them; a glossary | [define before use](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/document/define-before-use.md) |
+| A figure for each process and relation, beside its text | [draw relations](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/page/draw-relations.md), [figure next to its text](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/page/figure-next-to-its-text.md) |
+| Results kept apart from discussion | [one mode per document](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/document/one-mode-per-document.md) |
+| Headings that state the claim, on at most three levels | [signal the structure](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/page/signal-the-structure.md), [shallow outline](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/document/shallow-outline.md) |
+| Detail moved to appendices | [size is a prompt](https://github.com/Tewf/reader-ergonomics/blob/v1.12.0/principles/collection/size-is-a-prompt.md) |
 
 ## Skeleton
 

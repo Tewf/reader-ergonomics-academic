@@ -20,7 +20,8 @@ the technical-report standard NISO 2010.
 - Not for an article sent to a journal: use the [research paper](research-paper.md) shape.
 - Not for a single long proof: use the [proof](proof.md) shape.
 - When the course or the school prescribes its own headings, keep them and their order, and map each one to a part
-  below. No study says otherwise, so the school's rule wins.
+  below. No study says otherwise, so the school's rule wins. Parts the school does not name, such as the
+  introduction or the conclusion, go before and after its headings, never inside them.
 - The defence (soutenance) is a talk, and belongs to
   [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations).
 
@@ -42,6 +43,8 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Reflection on the objectives | · | ✓ | · | · |
 | Conclusion, standing alone | ✓ | ✓ | ✓ | ✓ |
 | Recommendations and perspectives | · | ✓ | ✓ | ✓ |
+| Contributions, when several authors | ✓ | · | · | ✓ |
+| Use of AI tools, when the school asks | ✓ | ✓ | ✓ | ✓ |
 | Acknowledgements, at the back | · | opt | opt | · |
 | Glossary | · | · | ✓ | ✓ |
 | References, appendices | ✓ | ✓ | ✓ | ✓ |
@@ -63,6 +66,8 @@ Each part, and the kinds that need it (✓ needed, opt optional, · left out):
 | Reflection | for an internship, what was learnt against the stated objectives | UT 2024; UGA 2026 | convention, untested |
 | Conclusion | repeats the answer and stands alone, with nothing new | NISO 2010; Pinelli 1982 (self-report survey); Golding 2014 | supported with caveat: no controlled test of conclusion first |
 | Recommendations | only when the report proposes action; in a thesis, the purpose restated and consolidated | NISO 2010; Bunton 2005 | convention, untested |
+| Contributions | who did and wrote what, in a report by a team | the school's or the course's rule | convention, untested |
+| Use of AI tools | whether and how AI tools were used, in the words the school asks for; for a journal, the research paper shape's declaration | the school's or the course's rule | convention, untested |
 | Headings | chapter labels stay conventional; headings below them state the claim | Lorch 1996 (free recall, unfamiliar topics) | measured in that setting; untested for reports |
 | Language and presentation | form corrected by the checks, not tuned past them | Golding 2014; graders agree poorly on form (Brown 2023, in its first round; Bodnar 2018) | supported with caveat |
 | Length | the school's limit, stated on the title page; in a thesis, each chapter opens with a recap and ends with a bridge, since it is read in sittings | EOST 2026 (example); Golding 2014 | convention, untested |
@@ -158,6 +163,14 @@ Author, school and degree, course or host organisation, supervisor, date. The sc
 ## 10. Recommandations et perspectives · Recommendations and perspectives
 
 > IR, MT and TR, only when the report proposes action. MT: the purpose restated and the contribution consolidated.
+
+## Contributions
+
+> PR and TR written by more than one author. Who did and wrote what.
+
+## Déclaration d'usage de l'IA · Use of AI tools
+
+> All kinds, when the school or the course asks. Whether and how AI tools were used, in its words.
 
 ## Remerciements · Acknowledgements
 

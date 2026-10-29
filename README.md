@@ -39,7 +39,7 @@ academic writing
 | [evidence/](evidence/) | two reviews: research papers, mathematical writing | written, audited |
 | [evidence/reports/](evidence/reports/) | the report as a genre: its standards, its readers and examiners, and where academic convention and the standard conflict | written, audited; a second pass on examiners being merged |
 | [shapes/](shapes/) | the skeletons of a research paper, a mathematical article and a proof | written |
-| [shapes/academic-report](shapes/academic-report.md) | one template for the four kinds of report, headings in French and English | first draft; not yet tested on a real report |
+| [shapes/academic-report](shapes/academic-report.md) | one template for the four kinds of report, headings in French and English | first draft; tested once, for structure, on a course project report |
 
 Presentations began here and moved to a repository of their own,
 [reader-ergonomics-presentations](https://github.com/Tewf/reader-ergonomics-presentations), on 2026-10-29: the two reviews shared 2 of 370 works.

@@ -1,0 +1,270 @@
+# Answers to the questions the checks leave for judgment (see checks/framework/judgment.py).
+# An answer holds while its file is unchanged: `file` is the first 12 hex characters of the file's
+# SHA-256 when the answer was given, and an edit to the file asks the question again.
+
+[[answer]]
+check = "tree-shape"
+path = "checks"
+question = "2 entries: fold into the parent folder, unless this folder is one record of a collection (a job, a chapter, a topic)."
+file = ""
+answer = "It stays: its two entries, config.toml and judgments.toml, are the files the standard runner reads from checks/ in this repository, so they cannot fold into the root without breaking that path; the folder is not a record of a collection but is fixed by the runner."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/protocol.md"
+question = "129 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "361225a1c88a"
+answer = "One role: the record of how this topic's pool of sources was searched and selected, from `Why grey literature` to `Stopping rule (Garousi Guideline 8)` and the limits; the pool itself is in sources.md. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/review.md"
+question = "174 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "42a4863adad5"
+answer = "One role: the reading log of this topic's literature, strand by strand, opening with `Existing reviews first, then the seminal work`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/sources.md"
+question = "215 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "45a46e8ce4fb"
+answer = "One role: the flow and the scored table of this topic's pool, as its opening says: `one scored row per source`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/mathematical-writing/protocol.md"
+question = "91 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "45cf96d2e421"
+answer = "One role: the record of how this topic's formal and grey sources were searched, selected and scored, as it opens: `how the formal and grey sources of this review were searched`. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/mathematical-writing/review.md"
+question = "102 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "6ca0e8b1192c"
+answer = "One role: the reading log of this topic's literature, titled `surveys, seminal works, forward citations`, one numbered strand after another. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/reports/protocol.md"
+question = "147 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "551d0f2aff82"
+answer = "One role: the search record for reports, written so that `either can be rerun`; the second pass (`Second pass (2026-10-29): examiners, and summary first`) repeats the same steps for new questions rather than adding a second role. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/reports/review.md"
+question = "152 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "b933c23fb730"
+answer = "One role: the reading log of the reports literature, strand by strand, opening with `Existing reviews first, then the seminal work by strand`; the second pass adds strands, not a new role. It stays whole."
+
+[[answer]]
+check = "logical-lines"
+path = "evidence/reports/sources.md"
+question = "180 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "17185d8178e0"
+answer = "One role: the scored pool of both passes, as it opens: `Every source the two passes on reports included or set aside`. It stays whole."
+
+[[answer]]
+check = "figures-present"
+path = "evidence/academic-papers/against.md"
+question = "a long text with no figure, table or diagram: is a relation, set, quantity or process described only in words?"
+file = "6d91f4adafc3"
+answer = "No: each bullet under headings such as `IMRaD hides the real process` is one claim with its source and grade, so there is no relation among items to draw; the claim-by-grade overview is already the table in README.md."
+
+[[answer]]
+check = "figures-present"
+path = "evidence/academic-papers/position.md"
+question = "a long text with no figure, table or diagram: is a relation, set, quantity or process described only in words?"
+file = "3b6c07f45c5b"
+answer = "Partly yes: the section `Where practice runs ahead of the evidence` pairs a rule's date with the first study's date in words (`Checklists were mandatory at NeurIPS from 2019`), which a small table of rule, year and first study would show at a glance; the Known and Not known lists are one claim per bullet and need no figure."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/academic-papers/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart: evidence/README.md is the index and the shared method, and evidence/academic-papers/protocol.md is one step file of the topic academic-papers, one record of a collection of topics. They changed together in audit commits that corrected numbers and wording across the repository (for example d04203b, a5455ab, 668a43a), so a link from the index is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart: evidence/README.md is the index and the shared method, and evidence/mathematical-writing/review.md is one step file of the topic mathematical-writing, one record of a collection of topics. They changed together in audit commits that corrected numbers and wording across the repository (for example d04203b, a5455ab, 668a43a), so a link from the index is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart: evidence/README.md is the index and the shared method, and evidence/mathematical-writing/sources.md is one step file of the topic mathematical-writing, one record of a collection of topics. They changed together in audit commits that corrected numbers and wording across the repository (for example d04203b, a5455ab, 668a43a), so a link from the index is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart: evidence/README.md is the index and the shared method, and evidence/mathematical-writing/state-of-the-art.md is one step file of the topic mathematical-writing, one record of a collection of topics. They changed together in audit commits that corrected numbers and wording across the repository (for example d04203b, a5455ab, 668a43a), so a link from the index is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with evidence/reports/protocol.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart: evidence/README.md is the index and the shared method, and evidence/reports/protocol.md is one step file of the topic reports, one record of a collection of topics. They changed together in audit commits that corrected numbers and wording across the repository (for example d04203b, a5455ab, 668a43a), so a link from the index is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with shapes/README.md in 4 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "57204c246fd8"
+answer = "Keep them apart and let each stand: evidence/README.md indexes the topics and shapes/README.md indexes the shapes, two roles. They changed together because both carry the pinned link to the standard's v1.1.1 release (c0bb01c, c366dac) and both gained a row when the report was added (1c91862)."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/against.md"
+question = "changed together with evidence/mathematical-writing/against.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6d91f4adafc3"
+answer = "Keep them apart: evidence/academic-papers/against.md and evidence/mathematical-writing/against.md are the same step file of two sibling topics (academic-papers, mathematical-writing), each one record of a collection, so they belong in their own topic folders. They changed together because the two topics are audited and reworded in one commit (d04203b, a5455ab, 941b0fa); the evidence README already lists both."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/against.md"
+question = "changed together with evidence/mathematical-writing/position.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6d91f4adafc3"
+answer = "Keep them apart: evidence/academic-papers/against.md is the against step of the topic academic-papers and evidence/mathematical-writing/position.md is the position step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/against.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6d91f4adafc3"
+answer = "Keep them apart: evidence/academic-papers/against.md is the against step of the topic academic-papers and evidence/mathematical-writing/review.md is the review step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/against.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "6d91f4adafc3"
+answer = "Keep them apart: evidence/academic-papers/against.md is the against step of the topic academic-papers and evidence/mathematical-writing/state-of-the-art.md is the state-of-the-art step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/baseline.md"
+question = "changed together with evidence/mathematical-writing/against.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "5468eb0a7476"
+answer = "Keep them apart: evidence/academic-papers/baseline.md is the baseline step of the topic academic-papers and evidence/mathematical-writing/against.md is the against step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/protocol.md"
+question = "changed together with evidence/mathematical-writing/protocol.md in 3 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "361225a1c88a"
+answer = "Keep them apart: evidence/academic-papers/protocol.md and evidence/mathematical-writing/protocol.md are the same step file of two sibling topics (academic-papers, mathematical-writing), each one record of a collection, so they belong in their own topic folders. They changed together because the two topics are audited and reworded in one commit (d04203b, a5455ab, 941b0fa); the evidence README already lists both."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/review.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "42a4863adad5"
+answer = "Keep them apart: evidence/academic-papers/review.md and evidence/mathematical-writing/review.md are the same step file of two sibling topics (academic-papers, mathematical-writing), each one record of a collection, so they belong in their own topic folders. They changed together because the two topics are audited and reworded in one commit (d04203b, a5455ab, 941b0fa); the evidence README already lists both."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/review.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "42a4863adad5"
+answer = "Keep them apart: evidence/academic-papers/review.md is the review step of the topic academic-papers and evidence/mathematical-writing/state-of-the-art.md is the state-of-the-art step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/sources.md"
+question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "45a46e8ce4fb"
+answer = "Keep them apart: evidence/academic-papers/sources.md and evidence/mathematical-writing/sources.md are the same step file of two sibling topics (academic-papers, mathematical-writing), each one record of a collection, so they belong in their own topic folders. They changed together because the two topics are audited and reworded in one commit (d04203b, a5455ab, 941b0fa); the evidence README already lists both."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/state-of-the-art.md"
+question = "changed together with evidence/mathematical-writing/review.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "2dd7175ba4d0"
+answer = "Keep them apart: evidence/academic-papers/state-of-the-art.md is the state-of-the-art step of the topic academic-papers and evidence/mathematical-writing/review.md is the review step of mathematical-writing, so each sits with its own topic's other steps. They changed together because one audit commit corrected numbers across both topics (d04203b, a5455ab, 941b0fa, e4ecfa2); a link between them, not a shared folder, is the right relation."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/state-of-the-art.md"
+question = "changed together with evidence/mathematical-writing/state-of-the-art.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "2dd7175ba4d0"
+answer = "Keep them apart: evidence/academic-papers/state-of-the-art.md and evidence/mathematical-writing/state-of-the-art.md are the same step file of two sibling topics (academic-papers, mathematical-writing), each one record of a collection, so they belong in their own topic folders. They changed together because the two topics are audited and reworded in one commit (d04203b, a5455ab, 941b0fa); the evidence README already lists both."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/frame.md"
+question = "says nearly what evidence/reports/frame.md (line 3) says, similarity 0.93: one fact in two places?"
+file = "a9837e6f7aa3"
+answer = "No: the two sentences are the same opening frame for two topics and differ in the subject, `lists what the fields that study papers call its parts` against `reports` in evidence/reports/frame.md; each states what its own frame file does, so no fact is held twice."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 170) says, similarity 0.92: one fact in two places?"
+file = "45a46e8ce4fb"
+answer = "No, a format note per table: `For a grey source it holds the score out of 20 with the eight subtotals A to T` describes this file's own Pool table, as the reports file does for its second-pass rows; the definition of the subtotals is held once, in the evidence README, which both link."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 65) says, similarity 0.91: one fact in two places?"
+file = "45a46e8ce4fb"
+answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/academic-papers/README.md"
+question = "reads about equally as explanation and reference: one mode per document?"
+file = "1b4717d2d778"
+answer = "One mode, lookup: it is the topic's index and claims table, as its subtitle says: `how a research article is ordered (IMRaD and its abstract)`; the two lines of explanation only introduce the table. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/academic-papers/against.md"
+question = "reads about equally as reference and explanation: one mode per document?"
+file = "6d91f4adafc3"
+answer = "One mode, lookup: a catalogue of counter-evidence, as it opens: `lists the evidence against the standard paper shape, by theme`; the reasons are one clause per bullet beside the source and grade, not an argument. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/frame.md"
+question = "reads about equally as reference and how-to: one mode per document?"
+file = "e83aa8d61200"
+answer = "One mode, lookup: the vocabulary of the field, as it opens: `lists what the fields that study reports call its parts`; the `Sub-questions` table and the two-line `Method` pointer are reference too, with no steps to follow. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/protocol.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "551d0f2aff82"
+answer = "One mode, doing a task: the steps to rerun the search, in its words `so either can be rerun`; the tables of strings are the data of those steps. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/state-of-the-art.md"
+question = "reads about equally as reference and how-to: one mode per document?"
+file = "4f3fba1629e6"
+answer = "One mode, lookup: tables of who holds the record per sub-question, as it opens: `who holds the record on each sub-question`; the `Measured how` column describes a record and gives no procedure. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "shapes/research-paper.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "0afa6cd3326d"
+answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "section-cohesion"
+path = "evidence/reports/against.md"
+question = "section '6. Grids are one teacher's rule' is far from every other section (0.24): a second role?"
+file = "9cf11ede7220"
+answer = "No second role: it is evidence against, like sections 1 to 8, saying why the French grading grids are weak support (`Weights of 7 and 13 out of 20 are choices`)."
+

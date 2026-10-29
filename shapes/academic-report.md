@@ -85,7 +85,7 @@ order and the timing come from Mullins 2002, read in full: interviews with 30 ex
 | A long literature chapter against using each idea where it is needed | a chapter for the thesis, which examiners expect; folded into the introduction for project and technical reports; none for an internship | Holbrook 2007; the internship forms grade no literature (UT 2024) |
 | Thanks at the front against the answer first | acknowledgements at the back | NISO 2010 makes them optional |
 | Topic labels against sentence headings | labels for chapters, claims below them | Lorch 1996 |
-| Impersonal against active voice, and length | the school's rule | untested either way |
+| Impersonal against active voice, and length | the school's rule | untested either way; surveyed NASA readers preferred the third person (Pinelli 1984), a stated preference, not a test |
 
 ## The principles it applies
 

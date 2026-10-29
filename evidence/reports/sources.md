@@ -8,8 +8,8 @@ Every source the two passes on reports included or set aside, each with its grad
 |---|---|---|
 | Listed by the strings (323 in all) | 150 (E 47 + F 103) | 173 (G) |
 | Included | 11 | 7 |
-| Read in full (or the part opened) | 10 (Nesi 2012, chapter 1; and, on 2026-10-29, Gardner 2013, Mullins 2002, Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Lorch 1996, Pinelli 1997) | 6 (NISO 2010, Pinelli 1982, TSE 2017, EOST 2026, INSPE 2021, Sheffield 2017) |
-| Read as abstract or record page | 1 (Pinelli 1984) | 0 |
+| Read in full (or the part opened) | 11 (Nesi 2012, chapter 1; and, on 2026-10-29, Gardner 2013, Mullins 2002, Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Lorch 1996, Pinelli 1984, Pinelli 1997) | 6 (NISO 2010, Pinelli 1982, TSE 2017, EOST 2026, INSPE 2021, Sheffield 2017) |
+| Read as abstract or record page | 0 | 0 |
 | Metadata verified, nothing else read | 0 | 1 (ISO 1986) |
 
 - The 11 formal include Gardner 2013, Nesi 2012, Mullins 2002, Kiley 2004, Paltridge 2002, Bunton 2005, Holbrook 2007, Bourke 2013, Lorch 1996, Pinelli 1984 and Pinelli 1997.
@@ -77,7 +77,7 @@ Of 7 grey sources, 2 score below 10: TSE 2017 (9.5) and EOST 2026 (9). Both sour
 | Holbrook 2007 | formal | F3 | supported with caveat (full text) | review, academic-report shape |
 | Bourke 2013 | formal | F3 | supported with caveat (full text) | review |
 | Lorch 1996 | formal | F4 | measured (full text) | review, state-of-the-art, against |
-| Pinelli 1984 | formal | G9 | measured, descriptive (record read; preferences only) | review, against |
+| Pinelli 1984 | formal | G9 | measured, descriptive (full text, 2026-10-29; stated preferences of 838 respondents) | review, against |
 | Pinelli 1997 | formal | G10 | measured, descriptive (full text); a 1996 replication of the 1981 survey, usable and citable | listed, not used |
 | NISO 2010 | grey tier 1 | G1 | 16.5: A4 M4 O3 D1 P1 N1.5 I1 T1 | review, baseline |
 | ISO 1986 | grey tier 1 | G2 | 11 on the catalogue record: A4 M0.5 O3 D1 P0 N0.5 I1 T1 | review |

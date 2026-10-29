@@ -6,7 +6,7 @@ This file gathers the evidence against the claims of this review, and the limits
 
 - Pinelli 1982 is a 1982 survey of NASA Langley engineers and scientists plus members of three societies; it asks what readers say they read, not what helps them.
 - Its respondents are mostly researchers (about 70%) and do not include students, examiners or French readers.
-- The part of the 1984 article on managers and non-managers (Pinelli 1984) was not read beyond its record, so a split by role is not claimed.
+- Pinelli 1984, read in full on 2026-10-29, splits the answers by role: 205 technical managers and 633 non-managers. Their preferences were very similar on every format question, so the role makes little difference among these readers. Its counts are close to Pinelli 1982's, and it is probably the same survey split by role; the article does not say so, so this is an inference.
 
 ## 2. Interviews are opinion
 

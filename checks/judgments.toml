@@ -25,13 +25,6 @@ answer = "One role: the reading log of this topic's literature, strand by strand
 
 [[answer]]
 check = "logical-lines"
-path = "evidence/academic-papers/sources.md"
-question = "215 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "9a146e366e5a"
-answer = "One role: the flow and the scored table of this topic's pool, as its opening says: `one scored row per source`. It stays whole."
-
-[[answer]]
-check = "logical-lines"
 path = "evidence/mathematical-writing/protocol.md"
 question = "91 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
 file = "45cf96d2e421"
@@ -171,13 +164,6 @@ file = "45a46e8ce4fb"
 answer = "No, a format note per table: `For a grey source it holds the score out of 20 with the eight subtotals A to T` describes this file's own Pool table, as the reports file does for its second-pass rows; the definition of the subtotals is held once, in the evidence README, which both link."
 
 [[answer]]
-check = "paraphrase"
-path = "evidence/academic-papers/sources.md"
-question = "says nearly what evidence/reports/sources.md (line 65) says, similarity 0.91: one fact in two places?"
-file = "45a46e8ce4fb"
-answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
-
-[[answer]]
 check = "document-mode"
 path = "evidence/academic-papers/README.md"
 question = "reads about equally as explanation and reference: one mode per document?"
@@ -186,31 +172,10 @@ answer = "One mode, lookup: it is the topic's index and claims table, as its sub
 
 [[answer]]
 check = "document-mode"
-path = "evidence/academic-papers/against.md"
-question = "reads about equally as reference and explanation: one mode per document?"
-file = "6d91f4adafc3"
-answer = "One mode, lookup: a catalogue of counter-evidence, as it opens: `lists the evidence against the standard paper shape, by theme`; the reasons are one clause per bullet beside the source and grade, not an argument. It stays."
-
-[[answer]]
-check = "document-mode"
 path = "evidence/reports/frame.md"
 question = "reads about equally as reference and how-to: one mode per document?"
 file = "e83aa8d61200"
 answer = "One mode, lookup: the vocabulary of the field, as it opens: `lists what the fields that study reports call its parts`; the `Sub-questions` table and the two-line `Method` pointer are reference too, with no steps to follow. It stays."
-
-[[answer]]
-check = "document-mode"
-path = "evidence/reports/protocol.md"
-question = "reads about equally as how-to and reference: one mode per document?"
-file = "551d0f2aff82"
-answer = "One mode, doing a task: the steps to rerun the search, in its words `so either can be rerun`; the tables of strings are the data of those steps. It stays."
-
-[[answer]]
-check = "document-mode"
-path = "evidence/reports/state-of-the-art.md"
-question = "reads about equally as reference and how-to: one mode per document?"
-file = "4f3fba1629e6"
-answer = "One mode, lookup: tables of who holds the record per sub-question, as it opens: `who holds the record on each sub-question`; the `Measured how` column describes a record and gives no procedure. It stays."
 
 [[answer]]
 check = "section-cohesion"
@@ -262,8 +227,71 @@ file = "0aa304c2ff41"
 answer = "Keep them apart and let each stand: evidence/README.md indexes the topics and shapes/README.md indexes the shapes, two roles. They changed together because both carry the pinned link to the standard's v1.1.1 release (c0bb01c, c366dac) and both gained a row when the report was added (1c91862)."
 
 [[answer]]
+check = "logical-lines"
+path = "evidence/academic-papers/sources.md"
+question = "216 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "2678dd46199c"
+answer = "One role: the flow and the scored table of this topic's pool, as its opening says: `one scored row per source`. It stays whole."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 170) says, similarity 0.92: one fact in two places?"
+file = "2678dd46199c"
+answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
+
+[[answer]]
+check = "paraphrase"
+path = "evidence/academic-papers/sources.md"
+question = "says nearly what evidence/reports/sources.md (line 65) says, similarity 0.91: one fact in two places?"
+file = "2678dd46199c"
+answer = "No, a format note per table: `The quality column holds the evidence grade for a formal source` describes this file's own Pool table, and the reports file says the same of its first-pass table; the scoring itself is defined once, in the evidence README, which both link."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/academic-papers/against.md"
+question = "reads about equally as reference and explanation: one mode per document?"
+file = "81353f92754f"
+answer = "One mode, lookup: a catalogue of counter-evidence, as it opens: `lists the evidence against the standard paper shape, by theme`; the reasons are one clause per bullet beside the source and grade, not an argument. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/protocol.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "6baac318747f"
+answer = "One mode, doing a task: the steps to rerun the search, in its words `so either can be rerun`; the tables of strings are the data of those steps. It stays."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/state-of-the-art.md"
+question = "reads about equally as reference and how-to: one mode per document?"
+file = "b37db90381bf"
+answer = "One mode, lookup: tables of who holds the record per sub-question, as it opens: `who holds the record on each sub-question`; the `Measured how` column describes a record and gives no procedure. It stays."
+
+[[answer]]
 check = "document-mode"
 path = "shapes/research-paper.md"
 question = "reads about equally as how-to and reference: one mode per document?"
-file = "d1db5e208ddc"
+file = "1fe8c94cdfae"
 answer = "One mode, doing a task: a shape to write a paper to, ending in the `Skeleton` to copy (`Copy this into a new file`); the table `How each part maps to the evidence` is the stated reason for each step and sits in front of it. It stays."
+
+[[answer]]
+check = "co-change"
+path = "evidence/README.md"
+question = "changed together with shapes/README.md in 5 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "0aa304c2ff41"
+answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
+
+[[answer]]
+check = "co-change"
+path = "evidence/academic-papers/sources.md"
+question = "changed together with evidence/mathematical-writing/sources.md in 3 commits (75% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
+file = "2678dd46199c"
+answer = "Keep them apart: each is the source list of its own topic (`This file lists every source in the pool of this review`), in its own topic folder. They change together when one fix touches every topic at once (an audit, the citation keys, the figure outlines), which is not shared content."
+
+[[answer]]
+check = "document-mode"
+path = "evidence/reports/review.md"
+question = "reads about equally as how-to and reference: one mode per document?"
+file = "80490bd8726c"
+answer = "One mode, understanding why, with look-up tables: it reports what the literature found (`Existing reviews first, then the seminal work by strand`), each finding graded (`Each strand's findings are graded`). It gives no procedure; how to write a report is shapes/academic-report.md."

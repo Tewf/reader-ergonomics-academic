@@ -330,3 +330,10 @@ path = "evidence/README.md"
 question = "changed together with shapes/README.md in 7 commits (100% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
 file = "6d519ca0b90c"
 answer = "Keep them apart: evidence/README.md indexes the reviews (`One literature review per topic`) and shapes/README.md indexes the templates, two roles. They change together because both carry the pinned link to the standard's release and both gain a row when a genre is added, which is not shared content."
+
+[[answer]]
+check = "document-mode"
+path = "AGENTS.md"
+question = "reads about equally as reference and how-to: one mode per document?"
+file = "c0ae98a7e1b5"
+answer = "One mode, how-to: the steps for changing the repository (`## Before writing`, `## Before handing back`). The rules it lists are steps of that task, and the reference they come from is linked, not repeated."

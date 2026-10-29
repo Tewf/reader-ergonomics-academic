@@ -416,13 +416,6 @@ file = "af8b5b76f2da"
 answer = "Keep it: a front page ends on how to check the repository (`## Check it`), as every repository of the family does; the section is the reader's last step, not a second role."
 
 [[answer]]
-check = "logical-lines"
-path = "shapes/academic-report.md"
-question = "84 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
-file = "275037de740e"
-answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."
-
-[[answer]]
 check = "co-change"
 path = "evidence/academic-papers/baseline.md"
 question = "changed together with evidence/mathematical-writing/against.md in 4 commits (80% of the rarer one's), from another folder: should they share a folder, or should one link to the other?"
@@ -463,3 +456,10 @@ path = "README.fr.md"
 question = "reads about equally as how-to and reference: one mode per document?"
 file = "6372b13030a3"
 answer = "One mode, reference: the front page says what the repository holds and where (`## Contenu`); its one procedure, `## Le vérifier`, is the command that checks it, as on the English page."
+
+[[answer]]
+check = "logical-lines"
+path = "shapes/academic-report.md"
+question = "86 logical lines, past the trigger of 80. State this file's role in one sentence. If the sentence needs 'and', split the file; if not, it may stay."
+file = "7fc39665e920"
+answer = "One role: the shape of an academic report (`# Shape: academic report`), its skeleton and a worked example that fills it. The example teaches the skeleton, so the file stays whole."

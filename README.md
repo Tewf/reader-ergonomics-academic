@@ -28,7 +28,7 @@ python3 reader-ergonomics/checks/run.py my-report
 
 Fix each error, fix or explain each warning, and answer the questions in `my-report/checks/out/needs-judgment.md`. To make the shapes your own, or to disagree with a rule, follow reader-ergonomics' [Take your own version](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/README.md#take-your-own-version): a reader style, an extension or an issue, by what the disagreement is about.
 
-> **Status:** work in progress. Three multivocal reviews are written and audited in [evidence/](evidence/): research
+> **Status:** version 1.0.0, released 2026-10-29. Three multivocal reviews are written and audited in [evidence/](evidence/): research
 > papers and mathematical writing, audited on 2026-10-28, and reports. Each of the four shapes has a skeleton, a LaTeX
 > version and a worked example; the report shape is a first draft. It is an informal reading of published research and practice: not an
 > official standard, not a peer-reviewed study, not a new result, and not a claim to the state of the art.

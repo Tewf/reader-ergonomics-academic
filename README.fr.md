@@ -27,7 +27,7 @@ python3 reader-ergonomics/checks/run.py mon-rapport
 ```
 
 Corrigez chaque erreur, corrigez ou expliquez chaque avertissement, et répondez aux questions de
-`mon-rapport/checks/out/needs-judgment.md`. Pour faire vôtres ces formes, ou pour contester une règle, suivez la section [Take your own version](https://github.com/Tewf/reader-ergonomics/blob/v1.18.2/README.md#take-your-own-version) de reader-ergonomics : un style de lecteur, une extension ou une issue, selon l'objet du désaccord.
+`mon-rapport/checks/out/needs-judgment.md`. Pour faire vôtres ces formes, ou pour contester une règle, suivez la section [Take your own version](https://github.com/Tewf/reader-ergonomics/blob/v1.22.1/README.md#take-your-own-version) de reader-ergonomics : un style de lecteur, une extension ou une issue, selon l'objet du désaccord.
 
 > **État :** version 1.0.0, publiée le 2026-10-29. Trois revues multivocales sont écrites et auditées dans [evidence/](evidence/) : les articles
 > de recherche et l'écriture mathématique, auditées le 2026-10-28, et les rapports. Chacune des quatre formes a un

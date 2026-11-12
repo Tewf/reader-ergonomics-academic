@@ -26,7 +26,7 @@ printf 'extends = "reader-ergonomics"\n[readable_measure]\nstylesheets = []\n[su
 python3 reader-ergonomics/checks/run.py my-report
 ```
 
-Fix each error, fix or explain each warning, and answer the questions in `my-report/checks/out/needs-judgment.md`. To make the shapes your own, or to disagree with a rule, follow reader-ergonomics' [Take your own version](https://github.com/Tewf/reader-ergonomics/blob/v1.22.1/README.md#take-your-own-version): a reader style, an extension or an issue, by what the disagreement is about.
+Fix each error, fix or explain each warning, and answer the questions in `my-report/checks/out/needs-judgment.md`. To make the shapes your own, or to disagree with a rule, follow reader-ergonomics' [Take your own version](https://github.com/Tewf/reader-ergonomics/blob/v1.24.2/README.md#take-your-own-version): a reader style, an extension or an issue, by what the disagreement is about.
 
 > **Status:** version 1.0.0, released 2026-10-29. Three multivocal reviews are written and audited in [evidence/](evidence/): research
 > papers and mathematical writing, audited on 2026-10-28, and reports. Each of the four shapes has a skeleton, a LaTeX
